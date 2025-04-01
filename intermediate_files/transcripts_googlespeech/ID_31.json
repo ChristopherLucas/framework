@@ -1,0 +1,6222 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2021-12-11T21:33:24.535244Z",
+    "progressPercent": 100,
+    "startTime": "2021-12-11T21:32:03.272541Z",
+    "uri": "gs://trimmedspeeches/ID_31_cut.wav"
+  },
+  "name": "1075727582883683517",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.65646595,
+            "transcript": "thank you",
+            "words": [
+              {
+                "endTime": "1.700s",
+                "startTime": "0s",
+                "word": "thank"
+              },
+              {
+                "endTime": "1.900s",
+                "startTime": "1.700s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "4.710s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8422062,
+            "transcript": " thank you thank you so much thank you thank you everyone please take your seats otherwise clean Eastwood will yell at them",
+            "words": [
+              {
+                "endTime": "5.800s",
+                "startTime": "5.200s",
+                "word": "thank"
+              },
+              {
+                "endTime": "6s",
+                "startTime": "5.800s",
+                "word": "you"
+              },
+              {
+                "endTime": "9.600s",
+                "startTime": "6s",
+                "word": "thank"
+              },
+              {
+                "endTime": "9.600s",
+                "startTime": "9.600s",
+                "word": "you"
+              },
+              {
+                "endTime": "9.800s",
+                "startTime": "9.600s",
+                "word": "so"
+              },
+              {
+                "endTime": "10.100s",
+                "startTime": "9.800s",
+                "word": "much"
+              },
+              {
+                "endTime": "10.500s",
+                "startTime": "10.100s",
+                "word": "thank"
+              },
+              {
+                "endTime": "10.500s",
+                "startTime": "10.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "12.100s",
+                "startTime": "10.500s",
+                "word": "thank"
+              },
+              {
+                "endTime": "12.600s",
+                "startTime": "12.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "14.500s",
+                "startTime": "12.700s",
+                "word": "everyone"
+              },
+              {
+                "endTime": "14.700s",
+                "startTime": "14.500s",
+                "word": "please"
+              },
+              {
+                "endTime": "14.800s",
+                "startTime": "14.700s",
+                "word": "take"
+              },
+              {
+                "endTime": "15.100s",
+                "startTime": "14.800s",
+                "word": "your"
+              },
+              {
+                "endTime": "15.200s",
+                "startTime": "15.100s",
+                "word": "seats"
+              },
+              {
+                "endTime": "16.400s",
+                "startTime": "15.700s",
+                "word": "otherwise"
+              },
+              {
+                "endTime": "16.700s",
+                "startTime": "16.400s",
+                "word": "clean"
+              },
+              {
+                "endTime": "17.200s",
+                "startTime": "16.700s",
+                "word": "Eastwood"
+              },
+              {
+                "endTime": "17.900s",
+                "startTime": "17.200s",
+                "word": "will"
+              },
+              {
+                "endTime": "18.200s",
+                "startTime": "17.900s",
+                "word": "yell"
+              },
+              {
+                "endTime": "18.300s",
+                "startTime": "18.200s",
+                "word": "at"
+              },
+              {
+                "endTime": "18.600s",
+                "startTime": "18.300s",
+                "word": "them"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "19.570s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "22.540s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "26.450s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7862976,
+            "transcript": " thank you to Al and Nan to your eminence",
+            "words": [
+              {
+                "endTime": "29.300s",
+                "startTime": "28.800s",
+                "word": "thank"
+              },
+              {
+                "endTime": "29.400s",
+                "startTime": "29.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "29.700s",
+                "startTime": "29.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "30.700s",
+                "startTime": "29.700s",
+                "word": "Al"
+              },
+              {
+                "endTime": "30.800s",
+                "startTime": "30.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "31.300s",
+                "startTime": "30.800s",
+                "word": "Nan"
+              },
+              {
+                "endTime": "32.200s",
+                "startTime": "31.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "32.300s",
+                "startTime": "32.200s",
+                "word": "your"
+              },
+              {
+                "endTime": "32.700s",
+                "startTime": "32.300s",
+                "word": "eminence"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "33.310s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8698225,
+            "transcript": " Governor Mitt Romney Governor Cuomo Mayor Bloomberg Senator Schumer all the distinguished guests who are here",
+            "words": [
+              {
+                "endTime": "34.400s",
+                "startTime": "33.600s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "35.500s",
+                "startTime": "34.400s",
+                "word": "Mitt"
+              },
+              {
+                "endTime": "36s",
+                "startTime": "35.500s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "36.700s",
+                "startTime": "36s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "37.300s",
+                "startTime": "36.700s",
+                "word": "Cuomo"
+              },
+              {
+                "endTime": "38.300s",
+                "startTime": "37.300s",
+                "word": "Mayor"
+              },
+              {
+                "endTime": "38.800s",
+                "startTime": "38.300s",
+                "word": "Bloomberg"
+              },
+              {
+                "endTime": "39.900s",
+                "startTime": "38.800s",
+                "word": "Senator"
+              },
+              {
+                "endTime": "40.300s",
+                "startTime": "39.900s",
+                "word": "Schumer"
+              },
+              {
+                "endTime": "41.600s",
+                "startTime": "40.300s",
+                "word": "all"
+              },
+              {
+                "endTime": "41.700s",
+                "startTime": "41.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "42.100s",
+                "startTime": "41.700s",
+                "word": "distinguished"
+              },
+              {
+                "endTime": "42.600s",
+                "startTime": "42.100s",
+                "word": "guests"
+              },
+              {
+                "endTime": "42.700s",
+                "startTime": "42.600s",
+                "word": "who"
+              },
+              {
+                "endTime": "42.800s",
+                "startTime": "42.700s",
+                "word": "are"
+              },
+              {
+                "endTime": "42.900s",
+                "startTime": "42.800s",
+                "word": "here"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "43.630s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86985743,
+            "transcript": " in less than three weeks voters and States like Ohio Virginia and Florida will decide this incredibly important election which begs the question what are we doing here",
+            "words": [
+              {
+                "endTime": "45.100s",
+                "startTime": "44.800s",
+                "word": "in"
+              },
+              {
+                "endTime": "45.300s",
+                "startTime": "45.100s",
+                "word": "less"
+              },
+              {
+                "endTime": "45.400s",
+                "startTime": "45.300s",
+                "word": "than"
+              },
+              {
+                "endTime": "45.600s",
+                "startTime": "45.400s",
+                "word": "three"
+              },
+              {
+                "endTime": "45.700s",
+                "startTime": "45.600s",
+                "word": "weeks"
+              },
+              {
+                "endTime": "47.400s",
+                "startTime": "45.700s",
+                "word": "voters"
+              },
+              {
+                "endTime": "47.600s",
+                "startTime": "47.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "48s",
+                "startTime": "47.600s",
+                "word": "States"
+              },
+              {
+                "endTime": "48s",
+                "startTime": "48s",
+                "word": "like"
+              },
+              {
+                "endTime": "48.600s",
+                "startTime": "48s",
+                "word": "Ohio"
+              },
+              {
+                "endTime": "49.600s",
+                "startTime": "48.900s",
+                "word": "Virginia"
+              },
+              {
+                "endTime": "49.700s",
+                "startTime": "49.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "49.800s",
+                "startTime": "49.700s",
+                "word": "Florida"
+              },
+              {
+                "endTime": "50.400s",
+                "startTime": "49.800s",
+                "word": "will"
+              },
+              {
+                "endTime": "51.500s",
+                "startTime": "50.400s",
+                "word": "decide"
+              },
+              {
+                "endTime": "52.300s",
+                "startTime": "51.500s",
+                "word": "this"
+              },
+              {
+                "endTime": "53s",
+                "startTime": "52.300s",
+                "word": "incredibly"
+              },
+              {
+                "endTime": "53.100s",
+                "startTime": "53s",
+                "word": "important"
+              },
+              {
+                "endTime": "53.900s",
+                "startTime": "53.100s",
+                "word": "election"
+              },
+              {
+                "endTime": "55.300s",
+                "startTime": "53.900s",
+                "word": "which"
+              },
+              {
+                "endTime": "55.600s",
+                "startTime": "55.300s",
+                "word": "begs"
+              },
+              {
+                "endTime": "55.700s",
+                "startTime": "55.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "55.800s",
+                "startTime": "55.700s",
+                "word": "question"
+              },
+              {
+                "endTime": "57.200s",
+                "startTime": "55.800s",
+                "word": "what"
+              },
+              {
+                "endTime": "57.300s",
+                "startTime": "57.200s",
+                "word": "are"
+              },
+              {
+                "endTime": "57.400s",
+                "startTime": "57.300s",
+                "word": "we"
+              },
+              {
+                "endTime": "57.700s",
+                "startTime": "57.400s",
+                "word": "doing"
+              },
+              {
+                "endTime": "57.800s",
+                "startTime": "57.700s",
+                "word": "here"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "64.080s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "66.330s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8416606,
+            "transcript": " of course New Yorkers also have a big choice to make you have to decide which one of us you want holding up traffic for the next four years",
+            "words": [
+              {
+                "endTime": "67.700s",
+                "startTime": "67.400s",
+                "word": "of"
+              },
+              {
+                "endTime": "68s",
+                "startTime": "67.700s",
+                "word": "course"
+              },
+              {
+                "endTime": "68.100s",
+                "startTime": "68s",
+                "word": "New"
+              },
+              {
+                "endTime": "68.700s",
+                "startTime": "68.100s",
+                "word": "Yorkers"
+              },
+              {
+                "endTime": "69.200s",
+                "startTime": "68.700s",
+                "word": "also"
+              },
+              {
+                "endTime": "69.400s",
+                "startTime": "69.200s",
+                "word": "have"
+              },
+              {
+                "endTime": "69.400s",
+                "startTime": "69.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "69.600s",
+                "startTime": "69.400s",
+                "word": "big"
+              },
+              {
+                "endTime": "69.800s",
+                "startTime": "69.600s",
+                "word": "choice"
+              },
+              {
+                "endTime": "70s",
+                "startTime": "69.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "70.300s",
+                "startTime": "70s",
+                "word": "make"
+              },
+              {
+                "endTime": "71.400s",
+                "startTime": "70.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "71.600s",
+                "startTime": "71.400s",
+                "word": "have"
+              },
+              {
+                "endTime": "71.700s",
+                "startTime": "71.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "71.900s",
+                "startTime": "71.700s",
+                "word": "decide"
+              },
+              {
+                "endTime": "72.600s",
+                "startTime": "71.900s",
+                "word": "which"
+              },
+              {
+                "endTime": "72.800s",
+                "startTime": "72.600s",
+                "word": "one"
+              },
+              {
+                "endTime": "72.900s",
+                "startTime": "72.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "73s",
+                "startTime": "72.900s",
+                "word": "us"
+              },
+              {
+                "endTime": "73.300s",
+                "startTime": "73s",
+                "word": "you"
+              },
+              {
+                "endTime": "73.600s",
+                "startTime": "73.300s",
+                "word": "want"
+              },
+              {
+                "endTime": "74s",
+                "startTime": "73.600s",
+                "word": "holding"
+              },
+              {
+                "endTime": "74.100s",
+                "startTime": "74s",
+                "word": "up"
+              },
+              {
+                "endTime": "74.300s",
+                "startTime": "74.100s",
+                "word": "traffic"
+              },
+              {
+                "endTime": "74.700s",
+                "startTime": "74.300s",
+                "word": "for"
+              },
+              {
+                "endTime": "74.900s",
+                "startTime": "74.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "74.900s",
+                "startTime": "74.900s",
+                "word": "next"
+              },
+              {
+                "endTime": "75.200s",
+                "startTime": "74.900s",
+                "word": "four"
+              },
+              {
+                "endTime": "75.300s",
+                "startTime": "75.200s",
+                "word": "years"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8312261,
+            "transcript": " of course New Yorkers also have a big choice to make you have to decide which one of us you want holding up traffic for the next 4 years"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "78.060s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86267054,
+            "transcript": " tonight I am here with a man whose father was a popular governor and who knows what it's like to run a major Northeastern State and who could very well be president someday and I'm hoping it is Andrew Cuomo",
+            "words": [
+              {
+                "endTime": "80.700s",
+                "startTime": "80.200s",
+                "word": "tonight"
+              },
+              {
+                "endTime": "80.800s",
+                "startTime": "80.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "81.100s",
+                "startTime": "80.800s",
+                "word": "am"
+              },
+              {
+                "endTime": "81.300s",
+                "startTime": "81.100s",
+                "word": "here"
+              },
+              {
+                "endTime": "81.500s",
+                "startTime": "81.300s",
+                "word": "with"
+              },
+              {
+                "endTime": "81.500s",
+                "startTime": "81.500s",
+                "word": "a"
+              },
+              {
+                "endTime": "81.800s",
+                "startTime": "81.500s",
+                "word": "man"
+              },
+              {
+                "endTime": "81.900s",
+                "startTime": "81.800s",
+                "word": "whose"
+              },
+              {
+                "endTime": "82.200s",
+                "startTime": "81.900s",
+                "word": "father"
+              },
+              {
+                "endTime": "82.300s",
+                "startTime": "82.200s",
+                "word": "was"
+              },
+              {
+                "endTime": "82.400s",
+                "startTime": "82.300s",
+                "word": "a"
+              },
+              {
+                "endTime": "82.800s",
+                "startTime": "82.400s",
+                "word": "popular"
+              },
+              {
+                "endTime": "83.200s",
+                "startTime": "82.800s",
+                "word": "governor"
+              },
+              {
+                "endTime": "83.500s",
+                "startTime": "83.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "84s",
+                "startTime": "83.900s",
+                "word": "who"
+              },
+              {
+                "endTime": "84.200s",
+                "startTime": "84s",
+                "word": "knows"
+              },
+              {
+                "endTime": "84.300s",
+                "startTime": "84.200s",
+                "word": "what"
+              },
+              {
+                "endTime": "84.500s",
+                "startTime": "84.300s",
+                "word": "it's"
+              },
+              {
+                "endTime": "84.700s",
+                "startTime": "84.500s",
+                "word": "like"
+              },
+              {
+                "endTime": "84.800s",
+                "startTime": "84.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "84.900s",
+                "startTime": "84.800s",
+                "word": "run"
+              },
+              {
+                "endTime": "85s",
+                "startTime": "84.900s",
+                "word": "a"
+              },
+              {
+                "endTime": "85.300s",
+                "startTime": "85s",
+                "word": "major"
+              },
+              {
+                "endTime": "85.900s",
+                "startTime": "85.300s",
+                "word": "Northeastern"
+              },
+              {
+                "endTime": "86.400s",
+                "startTime": "85.900s",
+                "word": "State"
+              },
+              {
+                "endTime": "86.600s",
+                "startTime": "86.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "86.700s",
+                "startTime": "86.600s",
+                "word": "who"
+              },
+              {
+                "endTime": "87.200s",
+                "startTime": "86.700s",
+                "word": "could"
+              },
+              {
+                "endTime": "87.800s",
+                "startTime": "87.500s",
+                "word": "very"
+              },
+              {
+                "endTime": "88s",
+                "startTime": "87.800s",
+                "word": "well"
+              },
+              {
+                "endTime": "88.200s",
+                "startTime": "88s",
+                "word": "be"
+              },
+              {
+                "endTime": "88.600s",
+                "startTime": "88.200s",
+                "word": "president"
+              },
+              {
+                "endTime": "89.100s",
+                "startTime": "88.600s",
+                "word": "someday"
+              },
+              {
+                "endTime": "89.300s",
+                "startTime": "89.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "89.400s",
+                "startTime": "89.300s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "89.800s",
+                "startTime": "89.400s",
+                "word": "hoping"
+              },
+              {
+                "endTime": "90s",
+                "startTime": "89.800s",
+                "word": "it"
+              },
+              {
+                "endTime": "90.200s",
+                "startTime": "90s",
+                "word": "is"
+              },
+              {
+                "endTime": "90.600s",
+                "startTime": "90.200s",
+                "word": "Andrew"
+              },
+              {
+                "endTime": "91.100s",
+                "startTime": "90.600s",
+                "word": "Cuomo"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "93.660s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "95.200s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.87965196,
+            "transcript": " this is the third time that Governor Romney and I have met recently as some of you may have noticed I had a lot more energy in our second debate I found really well rested after the nice long nap I had in the first debate",
+            "words": [
+              {
+                "endTime": "97.100s",
+                "startTime": "95.400s",
+                "word": "this"
+              },
+              {
+                "endTime": "97.400s",
+                "startTime": "97.100s",
+                "word": "is"
+              },
+              {
+                "endTime": "97.700s",
+                "startTime": "97.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "97.900s",
+                "startTime": "97.700s",
+                "word": "third"
+              },
+              {
+                "endTime": "98s",
+                "startTime": "97.900s",
+                "word": "time"
+              },
+              {
+                "endTime": "98.400s",
+                "startTime": "98s",
+                "word": "that"
+              },
+              {
+                "endTime": "99s",
+                "startTime": "98.700s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "99.200s",
+                "startTime": "99s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "99.300s",
+                "startTime": "99.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "99.500s",
+                "startTime": "99.300s",
+                "word": "I"
+              },
+              {
+                "endTime": "99.800s",
+                "startTime": "99.500s",
+                "word": "have"
+              },
+              {
+                "endTime": "100.600s",
+                "startTime": "99.800s",
+                "word": "met"
+              },
+              {
+                "endTime": "100.700s",
+                "startTime": "100.600s",
+                "word": "recently"
+              },
+              {
+                "endTime": "101.800s",
+                "startTime": "100.700s",
+                "word": "as"
+              },
+              {
+                "endTime": "102s",
+                "startTime": "101.800s",
+                "word": "some"
+              },
+              {
+                "endTime": "102.100s",
+                "startTime": "102s",
+                "word": "of"
+              },
+              {
+                "endTime": "102.200s",
+                "startTime": "102.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "102.400s",
+                "startTime": "102.200s",
+                "word": "may"
+              },
+              {
+                "endTime": "102.400s",
+                "startTime": "102.400s",
+                "word": "have"
+              },
+              {
+                "endTime": "102.700s",
+                "startTime": "102.400s",
+                "word": "noticed"
+              },
+              {
+                "endTime": "103.300s",
+                "startTime": "102.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "103.500s",
+                "startTime": "103.300s",
+                "word": "had"
+              },
+              {
+                "endTime": "103.600s",
+                "startTime": "103.500s",
+                "word": "a"
+              },
+              {
+                "endTime": "103.700s",
+                "startTime": "103.600s",
+                "word": "lot"
+              },
+              {
+                "endTime": "103.700s",
+                "startTime": "103.700s",
+                "word": "more"
+              },
+              {
+                "endTime": "103.900s",
+                "startTime": "103.700s",
+                "word": "energy"
+              },
+              {
+                "endTime": "104.300s",
+                "startTime": "103.900s",
+                "word": "in"
+              },
+              {
+                "endTime": "104.300s",
+                "startTime": "104.300s",
+                "word": "our"
+              },
+              {
+                "endTime": "104.700s",
+                "startTime": "104.300s",
+                "word": "second"
+              },
+              {
+                "endTime": "104.800s",
+                "startTime": "104.700s",
+                "word": "debate"
+              },
+              {
+                "endTime": "106.900s",
+                "startTime": "105.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "107.300s",
+                "startTime": "106.900s",
+                "word": "found"
+              },
+              {
+                "endTime": "107.400s",
+                "startTime": "107.300s",
+                "word": "really"
+              },
+              {
+                "endTime": "107.700s",
+                "startTime": "107.400s",
+                "word": "well"
+              },
+              {
+                "endTime": "107.900s",
+                "startTime": "107.700s",
+                "word": "rested"
+              },
+              {
+                "endTime": "108.600s",
+                "startTime": "107.900s",
+                "word": "after"
+              },
+              {
+                "endTime": "109.200s",
+                "startTime": "108.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "109.500s",
+                "startTime": "109.200s",
+                "word": "nice"
+              },
+              {
+                "endTime": "109.700s",
+                "startTime": "109.500s",
+                "word": "long"
+              },
+              {
+                "endTime": "110s",
+                "startTime": "109.700s",
+                "word": "nap"
+              },
+              {
+                "endTime": "110.200s",
+                "startTime": "110s",
+                "word": "I"
+              },
+              {
+                "endTime": "110.500s",
+                "startTime": "110.200s",
+                "word": "had"
+              },
+              {
+                "endTime": "110.600s",
+                "startTime": "110.500s",
+                "word": "in"
+              },
+              {
+                "endTime": "110.700s",
+                "startTime": "110.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "110.800s",
+                "startTime": "110.700s",
+                "word": "first"
+              },
+              {
+                "endTime": "111.100s",
+                "startTime": "110.800s",
+                "word": "debate"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "112.600s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "120.110s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8321144,
+            "transcript": " although it turns out millions of Americans focused in on the second debate who didn't focus in on the first debate and I happen to be one of them",
+            "words": [
+              {
+                "endTime": "122.700s",
+                "startTime": "122.400s",
+                "word": "although"
+              },
+              {
+                "endTime": "122.800s",
+                "startTime": "122.700s",
+                "word": "it"
+              },
+              {
+                "endTime": "123.100s",
+                "startTime": "122.800s",
+                "word": "turns"
+              },
+              {
+                "endTime": "123.300s",
+                "startTime": "123.100s",
+                "word": "out"
+              },
+              {
+                "endTime": "123.800s",
+                "startTime": "123.300s",
+                "word": "millions"
+              },
+              {
+                "endTime": "123.900s",
+                "startTime": "123.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "124.400s",
+                "startTime": "123.900s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "124.900s",
+                "startTime": "124.400s",
+                "word": "focused"
+              },
+              {
+                "endTime": "125s",
+                "startTime": "124.900s",
+                "word": "in"
+              },
+              {
+                "endTime": "125.100s",
+                "startTime": "125s",
+                "word": "on"
+              },
+              {
+                "endTime": "125.200s",
+                "startTime": "125.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "125.500s",
+                "startTime": "125.200s",
+                "word": "second"
+              },
+              {
+                "endTime": "126.300s",
+                "startTime": "125.500s",
+                "word": "debate"
+              },
+              {
+                "endTime": "126.800s",
+                "startTime": "126.300s",
+                "word": "who"
+              },
+              {
+                "endTime": "127s",
+                "startTime": "126.800s",
+                "word": "didn't"
+              },
+              {
+                "endTime": "127.300s",
+                "startTime": "127s",
+                "word": "focus"
+              },
+              {
+                "endTime": "128s",
+                "startTime": "127.300s",
+                "word": "in"
+              },
+              {
+                "endTime": "128.100s",
+                "startTime": "128s",
+                "word": "on"
+              },
+              {
+                "endTime": "128.200s",
+                "startTime": "128.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "128.400s",
+                "startTime": "128.200s",
+                "word": "first"
+              },
+              {
+                "endTime": "128.800s",
+                "startTime": "128.400s",
+                "word": "debate"
+              },
+              {
+                "endTime": "129s",
+                "startTime": "128.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "129.700s",
+                "startTime": "129s",
+                "word": "I"
+              },
+              {
+                "endTime": "130s",
+                "startTime": "129.700s",
+                "word": "happen"
+              },
+              {
+                "endTime": "130s",
+                "startTime": "130s",
+                "word": "to"
+              },
+              {
+                "endTime": "130.100s",
+                "startTime": "130s",
+                "word": "be"
+              },
+              {
+                "endTime": "130.300s",
+                "startTime": "130.100s",
+                "word": "one"
+              },
+              {
+                "endTime": "130.300s",
+                "startTime": "130.300s",
+                "word": "of"
+              },
+              {
+                "endTime": "130.600s",
+                "startTime": "130.300s",
+                "word": "them"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8361154,
+            "transcript": " although it turns out millions of Americans focused in on the second debate who didn't focus in on the first debate and I happened to be one of them"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "132.100s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9103562,
+            "transcript": " I particularly want to apologize to Chris Matthews",
+            "words": [
+              {
+                "endTime": "134.300s",
+                "startTime": "134.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "134.700s",
+                "startTime": "134.300s",
+                "word": "particularly"
+              },
+              {
+                "endTime": "134.800s",
+                "startTime": "134.700s",
+                "word": "want"
+              },
+              {
+                "endTime": "134.900s",
+                "startTime": "134.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "135.500s",
+                "startTime": "134.900s",
+                "word": "apologize"
+              },
+              {
+                "endTime": "135.600s",
+                "startTime": "135.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "135.800s",
+                "startTime": "135.600s",
+                "word": "Chris"
+              },
+              {
+                "endTime": "136.500s",
+                "startTime": "135.800s",
+                "word": "Matthews"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "136.890s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8390781,
+            "transcript": " four years ago I gave him a thrill up his leg",
+            "words": [
+              {
+                "endTime": "138.800s",
+                "startTime": "138.400s",
+                "word": "four"
+              },
+              {
+                "endTime": "139.100s",
+                "startTime": "138.800s",
+                "word": "years"
+              },
+              {
+                "endTime": "139.200s",
+                "startTime": "139.100s",
+                "word": "ago"
+              },
+              {
+                "endTime": "140.100s",
+                "startTime": "139.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "140.300s",
+                "startTime": "140.100s",
+                "word": "gave"
+              },
+              {
+                "endTime": "140.500s",
+                "startTime": "140.300s",
+                "word": "him"
+              },
+              {
+                "endTime": "140.500s",
+                "startTime": "140.500s",
+                "word": "a"
+              },
+              {
+                "endTime": "140.800s",
+                "startTime": "140.500s",
+                "word": "thrill"
+              },
+              {
+                "endTime": "140.900s",
+                "startTime": "140.800s",
+                "word": "up"
+              },
+              {
+                "endTime": "141.100s",
+                "startTime": "140.900s",
+                "word": "his"
+              },
+              {
+                "endTime": "141.400s",
+                "startTime": "141.100s",
+                "word": "leg"
+              }
+            ]
+          },
+          {
+            "confidence": 0.78925157,
+            "transcript": " poor years ago I gave him a thrill up his leg"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "142.800s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.703143,
+            "transcript": " this time around I gave him a stroke",
+            "words": [
+              {
+                "endTime": "143.700s",
+                "startTime": "143.300s",
+                "word": "this"
+              },
+              {
+                "endTime": "144s",
+                "startTime": "143.700s",
+                "word": "time"
+              },
+              {
+                "endTime": "144.100s",
+                "startTime": "144s",
+                "word": "around"
+              },
+              {
+                "endTime": "144.300s",
+                "startTime": "144.100s",
+                "word": "I"
+              },
+              {
+                "endTime": "144.500s",
+                "startTime": "144.300s",
+                "word": "gave"
+              },
+              {
+                "endTime": "144.600s",
+                "startTime": "144.500s",
+                "word": "him"
+              },
+              {
+                "endTime": "144.600s",
+                "startTime": "144.600s",
+                "word": "a"
+              },
+              {
+                "endTime": "144.900s",
+                "startTime": "144.600s",
+                "word": "stroke"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "152.230s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.84292823,
+            "transcript": " of course there's a lot of things I learned from that experience for example I learned that there are worse things that can happen to you on your anniversary than forgetting to buy a gift",
+            "words": [
+              {
+                "endTime": "153.300s",
+                "startTime": "152.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "153.600s",
+                "startTime": "153.300s",
+                "word": "course"
+              },
+              {
+                "endTime": "153.800s",
+                "startTime": "153.600s",
+                "word": "there's"
+              },
+              {
+                "endTime": "153.900s",
+                "startTime": "153.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "154s",
+                "startTime": "153.900s",
+                "word": "lot"
+              },
+              {
+                "endTime": "154.100s",
+                "startTime": "154s",
+                "word": "of"
+              },
+              {
+                "endTime": "154.400s",
+                "startTime": "154.100s",
+                "word": "things"
+              },
+              {
+                "endTime": "154.500s",
+                "startTime": "154.400s",
+                "word": "I"
+              },
+              {
+                "endTime": "154.600s",
+                "startTime": "154.500s",
+                "word": "learned"
+              },
+              {
+                "endTime": "154.800s",
+                "startTime": "154.600s",
+                "word": "from"
+              },
+              {
+                "endTime": "154.900s",
+                "startTime": "154.800s",
+                "word": "that"
+              },
+              {
+                "endTime": "155.100s",
+                "startTime": "154.900s",
+                "word": "experience"
+              },
+              {
+                "endTime": "156.700s",
+                "startTime": "155.100s",
+                "word": "for"
+              },
+              {
+                "endTime": "156.800s",
+                "startTime": "156.700s",
+                "word": "example"
+              },
+              {
+                "endTime": "157.600s",
+                "startTime": "156.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "157.900s",
+                "startTime": "157.600s",
+                "word": "learned"
+              },
+              {
+                "endTime": "158.300s",
+                "startTime": "157.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "158.500s",
+                "startTime": "158.300s",
+                "word": "there"
+              },
+              {
+                "endTime": "158.500s",
+                "startTime": "158.500s",
+                "word": "are"
+              },
+              {
+                "endTime": "158.900s",
+                "startTime": "158.500s",
+                "word": "worse"
+              },
+              {
+                "endTime": "159s",
+                "startTime": "158.900s",
+                "word": "things"
+              },
+              {
+                "endTime": "159.400s",
+                "startTime": "159s",
+                "word": "that"
+              },
+              {
+                "endTime": "159.600s",
+                "startTime": "159.400s",
+                "word": "can"
+              },
+              {
+                "endTime": "159.800s",
+                "startTime": "159.600s",
+                "word": "happen"
+              },
+              {
+                "endTime": "160s",
+                "startTime": "159.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "160.100s",
+                "startTime": "160s",
+                "word": "you"
+              },
+              {
+                "endTime": "160.200s",
+                "startTime": "160.100s",
+                "word": "on"
+              },
+              {
+                "endTime": "160.500s",
+                "startTime": "160.200s",
+                "word": "your"
+              },
+              {
+                "endTime": "160.700s",
+                "startTime": "160.500s",
+                "word": "anniversary"
+              },
+              {
+                "endTime": "161.700s",
+                "startTime": "160.700s",
+                "word": "than"
+              },
+              {
+                "endTime": "162s",
+                "startTime": "161.700s",
+                "word": "forgetting"
+              },
+              {
+                "endTime": "162.100s",
+                "startTime": "162s",
+                "word": "to"
+              },
+              {
+                "endTime": "162.300s",
+                "startTime": "162.100s",
+                "word": "buy"
+              },
+              {
+                "endTime": "162.300s",
+                "startTime": "162.300s",
+                "word": "a"
+              },
+              {
+                "endTime": "162.500s",
+                "startTime": "162.300s",
+                "word": "gift"
+              }
+            ]
+          },
+          {
+            "confidence": 0.84749,
+            "transcript": " of course there's a lot of things I learned from that experience for example I learned that there are worst things that can happen to you on your anniversary than forgetting to buy a gift"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "165.010s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8580776,
+            "transcript": " so take note gym",
+            "words": [
+              {
+                "endTime": "167.700s",
+                "startTime": "167.100s",
+                "word": "so"
+              },
+              {
+                "endTime": "170.100s",
+                "startTime": "169.800s",
+                "word": "take"
+              },
+              {
+                "endTime": "170.300s",
+                "startTime": "170.100s",
+                "word": "note"
+              },
+              {
+                "endTime": "170.700s",
+                "startTime": "170.300s",
+                "word": "gym"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7736754,
+            "transcript": " so take note Jim"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "171.490s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89499927,
+            "transcript": " now win or lose this is my last political campaign so I'm trying to drink it all in unfortunately Mayor Bloomberg will only let me have 16 ounces of it",
+            "words": [
+              {
+                "endTime": "173.400s",
+                "startTime": "173s",
+                "word": "now"
+              },
+              {
+                "endTime": "174.400s",
+                "startTime": "173.500s",
+                "word": "win"
+              },
+              {
+                "endTime": "174.500s",
+                "startTime": "174.400s",
+                "word": "or"
+              },
+              {
+                "endTime": "174.600s",
+                "startTime": "174.500s",
+                "word": "lose"
+              },
+              {
+                "endTime": "175.900s",
+                "startTime": "174.600s",
+                "word": "this"
+              },
+              {
+                "endTime": "176.100s",
+                "startTime": "175.900s",
+                "word": "is"
+              },
+              {
+                "endTime": "176.400s",
+                "startTime": "176.100s",
+                "word": "my"
+              },
+              {
+                "endTime": "176.800s",
+                "startTime": "176.400s",
+                "word": "last"
+              },
+              {
+                "endTime": "177.500s",
+                "startTime": "176.800s",
+                "word": "political"
+              },
+              {
+                "endTime": "178.300s",
+                "startTime": "177.500s",
+                "word": "campaign"
+              },
+              {
+                "endTime": "178.900s",
+                "startTime": "178.300s",
+                "word": "so"
+              },
+              {
+                "endTime": "179s",
+                "startTime": "178.900s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "179.300s",
+                "startTime": "179s",
+                "word": "trying"
+              },
+              {
+                "endTime": "179.400s",
+                "startTime": "179.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "179.500s",
+                "startTime": "179.400s",
+                "word": "drink"
+              },
+              {
+                "endTime": "179.700s",
+                "startTime": "179.500s",
+                "word": "it"
+              },
+              {
+                "endTime": "179.800s",
+                "startTime": "179.700s",
+                "word": "all"
+              },
+              {
+                "endTime": "180s",
+                "startTime": "179.800s",
+                "word": "in"
+              },
+              {
+                "endTime": "181.500s",
+                "startTime": "180.300s",
+                "word": "unfortunately"
+              },
+              {
+                "endTime": "181.800s",
+                "startTime": "181.500s",
+                "word": "Mayor"
+              },
+              {
+                "endTime": "182.200s",
+                "startTime": "181.800s",
+                "word": "Bloomberg"
+              },
+              {
+                "endTime": "182.400s",
+                "startTime": "182.200s",
+                "word": "will"
+              },
+              {
+                "endTime": "182.500s",
+                "startTime": "182.400s",
+                "word": "only"
+              },
+              {
+                "endTime": "182.700s",
+                "startTime": "182.500s",
+                "word": "let"
+              },
+              {
+                "endTime": "182.800s",
+                "startTime": "182.700s",
+                "word": "me"
+              },
+              {
+                "endTime": "182.900s",
+                "startTime": "182.800s",
+                "word": "have"
+              },
+              {
+                "endTime": "183.500s",
+                "startTime": "182.900s",
+                "word": "16"
+              },
+              {
+                "endTime": "183.700s",
+                "startTime": "183.500s",
+                "word": "ounces"
+              },
+              {
+                "endTime": "184s",
+                "startTime": "183.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "184.100s",
+                "startTime": "184s",
+                "word": "it"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "185.650s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9018901,
+            "transcript": " that's okay I'm still making the most of my time in the city earlier today I went shopping at some stores in Midtown I understand Governor Romney went shopping for some stores in Midtown",
+            "words": [
+              {
+                "endTime": "190.400s",
+                "startTime": "190.100s",
+                "word": "that's"
+              },
+              {
+                "endTime": "190.600s",
+                "startTime": "190.400s",
+                "word": "okay"
+              },
+              {
+                "endTime": "190.700s",
+                "startTime": "190.600s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "191.200s",
+                "startTime": "190.700s",
+                "word": "still"
+              },
+              {
+                "endTime": "191.800s",
+                "startTime": "191.500s",
+                "word": "making"
+              },
+              {
+                "endTime": "191.900s",
+                "startTime": "191.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "192.100s",
+                "startTime": "191.900s",
+                "word": "most"
+              },
+              {
+                "endTime": "192.100s",
+                "startTime": "192.100s",
+                "word": "of"
+              },
+              {
+                "endTime": "192.200s",
+                "startTime": "192.100s",
+                "word": "my"
+              },
+              {
+                "endTime": "192.600s",
+                "startTime": "192.200s",
+                "word": "time"
+              },
+              {
+                "endTime": "192.600s",
+                "startTime": "192.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "192.700s",
+                "startTime": "192.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "193.200s",
+                "startTime": "192.700s",
+                "word": "city"
+              },
+              {
+                "endTime": "193.900s",
+                "startTime": "193.500s",
+                "word": "earlier"
+              },
+              {
+                "endTime": "194.400s",
+                "startTime": "193.900s",
+                "word": "today"
+              },
+              {
+                "endTime": "194.800s",
+                "startTime": "194.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "195.100s",
+                "startTime": "194.800s",
+                "word": "went"
+              },
+              {
+                "endTime": "195.500s",
+                "startTime": "195.100s",
+                "word": "shopping"
+              },
+              {
+                "endTime": "195.600s",
+                "startTime": "195.500s",
+                "word": "at"
+              },
+              {
+                "endTime": "195.800s",
+                "startTime": "195.600s",
+                "word": "some"
+              },
+              {
+                "endTime": "196.200s",
+                "startTime": "195.800s",
+                "word": "stores"
+              },
+              {
+                "endTime": "196.300s",
+                "startTime": "196.200s",
+                "word": "in"
+              },
+              {
+                "endTime": "196.900s",
+                "startTime": "196.300s",
+                "word": "Midtown"
+              },
+              {
+                "endTime": "197.600s",
+                "startTime": "197.500s",
+                "word": "I"
+              },
+              {
+                "endTime": "198s",
+                "startTime": "197.600s",
+                "word": "understand"
+              },
+              {
+                "endTime": "198.300s",
+                "startTime": "198s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "198.700s",
+                "startTime": "198.300s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "199.100s",
+                "startTime": "198.700s",
+                "word": "went"
+              },
+              {
+                "endTime": "199.600s",
+                "startTime": "199.100s",
+                "word": "shopping"
+              },
+              {
+                "endTime": "199.700s",
+                "startTime": "199.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "200.100s",
+                "startTime": "199.700s",
+                "word": "some"
+              },
+              {
+                "endTime": "200.600s",
+                "startTime": "200.100s",
+                "word": "stores"
+              },
+              {
+                "endTime": "200.700s",
+                "startTime": "200.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "201.200s",
+                "startTime": "200.700s",
+                "word": "Midtown"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "207.380s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7721366,
+            "transcript": " and I brought back some great memories because some of you know I went to school here in New York had a wonderful experience here used to love walking through Central Park love to go to old Yankee Stadium the house that Ruth built although he really did not build that I hope everybody's aware of that",
+            "words": [
+              {
+                "endTime": "209.400s",
+                "startTime": "207.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "209.500s",
+                "startTime": "209.400s",
+                "word": "I"
+              },
+              {
+                "endTime": "209.700s",
+                "startTime": "209.500s",
+                "word": "brought"
+              },
+              {
+                "endTime": "209.800s",
+                "startTime": "209.700s",
+                "word": "back"
+              },
+              {
+                "endTime": "210s",
+                "startTime": "209.800s",
+                "word": "some"
+              },
+              {
+                "endTime": "210.500s",
+                "startTime": "210s",
+                "word": "great"
+              },
+              {
+                "endTime": "210.700s",
+                "startTime": "210.500s",
+                "word": "memories"
+              },
+              {
+                "endTime": "211.900s",
+                "startTime": "210.700s",
+                "word": "because"
+              },
+              {
+                "endTime": "212.100s",
+                "startTime": "211.900s",
+                "word": "some"
+              },
+              {
+                "endTime": "212.200s",
+                "startTime": "212.100s",
+                "word": "of"
+              },
+              {
+                "endTime": "212.300s",
+                "startTime": "212.200s",
+                "word": "you"
+              },
+              {
+                "endTime": "212.400s",
+                "startTime": "212.300s",
+                "word": "know"
+              },
+              {
+                "endTime": "212.500s",
+                "startTime": "212.400s",
+                "word": "I"
+              },
+              {
+                "endTime": "212.700s",
+                "startTime": "212.500s",
+                "word": "went"
+              },
+              {
+                "endTime": "212.800s",
+                "startTime": "212.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "213s",
+                "startTime": "212.800s",
+                "word": "school"
+              },
+              {
+                "endTime": "213.200s",
+                "startTime": "213s",
+                "word": "here"
+              },
+              {
+                "endTime": "213.300s",
+                "startTime": "213.200s",
+                "word": "in"
+              },
+              {
+                "endTime": "213.400s",
+                "startTime": "213.300s",
+                "word": "New"
+              },
+              {
+                "endTime": "213.500s",
+                "startTime": "213.400s",
+                "word": "York"
+              },
+              {
+                "endTime": "215.200s",
+                "startTime": "213.500s",
+                "word": "had"
+              },
+              {
+                "endTime": "215.300s",
+                "startTime": "215.200s",
+                "word": "a"
+              },
+              {
+                "endTime": "215.600s",
+                "startTime": "215.300s",
+                "word": "wonderful"
+              },
+              {
+                "endTime": "216s",
+                "startTime": "215.600s",
+                "word": "experience"
+              },
+              {
+                "endTime": "216.500s",
+                "startTime": "216s",
+                "word": "here"
+              },
+              {
+                "endTime": "218.900s",
+                "startTime": "216.500s",
+                "word": "used"
+              },
+              {
+                "endTime": "219s",
+                "startTime": "218.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "219.400s",
+                "startTime": "219s",
+                "word": "love"
+              },
+              {
+                "endTime": "219.800s",
+                "startTime": "219.400s",
+                "word": "walking"
+              },
+              {
+                "endTime": "219.900s",
+                "startTime": "219.800s",
+                "word": "through"
+              },
+              {
+                "endTime": "220.200s",
+                "startTime": "219.900s",
+                "word": "Central"
+              },
+              {
+                "endTime": "220.500s",
+                "startTime": "220.200s",
+                "word": "Park"
+              },
+              {
+                "endTime": "221.200s",
+                "startTime": "220.500s",
+                "word": "love"
+              },
+              {
+                "endTime": "221.400s",
+                "startTime": "221.200s",
+                "word": "to"
+              },
+              {
+                "endTime": "221.500s",
+                "startTime": "221.400s",
+                "word": "go"
+              },
+              {
+                "endTime": "222.100s",
+                "startTime": "221.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "222.300s",
+                "startTime": "222.100s",
+                "word": "old"
+              },
+              {
+                "endTime": "222.800s",
+                "startTime": "222.300s",
+                "word": "Yankee"
+              },
+              {
+                "endTime": "222.900s",
+                "startTime": "222.800s",
+                "word": "Stadium"
+              },
+              {
+                "endTime": "224.100s",
+                "startTime": "222.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "224.400s",
+                "startTime": "224.100s",
+                "word": "house"
+              },
+              {
+                "endTime": "224.800s",
+                "startTime": "224.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "225.300s",
+                "startTime": "224.800s",
+                "word": "Ruth"
+              },
+              {
+                "endTime": "225.400s",
+                "startTime": "225.300s",
+                "word": "built"
+              },
+              {
+                "endTime": "226s",
+                "startTime": "225.400s",
+                "word": "although"
+              },
+              {
+                "endTime": "226.500s",
+                "startTime": "226s",
+                "word": "he"
+              },
+              {
+                "endTime": "226.800s",
+                "startTime": "226.500s",
+                "word": "really"
+              },
+              {
+                "endTime": "227.100s",
+                "startTime": "226.800s",
+                "word": "did"
+              },
+              {
+                "endTime": "227.200s",
+                "startTime": "227.100s",
+                "word": "not"
+              },
+              {
+                "endTime": "227.500s",
+                "startTime": "227.200s",
+                "word": "build"
+              },
+              {
+                "endTime": "227.600s",
+                "startTime": "227.500s",
+                "word": "that"
+              },
+              {
+                "endTime": "229.100s",
+                "startTime": "227.600s",
+                "word": "I"
+              },
+              {
+                "endTime": "229.300s",
+                "startTime": "229.100s",
+                "word": "hope"
+              },
+              {
+                "endTime": "229.900s",
+                "startTime": "229.300s",
+                "word": "everybody's"
+              },
+              {
+                "endTime": "231.800s",
+                "startTime": "229.900s",
+                "word": "aware"
+              },
+              {
+                "endTime": "231.900s",
+                "startTime": "231.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "232.100s",
+                "startTime": "231.900s",
+                "word": "that"
+              }
+            ]
+          },
+          {
+            "confidence": 0.77434874,
+            "transcript": " and it brought back some great memories because some of you know I went to school here in New York had a wonderful experience here used to love walking through Central Park love to go to old Yankee Stadium the house that Ruth built although he really did not build that I hope everybody's aware of that"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "233.230s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "234.760s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "238.270s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8813569,
+            "transcript": " it's been four years since I was last at the Al Smith dinner I have to admit some things have changed since then I've heard some people say Barack you're not as young as you used to be where's that golden smile where's that pep in your step and I say settle down Joe I'm trying to run a cabinet meeting her",
+            "words": [
+              {
+                "endTime": "239.300s",
+                "startTime": "238.900s",
+                "word": "it's"
+              },
+              {
+                "endTime": "239.400s",
+                "startTime": "239.300s",
+                "word": "been"
+              },
+              {
+                "endTime": "239.600s",
+                "startTime": "239.400s",
+                "word": "four"
+              },
+              {
+                "endTime": "239.700s",
+                "startTime": "239.600s",
+                "word": "years"
+              },
+              {
+                "endTime": "240.400s",
+                "startTime": "239.700s",
+                "word": "since"
+              },
+              {
+                "endTime": "240.600s",
+                "startTime": "240.400s",
+                "word": "I"
+              },
+              {
+                "endTime": "240.700s",
+                "startTime": "240.600s",
+                "word": "was"
+              },
+              {
+                "endTime": "240.800s",
+                "startTime": "240.700s",
+                "word": "last"
+              },
+              {
+                "endTime": "242s",
+                "startTime": "240.800s",
+                "word": "at"
+              },
+              {
+                "endTime": "242.100s",
+                "startTime": "242s",
+                "word": "the"
+              },
+              {
+                "endTime": "242.200s",
+                "startTime": "242.100s",
+                "word": "Al"
+              },
+              {
+                "endTime": "242.400s",
+                "startTime": "242.200s",
+                "word": "Smith"
+              },
+              {
+                "endTime": "242.600s",
+                "startTime": "242.400s",
+                "word": "dinner"
+              },
+              {
+                "endTime": "243.300s",
+                "startTime": "242.600s",
+                "word": "I"
+              },
+              {
+                "endTime": "243.400s",
+                "startTime": "243.300s",
+                "word": "have"
+              },
+              {
+                "endTime": "243.500s",
+                "startTime": "243.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "243.700s",
+                "startTime": "243.500s",
+                "word": "admit"
+              },
+              {
+                "endTime": "244s",
+                "startTime": "243.700s",
+                "word": "some"
+              },
+              {
+                "endTime": "244.300s",
+                "startTime": "244s",
+                "word": "things"
+              },
+              {
+                "endTime": "244.400s",
+                "startTime": "244.300s",
+                "word": "have"
+              },
+              {
+                "endTime": "244.500s",
+                "startTime": "244.400s",
+                "word": "changed"
+              },
+              {
+                "endTime": "244.800s",
+                "startTime": "244.500s",
+                "word": "since"
+              },
+              {
+                "endTime": "245s",
+                "startTime": "244.800s",
+                "word": "then"
+              },
+              {
+                "endTime": "246.300s",
+                "startTime": "245s",
+                "word": "I've"
+              },
+              {
+                "endTime": "246.400s",
+                "startTime": "246.300s",
+                "word": "heard"
+              },
+              {
+                "endTime": "246.600s",
+                "startTime": "246.400s",
+                "word": "some"
+              },
+              {
+                "endTime": "246.700s",
+                "startTime": "246.600s",
+                "word": "people"
+              },
+              {
+                "endTime": "246.900s",
+                "startTime": "246.700s",
+                "word": "say"
+              },
+              {
+                "endTime": "248s",
+                "startTime": "246.900s",
+                "word": "Barack"
+              },
+              {
+                "endTime": "248.600s",
+                "startTime": "248.100s",
+                "word": "you're"
+              },
+              {
+                "endTime": "248.700s",
+                "startTime": "248.600s",
+                "word": "not"
+              },
+              {
+                "endTime": "248.800s",
+                "startTime": "248.700s",
+                "word": "as"
+              },
+              {
+                "endTime": "248.900s",
+                "startTime": "248.800s",
+                "word": "young"
+              },
+              {
+                "endTime": "249.100s",
+                "startTime": "248.900s",
+                "word": "as"
+              },
+              {
+                "endTime": "249.200s",
+                "startTime": "249.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "249.300s",
+                "startTime": "249.200s",
+                "word": "used"
+              },
+              {
+                "endTime": "249.500s",
+                "startTime": "249.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "249.700s",
+                "startTime": "249.500s",
+                "word": "be"
+              },
+              {
+                "endTime": "251s",
+                "startTime": "249.900s",
+                "word": "where's"
+              },
+              {
+                "endTime": "251s",
+                "startTime": "251s",
+                "word": "that"
+              },
+              {
+                "endTime": "251.900s",
+                "startTime": "251.400s",
+                "word": "golden"
+              },
+              {
+                "endTime": "252.300s",
+                "startTime": "251.900s",
+                "word": "smile"
+              },
+              {
+                "endTime": "252.600s",
+                "startTime": "252.300s",
+                "word": "where's"
+              },
+              {
+                "endTime": "252.800s",
+                "startTime": "252.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "253s",
+                "startTime": "252.800s",
+                "word": "pep"
+              },
+              {
+                "endTime": "253.200s",
+                "startTime": "253s",
+                "word": "in"
+              },
+              {
+                "endTime": "253.200s",
+                "startTime": "253.200s",
+                "word": "your"
+              },
+              {
+                "endTime": "253.300s",
+                "startTime": "253.200s",
+                "word": "step"
+              },
+              {
+                "endTime": "254.700s",
+                "startTime": "253.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "254.800s",
+                "startTime": "254.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "255.100s",
+                "startTime": "254.800s",
+                "word": "say"
+              },
+              {
+                "endTime": "256.200s",
+                "startTime": "255.100s",
+                "word": "settle"
+              },
+              {
+                "endTime": "256.300s",
+                "startTime": "256.200s",
+                "word": "down"
+              },
+              {
+                "endTime": "256.600s",
+                "startTime": "256.300s",
+                "word": "Joe"
+              },
+              {
+                "endTime": "257s",
+                "startTime": "256.800s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "257.200s",
+                "startTime": "257s",
+                "word": "trying"
+              },
+              {
+                "endTime": "257.200s",
+                "startTime": "257.200s",
+                "word": "to"
+              },
+              {
+                "endTime": "257.400s",
+                "startTime": "257.200s",
+                "word": "run"
+              },
+              {
+                "endTime": "257.500s",
+                "startTime": "257.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "257.900s",
+                "startTime": "257.500s",
+                "word": "cabinet"
+              },
+              {
+                "endTime": "258s",
+                "startTime": "257.900s",
+                "word": "meeting"
+              },
+              {
+                "endTime": "258.200s",
+                "startTime": "258s",
+                "word": "her"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8856415,
+            "transcript": " it's been four years since I was last at the Al Smith dinner well I have to admit some things have changed since then I've heard some people say Barack you're not as young as you used to be where's that golden smile where's that pep in your step and I say settle down Joe I'm trying to run a cabinet meeting her"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "260.260s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "266.250s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9004213,
+            "transcript": " he does smile when he says it though",
+            "words": [
+              {
+                "endTime": "267.900s",
+                "startTime": "267.800s",
+                "word": "he"
+              },
+              {
+                "endTime": "268.100s",
+                "startTime": "267.900s",
+                "word": "does"
+              },
+              {
+                "endTime": "268.400s",
+                "startTime": "268.100s",
+                "word": "smile"
+              },
+              {
+                "endTime": "268.500s",
+                "startTime": "268.400s",
+                "word": "when"
+              },
+              {
+                "endTime": "268.600s",
+                "startTime": "268.500s",
+                "word": "he"
+              },
+              {
+                "endTime": "268.900s",
+                "startTime": "268.600s",
+                "word": "says"
+              },
+              {
+                "endTime": "269s",
+                "startTime": "268.900s",
+                "word": "it"
+              },
+              {
+                "endTime": "269.200s",
+                "startTime": "269s",
+                "word": "though"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "269.940s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.884054,
+            "transcript": " tomorrow it's back to campaigning I visit cities and towns across our great country and I hear the same thing everywhere I go honestly we were hoping to see Michelle",
+            "words": [
+              {
+                "endTime": "272.100s",
+                "startTime": "270.500s",
+                "word": "tomorrow"
+              },
+              {
+                "endTime": "272.800s",
+                "startTime": "272.100s",
+                "word": "it's"
+              },
+              {
+                "endTime": "272.900s",
+                "startTime": "272.800s",
+                "word": "back"
+              },
+              {
+                "endTime": "273.100s",
+                "startTime": "272.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "273.700s",
+                "startTime": "273.100s",
+                "word": "campaigning"
+              },
+              {
+                "endTime": "274.600s",
+                "startTime": "273.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "274.900s",
+                "startTime": "274.600s",
+                "word": "visit"
+              },
+              {
+                "endTime": "275s",
+                "startTime": "274.900s",
+                "word": "cities"
+              },
+              {
+                "endTime": "275.300s",
+                "startTime": "275s",
+                "word": "and"
+              },
+              {
+                "endTime": "275.700s",
+                "startTime": "275.300s",
+                "word": "towns"
+              },
+              {
+                "endTime": "275.800s",
+                "startTime": "275.700s",
+                "word": "across"
+              },
+              {
+                "endTime": "276.200s",
+                "startTime": "275.800s",
+                "word": "our"
+              },
+              {
+                "endTime": "276.400s",
+                "startTime": "276.200s",
+                "word": "great"
+              },
+              {
+                "endTime": "276.500s",
+                "startTime": "276.400s",
+                "word": "country"
+              },
+              {
+                "endTime": "277.700s",
+                "startTime": "276.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "277.900s",
+                "startTime": "277.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "278s",
+                "startTime": "277.900s",
+                "word": "hear"
+              },
+              {
+                "endTime": "278.100s",
+                "startTime": "278s",
+                "word": "the"
+              },
+              {
+                "endTime": "278.200s",
+                "startTime": "278.100s",
+                "word": "same"
+              },
+              {
+                "endTime": "278.800s",
+                "startTime": "278.200s",
+                "word": "thing"
+              },
+              {
+                "endTime": "279.500s",
+                "startTime": "278.800s",
+                "word": "everywhere"
+              },
+              {
+                "endTime": "279.600s",
+                "startTime": "279.500s",
+                "word": "I"
+              },
+              {
+                "endTime": "279.800s",
+                "startTime": "279.600s",
+                "word": "go"
+              },
+              {
+                "endTime": "281.500s",
+                "startTime": "280.100s",
+                "word": "honestly"
+              },
+              {
+                "endTime": "281.700s",
+                "startTime": "281.500s",
+                "word": "we"
+              },
+              {
+                "endTime": "281.800s",
+                "startTime": "281.700s",
+                "word": "were"
+              },
+              {
+                "endTime": "282s",
+                "startTime": "281.800s",
+                "word": "hoping"
+              },
+              {
+                "endTime": "282.100s",
+                "startTime": "282s",
+                "word": "to"
+              },
+              {
+                "endTime": "282.300s",
+                "startTime": "282.100s",
+                "word": "see"
+              },
+              {
+                "endTime": "282.600s",
+                "startTime": "282.300s",
+                "word": "Michelle"
+              }
+            ]
+          },
+          {
+            "confidence": 0.88652354,
+            "transcript": " tomorrow it's back to campaigning visit cities and towns across our great country and I hear the same thing everywhere I go honestly we were hoping to see Michelle"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "284.990s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7331126,
+            "transcript": " and I have to admit it can be a grind sometimes it feels like this race has dragged on forever but Paul Ryan assured me that we've only been running for two hours and 50 something minutes",
+            "words": [
+              {
+                "endTime": "287.500s",
+                "startTime": "286.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "287.600s",
+                "startTime": "287.500s",
+                "word": "I"
+              },
+              {
+                "endTime": "287.700s",
+                "startTime": "287.600s",
+                "word": "have"
+              },
+              {
+                "endTime": "287.800s",
+                "startTime": "287.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "287.900s",
+                "startTime": "287.800s",
+                "word": "admit"
+              },
+              {
+                "endTime": "288.100s",
+                "startTime": "287.900s",
+                "word": "it"
+              },
+              {
+                "endTime": "288.300s",
+                "startTime": "288.100s",
+                "word": "can"
+              },
+              {
+                "endTime": "288.600s",
+                "startTime": "288.300s",
+                "word": "be"
+              },
+              {
+                "endTime": "288.600s",
+                "startTime": "288.600s",
+                "word": "a"
+              },
+              {
+                "endTime": "288.900s",
+                "startTime": "288.600s",
+                "word": "grind"
+              },
+              {
+                "endTime": "289.900s",
+                "startTime": "289.200s",
+                "word": "sometimes"
+              },
+              {
+                "endTime": "290s",
+                "startTime": "289.900s",
+                "word": "it"
+              },
+              {
+                "endTime": "290.100s",
+                "startTime": "290s",
+                "word": "feels"
+              },
+              {
+                "endTime": "290.500s",
+                "startTime": "290.100s",
+                "word": "like"
+              },
+              {
+                "endTime": "290.800s",
+                "startTime": "290.500s",
+                "word": "this"
+              },
+              {
+                "endTime": "291.200s",
+                "startTime": "290.800s",
+                "word": "race"
+              },
+              {
+                "endTime": "291.900s",
+                "startTime": "291.200s",
+                "word": "has"
+              },
+              {
+                "endTime": "292.300s",
+                "startTime": "291.900s",
+                "word": "dragged"
+              },
+              {
+                "endTime": "292.300s",
+                "startTime": "292.300s",
+                "word": "on"
+              },
+              {
+                "endTime": "292.800s",
+                "startTime": "292.300s",
+                "word": "forever"
+              },
+              {
+                "endTime": "293.700s",
+                "startTime": "292.800s",
+                "word": "but"
+              },
+              {
+                "endTime": "294s",
+                "startTime": "293.700s",
+                "word": "Paul"
+              },
+              {
+                "endTime": "294.300s",
+                "startTime": "294s",
+                "word": "Ryan"
+              },
+              {
+                "endTime": "294.700s",
+                "startTime": "294.300s",
+                "word": "assured"
+              },
+              {
+                "endTime": "294.900s",
+                "startTime": "294.700s",
+                "word": "me"
+              },
+              {
+                "endTime": "294.900s",
+                "startTime": "294.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "295.200s",
+                "startTime": "294.900s",
+                "word": "we've"
+              },
+              {
+                "endTime": "295.300s",
+                "startTime": "295.200s",
+                "word": "only"
+              },
+              {
+                "endTime": "295.500s",
+                "startTime": "295.300s",
+                "word": "been"
+              },
+              {
+                "endTime": "295.700s",
+                "startTime": "295.500s",
+                "word": "running"
+              },
+              {
+                "endTime": "295.900s",
+                "startTime": "295.700s",
+                "word": "for"
+              },
+              {
+                "endTime": "296.300s",
+                "startTime": "295.900s",
+                "word": "two"
+              },
+              {
+                "endTime": "296.700s",
+                "startTime": "296.300s",
+                "word": "hours"
+              },
+              {
+                "endTime": "296.800s",
+                "startTime": "296.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "297.200s",
+                "startTime": "296.800s",
+                "word": "50"
+              },
+              {
+                "endTime": "297.600s",
+                "startTime": "297.200s",
+                "word": "something"
+              },
+              {
+                "endTime": "297.900s",
+                "startTime": "297.600s",
+                "word": "minutes"
+              }
+            ]
+          },
+          {
+            "confidence": 0.74176764,
+            "transcript": " and I have to admit it can be a grind sometimes it feels like this race has dragged on forever but Paul Ryan assured me that we've only been running for two hours and 50s something minutes"
+          },
+          {
+            "confidence": 0.7329293,
+            "transcript": " and I have to admit it can be a grind sometimes it feels like this race has dragged on forever but Paul Ryan assured me that we've only been running for two hours and fifty something minutes"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "303.280s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8761577,
+            "transcript": " of course the economy is on everybody's Minds the unemployment rate is at its lowest level since I took office I don't have a joke here I just thought it would be useful to remind everybody that the unemployment rate is at the lowest it's been since I took office",
+            "words": [
+              {
+                "endTime": "305.200s",
+                "startTime": "304.100s",
+                "word": "of"
+              },
+              {
+                "endTime": "305.500s",
+                "startTime": "305.200s",
+                "word": "course"
+              },
+              {
+                "endTime": "305.800s",
+                "startTime": "305.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "306s",
+                "startTime": "305.800s",
+                "word": "economy"
+              },
+              {
+                "endTime": "306.300s",
+                "startTime": "306s",
+                "word": "is"
+              },
+              {
+                "endTime": "306.400s",
+                "startTime": "306.300s",
+                "word": "on"
+              },
+              {
+                "endTime": "306.700s",
+                "startTime": "306.400s",
+                "word": "everybody's"
+              },
+              {
+                "endTime": "307.200s",
+                "startTime": "306.700s",
+                "word": "Minds"
+              },
+              {
+                "endTime": "308s",
+                "startTime": "307.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "308.400s",
+                "startTime": "308s",
+                "word": "unemployment"
+              },
+              {
+                "endTime": "308.800s",
+                "startTime": "308.400s",
+                "word": "rate"
+              },
+              {
+                "endTime": "309s",
+                "startTime": "308.800s",
+                "word": "is"
+              },
+              {
+                "endTime": "309.200s",
+                "startTime": "309s",
+                "word": "at"
+              },
+              {
+                "endTime": "309.200s",
+                "startTime": "309.200s",
+                "word": "its"
+              },
+              {
+                "endTime": "309.400s",
+                "startTime": "309.200s",
+                "word": "lowest"
+              },
+              {
+                "endTime": "309.600s",
+                "startTime": "309.400s",
+                "word": "level"
+              },
+              {
+                "endTime": "309.900s",
+                "startTime": "309.600s",
+                "word": "since"
+              },
+              {
+                "endTime": "310.100s",
+                "startTime": "309.900s",
+                "word": "I"
+              },
+              {
+                "endTime": "310.200s",
+                "startTime": "310.100s",
+                "word": "took"
+              },
+              {
+                "endTime": "310.400s",
+                "startTime": "310.200s",
+                "word": "office"
+              },
+              {
+                "endTime": "311.900s",
+                "startTime": "310.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "312.300s",
+                "startTime": "311.900s",
+                "word": "don't"
+              },
+              {
+                "endTime": "312.400s",
+                "startTime": "312.300s",
+                "word": "have"
+              },
+              {
+                "endTime": "312.500s",
+                "startTime": "312.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "312.600s",
+                "startTime": "312.500s",
+                "word": "joke"
+              },
+              {
+                "endTime": "312.900s",
+                "startTime": "312.600s",
+                "word": "here"
+              },
+              {
+                "endTime": "313.100s",
+                "startTime": "313.100s",
+                "word": "I"
+              },
+              {
+                "endTime": "313.400s",
+                "startTime": "313.100s",
+                "word": "just"
+              },
+              {
+                "endTime": "313.500s",
+                "startTime": "313.400s",
+                "word": "thought"
+              },
+              {
+                "endTime": "313.600s",
+                "startTime": "313.500s",
+                "word": "it"
+              },
+              {
+                "endTime": "313.700s",
+                "startTime": "313.600s",
+                "word": "would"
+              },
+              {
+                "endTime": "313.700s",
+                "startTime": "313.700s",
+                "word": "be"
+              },
+              {
+                "endTime": "314s",
+                "startTime": "313.700s",
+                "word": "useful"
+              },
+              {
+                "endTime": "314.200s",
+                "startTime": "314s",
+                "word": "to"
+              },
+              {
+                "endTime": "314.500s",
+                "startTime": "314.200s",
+                "word": "remind"
+              },
+              {
+                "endTime": "315s",
+                "startTime": "314.500s",
+                "word": "everybody"
+              },
+              {
+                "endTime": "315.300s",
+                "startTime": "315s",
+                "word": "that"
+              },
+              {
+                "endTime": "316.200s",
+                "startTime": "315.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "316.700s",
+                "startTime": "316.200s",
+                "word": "unemployment"
+              },
+              {
+                "endTime": "316.900s",
+                "startTime": "316.700s",
+                "word": "rate"
+              },
+              {
+                "endTime": "317s",
+                "startTime": "316.900s",
+                "word": "is"
+              },
+              {
+                "endTime": "317.200s",
+                "startTime": "317s",
+                "word": "at"
+              },
+              {
+                "endTime": "317.300s",
+                "startTime": "317.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "317.400s",
+                "startTime": "317.300s",
+                "word": "lowest"
+              },
+              {
+                "endTime": "318.300s",
+                "startTime": "317.400s",
+                "word": "it's"
+              },
+              {
+                "endTime": "318.400s",
+                "startTime": "318.300s",
+                "word": "been"
+              },
+              {
+                "endTime": "318.700s",
+                "startTime": "318.400s",
+                "word": "since"
+              },
+              {
+                "endTime": "318.900s",
+                "startTime": "318.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "319.100s",
+                "startTime": "318.900s",
+                "word": "took"
+              },
+              {
+                "endTime": "319.200s",
+                "startTime": "319.100s",
+                "word": "office"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "320.660s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.77558875,
+            "transcript": " and we're getting that time when folks are making up their minds just the other day Honey Boo Boo endorse me so that's a big relief",
+            "words": [
+              {
+                "endTime": "324s",
+                "startTime": "323.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "324.100s",
+                "startTime": "324s",
+                "word": "we're"
+              },
+              {
+                "endTime": "324.200s",
+                "startTime": "324.100s",
+                "word": "getting"
+              },
+              {
+                "endTime": "324.400s",
+                "startTime": "324.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "324.800s",
+                "startTime": "324.400s",
+                "word": "time"
+              },
+              {
+                "endTime": "324.900s",
+                "startTime": "324.800s",
+                "word": "when"
+              },
+              {
+                "endTime": "325.100s",
+                "startTime": "324.900s",
+                "word": "folks"
+              },
+              {
+                "endTime": "325.300s",
+                "startTime": "325.100s",
+                "word": "are"
+              },
+              {
+                "endTime": "325.400s",
+                "startTime": "325.300s",
+                "word": "making"
+              },
+              {
+                "endTime": "325.700s",
+                "startTime": "325.400s",
+                "word": "up"
+              },
+              {
+                "endTime": "325.800s",
+                "startTime": "325.700s",
+                "word": "their"
+              },
+              {
+                "endTime": "326.200s",
+                "startTime": "325.800s",
+                "word": "minds"
+              },
+              {
+                "endTime": "327.200s",
+                "startTime": "326.400s",
+                "word": "just"
+              },
+              {
+                "endTime": "327.200s",
+                "startTime": "327.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "327.400s",
+                "startTime": "327.200s",
+                "word": "other"
+              },
+              {
+                "endTime": "327.500s",
+                "startTime": "327.400s",
+                "word": "day"
+              },
+              {
+                "endTime": "328.400s",
+                "startTime": "327.500s",
+                "word": "Honey"
+              },
+              {
+                "endTime": "328.700s",
+                "startTime": "328.400s",
+                "word": "Boo"
+              },
+              {
+                "endTime": "328.800s",
+                "startTime": "328.700s",
+                "word": "Boo"
+              },
+              {
+                "endTime": "329.400s",
+                "startTime": "328.800s",
+                "word": "endorse"
+              },
+              {
+                "endTime": "329.700s",
+                "startTime": "329.400s",
+                "word": "me"
+              },
+              {
+                "endTime": "331.100s",
+                "startTime": "329.800s",
+                "word": "so"
+              },
+              {
+                "endTime": "331.400s",
+                "startTime": "331.100s",
+                "word": "that's"
+              },
+              {
+                "endTime": "331.600s",
+                "startTime": "331.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "332s",
+                "startTime": "331.600s",
+                "word": "big"
+              },
+              {
+                "endTime": "332.200s",
+                "startTime": "332s",
+                "word": "relief"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "333.330s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8990734,
+            "transcript": " ultimately though tonight not about the disagreements Governor Romney and I may have it's what we have in common beginning with our unusual names actually MIT is his middle name",
+            "words": [
+              {
+                "endTime": "337.600s",
+                "startTime": "337.100s",
+                "word": "ultimately"
+              },
+              {
+                "endTime": "337.800s",
+                "startTime": "337.600s",
+                "word": "though"
+              },
+              {
+                "endTime": "338.700s",
+                "startTime": "337.800s",
+                "word": "tonight"
+              },
+              {
+                "endTime": "338.900s",
+                "startTime": "338.700s",
+                "word": "not"
+              },
+              {
+                "endTime": "339.200s",
+                "startTime": "338.900s",
+                "word": "about"
+              },
+              {
+                "endTime": "339.300s",
+                "startTime": "339.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "339.900s",
+                "startTime": "339.300s",
+                "word": "disagreements"
+              },
+              {
+                "endTime": "340.500s",
+                "startTime": "339.900s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "341s",
+                "startTime": "340.500s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "341.100s",
+                "startTime": "341s",
+                "word": "and"
+              },
+              {
+                "endTime": "341.300s",
+                "startTime": "341.100s",
+                "word": "I"
+              },
+              {
+                "endTime": "341.500s",
+                "startTime": "341.300s",
+                "word": "may"
+              },
+              {
+                "endTime": "341.600s",
+                "startTime": "341.500s",
+                "word": "have"
+              },
+              {
+                "endTime": "343.300s",
+                "startTime": "341.600s",
+                "word": "it's"
+              },
+              {
+                "endTime": "343.500s",
+                "startTime": "343.300s",
+                "word": "what"
+              },
+              {
+                "endTime": "344.400s",
+                "startTime": "343.500s",
+                "word": "we"
+              },
+              {
+                "endTime": "344.500s",
+                "startTime": "344.400s",
+                "word": "have"
+              },
+              {
+                "endTime": "344.700s",
+                "startTime": "344.500s",
+                "word": "in"
+              },
+              {
+                "endTime": "344.900s",
+                "startTime": "344.700s",
+                "word": "common"
+              },
+              {
+                "endTime": "345.500s",
+                "startTime": "345.200s",
+                "word": "beginning"
+              },
+              {
+                "endTime": "345.700s",
+                "startTime": "345.500s",
+                "word": "with"
+              },
+              {
+                "endTime": "345.800s",
+                "startTime": "345.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "346.200s",
+                "startTime": "345.800s",
+                "word": "unusual"
+              },
+              {
+                "endTime": "348s",
+                "startTime": "346.200s",
+                "word": "names"
+              },
+              {
+                "endTime": "349s",
+                "startTime": "348s",
+                "word": "actually"
+              },
+              {
+                "endTime": "349.700s",
+                "startTime": "349s",
+                "word": "MIT"
+              },
+              {
+                "endTime": "350s",
+                "startTime": "349.700s",
+                "word": "is"
+              },
+              {
+                "endTime": "350.300s",
+                "startTime": "350s",
+                "word": "his"
+              },
+              {
+                "endTime": "350.600s",
+                "startTime": "350.300s",
+                "word": "middle"
+              },
+              {
+                "endTime": "350.600s",
+                "startTime": "350.600s",
+                "word": "name"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8835231,
+            "transcript": " ultimately though tonight not about the disagreements Governor Romney and I may have its what we have in common beginning with our unusual names actually MIT is his middle name"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "351.350s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128385,
+            "transcript": " I wish I could use my middle name",
+            "words": [
+              {
+                "endTime": "352.500s",
+                "startTime": "352.400s",
+                "word": "I"
+              },
+              {
+                "endTime": "352.700s",
+                "startTime": "352.500s",
+                "word": "wish"
+              },
+              {
+                "endTime": "352.700s",
+                "startTime": "352.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "352.900s",
+                "startTime": "352.700s",
+                "word": "could"
+              },
+              {
+                "endTime": "353.100s",
+                "startTime": "352.900s",
+                "word": "use"
+              },
+              {
+                "endTime": "353.200s",
+                "startTime": "353.100s",
+                "word": "my"
+              },
+              {
+                "endTime": "353.500s",
+                "startTime": "353.200s",
+                "word": "middle"
+              },
+              {
+                "endTime": "353.800s",
+                "startTime": "353.500s",
+                "word": "name"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "362.200s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8201751,
+            "transcript": " and even though we're enjoying ourselves tonight we're both thinking ahead of our final debate on Monday I'm hoping the Governor Romney and I will have a chance to answer the question that is on the minds of millions of Americans watching at home",
+            "words": [
+              {
+                "endTime": "365.100s",
+                "startTime": "364.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "365.300s",
+                "startTime": "365.100s",
+                "word": "even"
+              },
+              {
+                "endTime": "365.500s",
+                "startTime": "365.300s",
+                "word": "though"
+              },
+              {
+                "endTime": "365.600s",
+                "startTime": "365.500s",
+                "word": "we're"
+              },
+              {
+                "endTime": "366s",
+                "startTime": "365.600s",
+                "word": "enjoying"
+              },
+              {
+                "endTime": "366.300s",
+                "startTime": "366s",
+                "word": "ourselves"
+              },
+              {
+                "endTime": "366.600s",
+                "startTime": "366.300s",
+                "word": "tonight"
+              },
+              {
+                "endTime": "367.500s",
+                "startTime": "366.600s",
+                "word": "we're"
+              },
+              {
+                "endTime": "367.700s",
+                "startTime": "367.500s",
+                "word": "both"
+              },
+              {
+                "endTime": "367.800s",
+                "startTime": "367.700s",
+                "word": "thinking"
+              },
+              {
+                "endTime": "368.200s",
+                "startTime": "367.800s",
+                "word": "ahead"
+              },
+              {
+                "endTime": "368.400s",
+                "startTime": "368.200s",
+                "word": "of"
+              },
+              {
+                "endTime": "368.600s",
+                "startTime": "368.400s",
+                "word": "our"
+              },
+              {
+                "endTime": "368.900s",
+                "startTime": "368.600s",
+                "word": "final"
+              },
+              {
+                "endTime": "369s",
+                "startTime": "368.900s",
+                "word": "debate"
+              },
+              {
+                "endTime": "369.300s",
+                "startTime": "369s",
+                "word": "on"
+              },
+              {
+                "endTime": "369.700s",
+                "startTime": "369.300s",
+                "word": "Monday"
+              },
+              {
+                "endTime": "370.800s",
+                "startTime": "369.800s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "371s",
+                "startTime": "370.800s",
+                "word": "hoping"
+              },
+              {
+                "endTime": "371.200s",
+                "startTime": "371s",
+                "word": "the"
+              },
+              {
+                "endTime": "371.500s",
+                "startTime": "371.200s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "371.800s",
+                "startTime": "371.500s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "371.900s",
+                "startTime": "371.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "371.900s",
+                "startTime": "371.900s",
+                "word": "I"
+              },
+              {
+                "endTime": "372.100s",
+                "startTime": "371.900s",
+                "word": "will"
+              },
+              {
+                "endTime": "372.200s",
+                "startTime": "372.100s",
+                "word": "have"
+              },
+              {
+                "endTime": "372.300s",
+                "startTime": "372.200s",
+                "word": "a"
+              },
+              {
+                "endTime": "372.600s",
+                "startTime": "372.300s",
+                "word": "chance"
+              },
+              {
+                "endTime": "372.700s",
+                "startTime": "372.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "373s",
+                "startTime": "372.700s",
+                "word": "answer"
+              },
+              {
+                "endTime": "373.300s",
+                "startTime": "373s",
+                "word": "the"
+              },
+              {
+                "endTime": "373.700s",
+                "startTime": "373.300s",
+                "word": "question"
+              },
+              {
+                "endTime": "373.700s",
+                "startTime": "373.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "373.900s",
+                "startTime": "373.700s",
+                "word": "is"
+              },
+              {
+                "endTime": "374.100s",
+                "startTime": "373.900s",
+                "word": "on"
+              },
+              {
+                "endTime": "374.300s",
+                "startTime": "374.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "374.600s",
+                "startTime": "374.300s",
+                "word": "minds"
+              },
+              {
+                "endTime": "374.600s",
+                "startTime": "374.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "374.800s",
+                "startTime": "374.600s",
+                "word": "millions"
+              },
+              {
+                "endTime": "375.100s",
+                "startTime": "374.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "375.700s",
+                "startTime": "375.100s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "376.100s",
+                "startTime": "375.700s",
+                "word": "watching"
+              },
+              {
+                "endTime": "376.200s",
+                "startTime": "376.100s",
+                "word": "at"
+              },
+              {
+                "endTime": "376.300s",
+                "startTime": "376.200s",
+                "word": "home"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "376.950s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8522491,
+            "transcript": " is this happening again why are they putting on The Voice",
+            "words": [
+              {
+                "endTime": "377.700s",
+                "startTime": "377.600s",
+                "word": "is"
+              },
+              {
+                "endTime": "377.800s",
+                "startTime": "377.700s",
+                "word": "this"
+              },
+              {
+                "endTime": "378.200s",
+                "startTime": "377.800s",
+                "word": "happening"
+              },
+              {
+                "endTime": "378.600s",
+                "startTime": "378.200s",
+                "word": "again"
+              },
+              {
+                "endTime": "380.200s",
+                "startTime": "380s",
+                "word": "why"
+              },
+              {
+                "endTime": "380.300s",
+                "startTime": "380.200s",
+                "word": "are"
+              },
+              {
+                "endTime": "380.500s",
+                "startTime": "380.300s",
+                "word": "they"
+              },
+              {
+                "endTime": "380.700s",
+                "startTime": "380.500s",
+                "word": "putting"
+              },
+              {
+                "endTime": "380.800s",
+                "startTime": "380.700s",
+                "word": "on"
+              },
+              {
+                "endTime": "380.900s",
+                "startTime": "380.800s",
+                "word": "The"
+              },
+              {
+                "endTime": "381.100s",
+                "startTime": "380.900s",
+                "word": "Voice"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "382.030s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7752088,
+            "transcript": " the Monday's debate is a little bit different because the topic is foreign policy spoiler alert we got bin Laden",
+            "words": [
+              {
+                "endTime": "384.500s",
+                "startTime": "384.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "384.900s",
+                "startTime": "384.500s",
+                "word": "Monday's"
+              },
+              {
+                "endTime": "385.600s",
+                "startTime": "384.900s",
+                "word": "debate"
+              },
+              {
+                "endTime": "385.700s",
+                "startTime": "385.600s",
+                "word": "is"
+              },
+              {
+                "endTime": "385.800s",
+                "startTime": "385.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "385.900s",
+                "startTime": "385.800s",
+                "word": "little"
+              },
+              {
+                "endTime": "386s",
+                "startTime": "385.900s",
+                "word": "bit"
+              },
+              {
+                "endTime": "386.300s",
+                "startTime": "386s",
+                "word": "different"
+              },
+              {
+                "endTime": "386.500s",
+                "startTime": "386.300s",
+                "word": "because"
+              },
+              {
+                "endTime": "386.700s",
+                "startTime": "386.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "387.300s",
+                "startTime": "386.700s",
+                "word": "topic"
+              },
+              {
+                "endTime": "387.800s",
+                "startTime": "387.600s",
+                "word": "is"
+              },
+              {
+                "endTime": "388.100s",
+                "startTime": "387.800s",
+                "word": "foreign"
+              },
+              {
+                "endTime": "388.700s",
+                "startTime": "388.100s",
+                "word": "policy"
+              },
+              {
+                "endTime": "390.300s",
+                "startTime": "389.800s",
+                "word": "spoiler"
+              },
+              {
+                "endTime": "390.800s",
+                "startTime": "390.300s",
+                "word": "alert"
+              },
+              {
+                "endTime": "391.500s",
+                "startTime": "391.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "391.700s",
+                "startTime": "391.500s",
+                "word": "got"
+              },
+              {
+                "endTime": "391.900s",
+                "startTime": "391.700s",
+                "word": "bin"
+              },
+              {
+                "endTime": "392.300s",
+                "startTime": "391.900s",
+                "word": "Laden"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "394.300s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86673987,
+            "transcript": " of course world affairs are a challenge for every candidate after some of you guys remember after my foreign trip in 2008 that was attacked his celebrity because I was so popular with our allies overseas and I have to say I'm impressed with how well Governor Romney has avoided that problem",
+            "words": [
+              {
+                "endTime": "404.700s",
+                "startTime": "395.400s",
+                "word": "of"
+              },
+              {
+                "endTime": "404.900s",
+                "startTime": "404.700s",
+                "word": "course"
+              },
+              {
+                "endTime": "405.100s",
+                "startTime": "404.900s",
+                "word": "world"
+              },
+              {
+                "endTime": "405.600s",
+                "startTime": "405.100s",
+                "word": "affairs"
+              },
+              {
+                "endTime": "406s",
+                "startTime": "405.600s",
+                "word": "are"
+              },
+              {
+                "endTime": "406.200s",
+                "startTime": "406s",
+                "word": "a"
+              },
+              {
+                "endTime": "406.500s",
+                "startTime": "406.200s",
+                "word": "challenge"
+              },
+              {
+                "endTime": "406.800s",
+                "startTime": "406.500s",
+                "word": "for"
+              },
+              {
+                "endTime": "407s",
+                "startTime": "406.800s",
+                "word": "every"
+              },
+              {
+                "endTime": "407.500s",
+                "startTime": "407s",
+                "word": "candidate"
+              },
+              {
+                "endTime": "408.400s",
+                "startTime": "407.500s",
+                "word": "after"
+              },
+              {
+                "endTime": "409.200s",
+                "startTime": "408.400s",
+                "word": "some"
+              },
+              {
+                "endTime": "409.300s",
+                "startTime": "409.200s",
+                "word": "of"
+              },
+              {
+                "endTime": "409.400s",
+                "startTime": "409.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "409.500s",
+                "startTime": "409.400s",
+                "word": "guys"
+              },
+              {
+                "endTime": "409.700s",
+                "startTime": "409.500s",
+                "word": "remember"
+              },
+              {
+                "endTime": "410.100s",
+                "startTime": "409.700s",
+                "word": "after"
+              },
+              {
+                "endTime": "410.400s",
+                "startTime": "410.100s",
+                "word": "my"
+              },
+              {
+                "endTime": "411.300s",
+                "startTime": "410.400s",
+                "word": "foreign"
+              },
+              {
+                "endTime": "411.500s",
+                "startTime": "411.300s",
+                "word": "trip"
+              },
+              {
+                "endTime": "411.700s",
+                "startTime": "411.500s",
+                "word": "in"
+              },
+              {
+                "endTime": "412.400s",
+                "startTime": "411.700s",
+                "word": "2008"
+              },
+              {
+                "endTime": "412.700s",
+                "startTime": "412.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "412.800s",
+                "startTime": "412.700s",
+                "word": "was"
+              },
+              {
+                "endTime": "413.400s",
+                "startTime": "412.800s",
+                "word": "attacked"
+              },
+              {
+                "endTime": "413.500s",
+                "startTime": "413.400s",
+                "word": "his"
+              },
+              {
+                "endTime": "414.600s",
+                "startTime": "413.500s",
+                "word": "celebrity"
+              },
+              {
+                "endTime": "415.700s",
+                "startTime": "414.600s",
+                "word": "because"
+              },
+              {
+                "endTime": "415.900s",
+                "startTime": "415.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "416s",
+                "startTime": "415.900s",
+                "word": "was"
+              },
+              {
+                "endTime": "416.100s",
+                "startTime": "416s",
+                "word": "so"
+              },
+              {
+                "endTime": "416.300s",
+                "startTime": "416.100s",
+                "word": "popular"
+              },
+              {
+                "endTime": "416.700s",
+                "startTime": "416.300s",
+                "word": "with"
+              },
+              {
+                "endTime": "416.800s",
+                "startTime": "416.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "417.200s",
+                "startTime": "416.800s",
+                "word": "allies"
+              },
+              {
+                "endTime": "417.500s",
+                "startTime": "417.200s",
+                "word": "overseas"
+              },
+              {
+                "endTime": "418.600s",
+                "startTime": "417.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "418.700s",
+                "startTime": "418.600s",
+                "word": "I"
+              },
+              {
+                "endTime": "418.800s",
+                "startTime": "418.700s",
+                "word": "have"
+              },
+              {
+                "endTime": "418.900s",
+                "startTime": "418.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "419s",
+                "startTime": "418.900s",
+                "word": "say"
+              },
+              {
+                "endTime": "419.200s",
+                "startTime": "419s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "419.200s",
+                "startTime": "419.200s",
+                "word": "impressed"
+              },
+              {
+                "endTime": "419.700s",
+                "startTime": "419.200s",
+                "word": "with"
+              },
+              {
+                "endTime": "419.800s",
+                "startTime": "419.700s",
+                "word": "how"
+              },
+              {
+                "endTime": "419.900s",
+                "startTime": "419.800s",
+                "word": "well"
+              },
+              {
+                "endTime": "420.400s",
+                "startTime": "419.900s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "420.800s",
+                "startTime": "420.400s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "421s",
+                "startTime": "420.800s",
+                "word": "has"
+              },
+              {
+                "endTime": "421.300s",
+                "startTime": "421s",
+                "word": "avoided"
+              },
+              {
+                "endTime": "421.600s",
+                "startTime": "421.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "422s",
+                "startTime": "421.600s",
+                "word": "problem"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "423.310s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "428.900s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85615283,
+            "transcript": " I just so everyone knows in our third debate we won't spend a whole lot of time interrupting each other we will also interrupt the moderator just to mix things up",
+            "words": [
+              {
+                "endTime": "430.600s",
+                "startTime": "430.500s",
+                "word": "I"
+              },
+              {
+                "endTime": "430.800s",
+                "startTime": "430.600s",
+                "word": "just"
+              },
+              {
+                "endTime": "430.900s",
+                "startTime": "430.800s",
+                "word": "so"
+              },
+              {
+                "endTime": "431.300s",
+                "startTime": "430.900s",
+                "word": "everyone"
+              },
+              {
+                "endTime": "431.800s",
+                "startTime": "431.300s",
+                "word": "knows"
+              },
+              {
+                "endTime": "431.900s",
+                "startTime": "431.800s",
+                "word": "in"
+              },
+              {
+                "endTime": "432.100s",
+                "startTime": "431.900s",
+                "word": "our"
+              },
+              {
+                "endTime": "432.300s",
+                "startTime": "432.100s",
+                "word": "third"
+              },
+              {
+                "endTime": "432.900s",
+                "startTime": "432.300s",
+                "word": "debate"
+              },
+              {
+                "endTime": "433.200s",
+                "startTime": "433s",
+                "word": "we"
+              },
+              {
+                "endTime": "433.400s",
+                "startTime": "433.200s",
+                "word": "won't"
+              },
+              {
+                "endTime": "433.700s",
+                "startTime": "433.400s",
+                "word": "spend"
+              },
+              {
+                "endTime": "433.800s",
+                "startTime": "433.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "433.900s",
+                "startTime": "433.800s",
+                "word": "whole"
+              },
+              {
+                "endTime": "434.400s",
+                "startTime": "433.900s",
+                "word": "lot"
+              },
+              {
+                "endTime": "434.600s",
+                "startTime": "434.400s",
+                "word": "of"
+              },
+              {
+                "endTime": "434.800s",
+                "startTime": "434.600s",
+                "word": "time"
+              },
+              {
+                "endTime": "435.400s",
+                "startTime": "434.800s",
+                "word": "interrupting"
+              },
+              {
+                "endTime": "435.500s",
+                "startTime": "435.400s",
+                "word": "each"
+              },
+              {
+                "endTime": "435.900s",
+                "startTime": "435.500s",
+                "word": "other"
+              },
+              {
+                "endTime": "437.100s",
+                "startTime": "437s",
+                "word": "we"
+              },
+              {
+                "endTime": "437.300s",
+                "startTime": "437.100s",
+                "word": "will"
+              },
+              {
+                "endTime": "437.800s",
+                "startTime": "437.300s",
+                "word": "also"
+              },
+              {
+                "endTime": "438.600s",
+                "startTime": "437.800s",
+                "word": "interrupt"
+              },
+              {
+                "endTime": "438.700s",
+                "startTime": "438.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "439.300s",
+                "startTime": "438.700s",
+                "word": "moderator"
+              },
+              {
+                "endTime": "439.700s",
+                "startTime": "439.500s",
+                "word": "just"
+              },
+              {
+                "endTime": "439.900s",
+                "startTime": "439.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "440.200s",
+                "startTime": "439.900s",
+                "word": "mix"
+              },
+              {
+                "endTime": "440.400s",
+                "startTime": "440.200s",
+                "word": "things"
+              },
+              {
+                "endTime": "440.800s",
+                "startTime": "440.400s",
+                "word": "up"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "442.360s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7205608,
+            "transcript": " and finally let me say that I've been doing some thinking and I've decided that for our final debate I'm going to go back to the strategy I used to prepare it for the first debate",
+            "words": [
+              {
+                "endTime": "443.600s",
+                "startTime": "443.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "444s",
+                "startTime": "443.600s",
+                "word": "finally"
+              },
+              {
+                "endTime": "444.400s",
+                "startTime": "444s",
+                "word": "let"
+              },
+              {
+                "endTime": "444.400s",
+                "startTime": "444.400s",
+                "word": "me"
+              },
+              {
+                "endTime": "444.500s",
+                "startTime": "444.400s",
+                "word": "say"
+              },
+              {
+                "endTime": "444.700s",
+                "startTime": "444.500s",
+                "word": "that"
+              },
+              {
+                "endTime": "444.800s",
+                "startTime": "444.700s",
+                "word": "I've"
+              },
+              {
+                "endTime": "444.900s",
+                "startTime": "444.800s",
+                "word": "been"
+              },
+              {
+                "endTime": "445.100s",
+                "startTime": "444.900s",
+                "word": "doing"
+              },
+              {
+                "endTime": "445.400s",
+                "startTime": "445.100s",
+                "word": "some"
+              },
+              {
+                "endTime": "445.400s",
+                "startTime": "445.400s",
+                "word": "thinking"
+              },
+              {
+                "endTime": "447s",
+                "startTime": "445.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "447.300s",
+                "startTime": "447s",
+                "word": "I've"
+              },
+              {
+                "endTime": "447.300s",
+                "startTime": "447.300s",
+                "word": "decided"
+              },
+              {
+                "endTime": "448s",
+                "startTime": "447.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "448.200s",
+                "startTime": "448s",
+                "word": "for"
+              },
+              {
+                "endTime": "448.200s",
+                "startTime": "448.200s",
+                "word": "our"
+              },
+              {
+                "endTime": "448.500s",
+                "startTime": "448.200s",
+                "word": "final"
+              },
+              {
+                "endTime": "448.700s",
+                "startTime": "448.500s",
+                "word": "debate"
+              },
+              {
+                "endTime": "449s",
+                "startTime": "448.700s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "449.200s",
+                "startTime": "449s",
+                "word": "going"
+              },
+              {
+                "endTime": "449.300s",
+                "startTime": "449.200s",
+                "word": "to"
+              },
+              {
+                "endTime": "449.400s",
+                "startTime": "449.300s",
+                "word": "go"
+              },
+              {
+                "endTime": "449.700s",
+                "startTime": "449.400s",
+                "word": "back"
+              },
+              {
+                "endTime": "450.300s",
+                "startTime": "449.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "450.500s",
+                "startTime": "450.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "450.700s",
+                "startTime": "450.500s",
+                "word": "strategy"
+              },
+              {
+                "endTime": "451s",
+                "startTime": "450.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "451.500s",
+                "startTime": "451s",
+                "word": "used"
+              },
+              {
+                "endTime": "451.900s",
+                "startTime": "451.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "452.100s",
+                "startTime": "451.900s",
+                "word": "prepare"
+              },
+              {
+                "endTime": "452.300s",
+                "startTime": "452.100s",
+                "word": "it"
+              },
+              {
+                "endTime": "452.300s",
+                "startTime": "452.300s",
+                "word": "for"
+              },
+              {
+                "endTime": "452.400s",
+                "startTime": "452.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "452.700s",
+                "startTime": "452.400s",
+                "word": "first"
+              },
+              {
+                "endTime": "452.900s",
+                "startTime": "452.700s",
+                "word": "debate"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "453.790s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.75474626,
+            "transcript": " I'm just kidding I'm trying to make axelrod's sweat a little bit",
+            "words": [
+              {
+                "endTime": "455.100s",
+                "startTime": "454.900s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "455.300s",
+                "startTime": "455.100s",
+                "word": "just"
+              },
+              {
+                "endTime": "455.500s",
+                "startTime": "455.300s",
+                "word": "kidding"
+              },
+              {
+                "endTime": "455.600s",
+                "startTime": "455.500s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "455.800s",
+                "startTime": "455.600s",
+                "word": "trying"
+              },
+              {
+                "endTime": "455.900s",
+                "startTime": "455.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "456.100s",
+                "startTime": "455.900s",
+                "word": "make"
+              },
+              {
+                "endTime": "456.700s",
+                "startTime": "456.100s",
+                "word": "axelrod's"
+              },
+              {
+                "endTime": "457s",
+                "startTime": "456.700s",
+                "word": "sweat"
+              },
+              {
+                "endTime": "457s",
+                "startTime": "457s",
+                "word": "a"
+              },
+              {
+                "endTime": "457.200s",
+                "startTime": "457s",
+                "word": "little"
+              },
+              {
+                "endTime": "457.500s",
+                "startTime": "457.200s",
+                "word": "bit"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "459.290s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8962302,
+            "transcript": " get him a little nervous",
+            "words": [
+              {
+                "endTime": "460.700s",
+                "startTime": "460.500s",
+                "word": "get"
+              },
+              {
+                "endTime": "460.800s",
+                "startTime": "460.700s",
+                "word": "him"
+              },
+              {
+                "endTime": "460.800s",
+                "startTime": "460.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "461s",
+                "startTime": "460.800s",
+                "word": "little"
+              },
+              {
+                "endTime": "461.500s",
+                "startTime": "461s",
+                "word": "nervous"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "462.120s"
+      },
+      {
+        "alternatives": [
+          {}
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "465.800s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.76142424,
+            "transcript": " in all seriousness I couldn't be more honored to be here this evening I'm honored to be with leaders of both the private and public sectors and particularly the extraordinary work that is done by the Catholic church now it's written in Scripture",
+            "words": [
+              {
+                "endTime": "466.700s",
+                "startTime": "466.300s",
+                "word": "in"
+              },
+              {
+                "endTime": "466.800s",
+                "startTime": "466.700s",
+                "word": "all"
+              },
+              {
+                "endTime": "467s",
+                "startTime": "466.800s",
+                "word": "seriousness"
+              },
+              {
+                "endTime": "468.800s",
+                "startTime": "467s",
+                "word": "I"
+              },
+              {
+                "endTime": "469.200s",
+                "startTime": "468.800s",
+                "word": "couldn't"
+              },
+              {
+                "endTime": "469.500s",
+                "startTime": "469.200s",
+                "word": "be"
+              },
+              {
+                "endTime": "469.600s",
+                "startTime": "469.500s",
+                "word": "more"
+              },
+              {
+                "endTime": "469.800s",
+                "startTime": "469.600s",
+                "word": "honored"
+              },
+              {
+                "endTime": "470.100s",
+                "startTime": "469.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "470.200s",
+                "startTime": "470.100s",
+                "word": "be"
+              },
+              {
+                "endTime": "470.400s",
+                "startTime": "470.200s",
+                "word": "here"
+              },
+              {
+                "endTime": "470.600s",
+                "startTime": "470.400s",
+                "word": "this"
+              },
+              {
+                "endTime": "470.800s",
+                "startTime": "470.600s",
+                "word": "evening"
+              },
+              {
+                "endTime": "471.300s",
+                "startTime": "470.800s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "471.800s",
+                "startTime": "471.300s",
+                "word": "honored"
+              },
+              {
+                "endTime": "471.800s",
+                "startTime": "471.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "471.900s",
+                "startTime": "471.800s",
+                "word": "be"
+              },
+              {
+                "endTime": "472.100s",
+                "startTime": "471.900s",
+                "word": "with"
+              },
+              {
+                "endTime": "472.500s",
+                "startTime": "472.100s",
+                "word": "leaders"
+              },
+              {
+                "endTime": "472.600s",
+                "startTime": "472.500s",
+                "word": "of"
+              },
+              {
+                "endTime": "472.700s",
+                "startTime": "472.600s",
+                "word": "both"
+              },
+              {
+                "endTime": "473.100s",
+                "startTime": "472.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "473.400s",
+                "startTime": "473.100s",
+                "word": "private"
+              },
+              {
+                "endTime": "473.600s",
+                "startTime": "473.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "473.700s",
+                "startTime": "473.600s",
+                "word": "public"
+              },
+              {
+                "endTime": "474.300s",
+                "startTime": "473.700s",
+                "word": "sectors"
+              },
+              {
+                "endTime": "475s",
+                "startTime": "474.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "475.400s",
+                "startTime": "475s",
+                "word": "particularly"
+              },
+              {
+                "endTime": "476.300s",
+                "startTime": "475.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "476.600s",
+                "startTime": "476.300s",
+                "word": "extraordinary"
+              },
+              {
+                "endTime": "477.100s",
+                "startTime": "476.600s",
+                "word": "work"
+              },
+              {
+                "endTime": "477.800s",
+                "startTime": "477.100s",
+                "word": "that"
+              },
+              {
+                "endTime": "478s",
+                "startTime": "477.800s",
+                "word": "is"
+              },
+              {
+                "endTime": "478.100s",
+                "startTime": "478s",
+                "word": "done"
+              },
+              {
+                "endTime": "478.300s",
+                "startTime": "478.100s",
+                "word": "by"
+              },
+              {
+                "endTime": "478.500s",
+                "startTime": "478.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "478.900s",
+                "startTime": "478.500s",
+                "word": "Catholic"
+              },
+              {
+                "endTime": "479s",
+                "startTime": "478.900s",
+                "word": "church"
+              },
+              {
+                "endTime": "480s",
+                "startTime": "479.300s",
+                "word": "now"
+              },
+              {
+                "endTime": "480.200s",
+                "startTime": "480s",
+                "word": "it's"
+              },
+              {
+                "endTime": "480.400s",
+                "startTime": "480.200s",
+                "word": "written"
+              },
+              {
+                "endTime": "480.500s",
+                "startTime": "480.400s",
+                "word": "in"
+              },
+              {
+                "endTime": "481s",
+                "startTime": "480.500s",
+                "word": "Scripture"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "487.480s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.63134444,
+            "transcript": " it's written in Scripture that tribulation produces perseverance and perseverance character and character hope",
+            "words": [
+              {
+                "endTime": "489.200s",
+                "startTime": "487.700s",
+                "word": "it's"
+              },
+              {
+                "endTime": "489.300s",
+                "startTime": "489.200s",
+                "word": "written"
+              },
+              {
+                "endTime": "489.500s",
+                "startTime": "489.300s",
+                "word": "in"
+              },
+              {
+                "endTime": "489.900s",
+                "startTime": "489.500s",
+                "word": "Scripture"
+              },
+              {
+                "endTime": "490s",
+                "startTime": "489.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "491.200s",
+                "startTime": "490s",
+                "word": "tribulation"
+              },
+              {
+                "endTime": "491.900s",
+                "startTime": "491.200s",
+                "word": "produces"
+              },
+              {
+                "endTime": "493.200s",
+                "startTime": "491.900s",
+                "word": "perseverance"
+              },
+              {
+                "endTime": "494.300s",
+                "startTime": "493.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "494.700s",
+                "startTime": "494.300s",
+                "word": "perseverance"
+              },
+              {
+                "endTime": "495.100s",
+                "startTime": "494.700s",
+                "word": "character"
+              },
+              {
+                "endTime": "495.700s",
+                "startTime": "495.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "496.500s",
+                "startTime": "495.700s",
+                "word": "character"
+              },
+              {
+                "endTime": "496.900s",
+                "startTime": "496.500s",
+                "word": "hope"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "497.600s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89514464,
+            "transcript": " this country's fought through some very tough years together and while we still have a lot of work ahead we've come as far as we have mainly because the perseverance and character of ordinary Americans and it says something about who we are as a people that in the middle of a contentious election season opposing candidates can share the same stage people from both parties can come together",
+            "words": [
+              {
+                "endTime": "498.700s",
+                "startTime": "498.200s",
+                "word": "this"
+              },
+              {
+                "endTime": "499s",
+                "startTime": "498.700s",
+                "word": "country's"
+              },
+              {
+                "endTime": "499.300s",
+                "startTime": "499s",
+                "word": "fought"
+              },
+              {
+                "endTime": "499.500s",
+                "startTime": "499.300s",
+                "word": "through"
+              },
+              {
+                "endTime": "499.700s",
+                "startTime": "499.500s",
+                "word": "some"
+              },
+              {
+                "endTime": "499.900s",
+                "startTime": "499.700s",
+                "word": "very"
+              },
+              {
+                "endTime": "500.500s",
+                "startTime": "499.900s",
+                "word": "tough"
+              },
+              {
+                "endTime": "500.900s",
+                "startTime": "500.500s",
+                "word": "years"
+              },
+              {
+                "endTime": "501.100s",
+                "startTime": "500.900s",
+                "word": "together"
+              },
+              {
+                "endTime": "502.100s",
+                "startTime": "501.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "502.300s",
+                "startTime": "502.100s",
+                "word": "while"
+              },
+              {
+                "endTime": "502.400s",
+                "startTime": "502.300s",
+                "word": "we"
+              },
+              {
+                "endTime": "502.500s",
+                "startTime": "502.400s",
+                "word": "still"
+              },
+              {
+                "endTime": "502.800s",
+                "startTime": "502.500s",
+                "word": "have"
+              },
+              {
+                "endTime": "502.800s",
+                "startTime": "502.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "503s",
+                "startTime": "502.800s",
+                "word": "lot"
+              },
+              {
+                "endTime": "503s",
+                "startTime": "503s",
+                "word": "of"
+              },
+              {
+                "endTime": "503.300s",
+                "startTime": "503s",
+                "word": "work"
+              },
+              {
+                "endTime": "503.500s",
+                "startTime": "503.300s",
+                "word": "ahead"
+              },
+              {
+                "endTime": "504.300s",
+                "startTime": "503.500s",
+                "word": "we've"
+              },
+              {
+                "endTime": "504.400s",
+                "startTime": "504.300s",
+                "word": "come"
+              },
+              {
+                "endTime": "504.500s",
+                "startTime": "504.400s",
+                "word": "as"
+              },
+              {
+                "endTime": "504.700s",
+                "startTime": "504.500s",
+                "word": "far"
+              },
+              {
+                "endTime": "504.800s",
+                "startTime": "504.700s",
+                "word": "as"
+              },
+              {
+                "endTime": "504.900s",
+                "startTime": "504.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "505s",
+                "startTime": "504.900s",
+                "word": "have"
+              },
+              {
+                "endTime": "506.500s",
+                "startTime": "505s",
+                "word": "mainly"
+              },
+              {
+                "endTime": "506.800s",
+                "startTime": "506.500s",
+                "word": "because"
+              },
+              {
+                "endTime": "507s",
+                "startTime": "506.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "507.400s",
+                "startTime": "507s",
+                "word": "perseverance"
+              },
+              {
+                "endTime": "508.200s",
+                "startTime": "507.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "508.700s",
+                "startTime": "508.200s",
+                "word": "character"
+              },
+              {
+                "endTime": "508.800s",
+                "startTime": "508.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "509.400s",
+                "startTime": "508.800s",
+                "word": "ordinary"
+              },
+              {
+                "endTime": "509.900s",
+                "startTime": "509.400s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "510.800s",
+                "startTime": "509.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "510.900s",
+                "startTime": "510.800s",
+                "word": "it"
+              },
+              {
+                "endTime": "511.100s",
+                "startTime": "510.900s",
+                "word": "says"
+              },
+              {
+                "endTime": "511.400s",
+                "startTime": "511.100s",
+                "word": "something"
+              },
+              {
+                "endTime": "511.500s",
+                "startTime": "511.400s",
+                "word": "about"
+              },
+              {
+                "endTime": "511.800s",
+                "startTime": "511.500s",
+                "word": "who"
+              },
+              {
+                "endTime": "511.900s",
+                "startTime": "511.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "512s",
+                "startTime": "511.900s",
+                "word": "are"
+              },
+              {
+                "endTime": "512.200s",
+                "startTime": "512s",
+                "word": "as"
+              },
+              {
+                "endTime": "512.200s",
+                "startTime": "512.200s",
+                "word": "a"
+              },
+              {
+                "endTime": "512.300s",
+                "startTime": "512.200s",
+                "word": "people"
+              },
+              {
+                "endTime": "512.700s",
+                "startTime": "512.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "513.400s",
+                "startTime": "512.700s",
+                "word": "in"
+              },
+              {
+                "endTime": "513.500s",
+                "startTime": "513.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "513.700s",
+                "startTime": "513.500s",
+                "word": "middle"
+              },
+              {
+                "endTime": "513.800s",
+                "startTime": "513.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "513.800s",
+                "startTime": "513.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "514.300s",
+                "startTime": "513.800s",
+                "word": "contentious"
+              },
+              {
+                "endTime": "514.500s",
+                "startTime": "514.300s",
+                "word": "election"
+              },
+              {
+                "endTime": "515.200s",
+                "startTime": "514.500s",
+                "word": "season"
+              },
+              {
+                "endTime": "516.200s",
+                "startTime": "515.200s",
+                "word": "opposing"
+              },
+              {
+                "endTime": "516.700s",
+                "startTime": "516.200s",
+                "word": "candidates"
+              },
+              {
+                "endTime": "516.900s",
+                "startTime": "516.700s",
+                "word": "can"
+              },
+              {
+                "endTime": "517.200s",
+                "startTime": "516.900s",
+                "word": "share"
+              },
+              {
+                "endTime": "517.300s",
+                "startTime": "517.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "517.600s",
+                "startTime": "517.300s",
+                "word": "same"
+              },
+              {
+                "endTime": "517.900s",
+                "startTime": "517.600s",
+                "word": "stage"
+              },
+              {
+                "endTime": "519.100s",
+                "startTime": "517.900s",
+                "word": "people"
+              },
+              {
+                "endTime": "519.400s",
+                "startTime": "519.100s",
+                "word": "from"
+              },
+              {
+                "endTime": "519.500s",
+                "startTime": "519.400s",
+                "word": "both"
+              },
+              {
+                "endTime": "519.600s",
+                "startTime": "519.500s",
+                "word": "parties"
+              },
+              {
+                "endTime": "520.400s",
+                "startTime": "519.600s",
+                "word": "can"
+              },
+              {
+                "endTime": "520.500s",
+                "startTime": "520.400s",
+                "word": "come"
+              },
+              {
+                "endTime": "520.700s",
+                "startTime": "520.500s",
+                "word": "together"
+              }
+            ]
+          },
+          {
+            "confidence": 0.89432406,
+            "transcript": " this country's fought through some very tough years together and while we still have a lot of work ahead we've come as far as we have mainly because the perseverance and character of ordinary Americans and it says something about who we are as a people that in the middle of a contentious election season two opposing candidates can share the same stage people from both parties can come together"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "528.260s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8592453,
+            "transcript": " come together to support a worthy cause and I particularly want to thank Governor Romney for joining me because I admire him very much as a family man and a loving father and those are two titles that will always matter more than any political ones",
+            "words": [
+              {
+                "endTime": "528.800s",
+                "startTime": "528.300s",
+                "word": "come"
+              },
+              {
+                "endTime": "528.900s",
+                "startTime": "528.800s",
+                "word": "together"
+              },
+              {
+                "endTime": "529.200s",
+                "startTime": "528.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "529.400s",
+                "startTime": "529.200s",
+                "word": "support"
+              },
+              {
+                "endTime": "529.600s",
+                "startTime": "529.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "529.900s",
+                "startTime": "529.600s",
+                "word": "worthy"
+              },
+              {
+                "endTime": "530.100s",
+                "startTime": "529.900s",
+                "word": "cause"
+              },
+              {
+                "endTime": "531.200s",
+                "startTime": "530.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "531.300s",
+                "startTime": "531.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "531.400s",
+                "startTime": "531.300s",
+                "word": "particularly"
+              },
+              {
+                "endTime": "531.800s",
+                "startTime": "531.400s",
+                "word": "want"
+              },
+              {
+                "endTime": "532s",
+                "startTime": "531.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "532s",
+                "startTime": "532s",
+                "word": "thank"
+              },
+              {
+                "endTime": "532.400s",
+                "startTime": "532s",
+                "word": "Governor"
+              },
+              {
+                "endTime": "532.900s",
+                "startTime": "532.400s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "533.900s",
+                "startTime": "532.900s",
+                "word": "for"
+              },
+              {
+                "endTime": "534.200s",
+                "startTime": "533.900s",
+                "word": "joining"
+              },
+              {
+                "endTime": "534.300s",
+                "startTime": "534.200s",
+                "word": "me"
+              },
+              {
+                "endTime": "534.800s",
+                "startTime": "534.300s",
+                "word": "because"
+              },
+              {
+                "endTime": "535.700s",
+                "startTime": "534.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "536s",
+                "startTime": "535.700s",
+                "word": "admire"
+              },
+              {
+                "endTime": "536.200s",
+                "startTime": "536s",
+                "word": "him"
+              },
+              {
+                "endTime": "536.300s",
+                "startTime": "536.200s",
+                "word": "very"
+              },
+              {
+                "endTime": "536.500s",
+                "startTime": "536.300s",
+                "word": "much"
+              },
+              {
+                "endTime": "536.800s",
+                "startTime": "536.500s",
+                "word": "as"
+              },
+              {
+                "endTime": "536.900s",
+                "startTime": "536.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "536.900s",
+                "startTime": "536.900s",
+                "word": "family"
+              },
+              {
+                "endTime": "537.400s",
+                "startTime": "536.900s",
+                "word": "man"
+              },
+              {
+                "endTime": "538s",
+                "startTime": "537.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "538s",
+                "startTime": "538s",
+                "word": "a"
+              },
+              {
+                "endTime": "538.200s",
+                "startTime": "538s",
+                "word": "loving"
+              },
+              {
+                "endTime": "538.400s",
+                "startTime": "538.200s",
+                "word": "father"
+              },
+              {
+                "endTime": "539.400s",
+                "startTime": "538.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "539.500s",
+                "startTime": "539.400s",
+                "word": "those"
+              },
+              {
+                "endTime": "539.700s",
+                "startTime": "539.500s",
+                "word": "are"
+              },
+              {
+                "endTime": "539.800s",
+                "startTime": "539.700s",
+                "word": "two"
+              },
+              {
+                "endTime": "540.300s",
+                "startTime": "539.800s",
+                "word": "titles"
+              },
+              {
+                "endTime": "541.200s",
+                "startTime": "540.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "541.400s",
+                "startTime": "541.200s",
+                "word": "will"
+              },
+              {
+                "endTime": "541.600s",
+                "startTime": "541.400s",
+                "word": "always"
+              },
+              {
+                "endTime": "541.900s",
+                "startTime": "541.600s",
+                "word": "matter"
+              },
+              {
+                "endTime": "542.300s",
+                "startTime": "541.900s",
+                "word": "more"
+              },
+              {
+                "endTime": "542.900s",
+                "startTime": "542.300s",
+                "word": "than"
+              },
+              {
+                "endTime": "543.200s",
+                "startTime": "542.900s",
+                "word": "any"
+              },
+              {
+                "endTime": "543.400s",
+                "startTime": "543.200s",
+                "word": "political"
+              },
+              {
+                "endTime": "543.800s",
+                "startTime": "543.400s",
+                "word": "ones"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "544.460s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90885997,
+            "transcript": " so we may have different political perspectives but I think in fact I'm certain that we share the hope that the next four years will reflect the same decency in the same willingness to come together for a higher purpose that are on display this evening may we all in the words of Al Smith do our full Duty as Citizens God bless you God bless your family",
+            "words": [
+              {
+                "endTime": "545.700s",
+                "startTime": "545.200s",
+                "word": "so"
+              },
+              {
+                "endTime": "552s",
+                "startTime": "551.900s",
+                "word": "we"
+              },
+              {
+                "endTime": "552.200s",
+                "startTime": "552s",
+                "word": "may"
+              },
+              {
+                "endTime": "552.400s",
+                "startTime": "552.200s",
+                "word": "have"
+              },
+              {
+                "endTime": "552.700s",
+                "startTime": "552.400s",
+                "word": "different"
+              },
+              {
+                "endTime": "553.100s",
+                "startTime": "552.700s",
+                "word": "political"
+              },
+              {
+                "endTime": "554s",
+                "startTime": "553.100s",
+                "word": "perspectives"
+              },
+              {
+                "endTime": "554.300s",
+                "startTime": "554.200s",
+                "word": "but"
+              },
+              {
+                "endTime": "554.400s",
+                "startTime": "554.300s",
+                "word": "I"
+              },
+              {
+                "endTime": "554.800s",
+                "startTime": "554.400s",
+                "word": "think"
+              },
+              {
+                "endTime": "555.400s",
+                "startTime": "555.300s",
+                "word": "in"
+              },
+              {
+                "endTime": "555.700s",
+                "startTime": "555.400s",
+                "word": "fact"
+              },
+              {
+                "endTime": "555.800s",
+                "startTime": "555.700s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "556.300s",
+                "startTime": "555.800s",
+                "word": "certain"
+              },
+              {
+                "endTime": "556.900s",
+                "startTime": "556.800s",
+                "word": "that"
+              },
+              {
+                "endTime": "557.100s",
+                "startTime": "556.900s",
+                "word": "we"
+              },
+              {
+                "endTime": "557.700s",
+                "startTime": "557.100s",
+                "word": "share"
+              },
+              {
+                "endTime": "557.700s",
+                "startTime": "557.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "558s",
+                "startTime": "557.700s",
+                "word": "hope"
+              },
+              {
+                "endTime": "558.200s",
+                "startTime": "558s",
+                "word": "that"
+              },
+              {
+                "endTime": "558.200s",
+                "startTime": "558.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "558.600s",
+                "startTime": "558.200s",
+                "word": "next"
+              },
+              {
+                "endTime": "558.900s",
+                "startTime": "558.600s",
+                "word": "four"
+              },
+              {
+                "endTime": "559.200s",
+                "startTime": "558.900s",
+                "word": "years"
+              },
+              {
+                "endTime": "559.300s",
+                "startTime": "559.200s",
+                "word": "will"
+              },
+              {
+                "endTime": "560.300s",
+                "startTime": "559.300s",
+                "word": "reflect"
+              },
+              {
+                "endTime": "560.500s",
+                "startTime": "560.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "560.700s",
+                "startTime": "560.500s",
+                "word": "same"
+              },
+              {
+                "endTime": "561.400s",
+                "startTime": "560.700s",
+                "word": "decency"
+              },
+              {
+                "endTime": "561.800s",
+                "startTime": "561.700s",
+                "word": "in"
+              },
+              {
+                "endTime": "561.900s",
+                "startTime": "561.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "562.200s",
+                "startTime": "561.900s",
+                "word": "same"
+              },
+              {
+                "endTime": "562.500s",
+                "startTime": "562.200s",
+                "word": "willingness"
+              },
+              {
+                "endTime": "562.700s",
+                "startTime": "562.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "562.800s",
+                "startTime": "562.700s",
+                "word": "come"
+              },
+              {
+                "endTime": "563.200s",
+                "startTime": "562.800s",
+                "word": "together"
+              },
+              {
+                "endTime": "563.400s",
+                "startTime": "563.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "563.400s",
+                "startTime": "563.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "563.700s",
+                "startTime": "563.400s",
+                "word": "higher"
+              },
+              {
+                "endTime": "564.200s",
+                "startTime": "563.700s",
+                "word": "purpose"
+              },
+              {
+                "endTime": "564.700s",
+                "startTime": "564.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "564.800s",
+                "startTime": "564.700s",
+                "word": "are"
+              },
+              {
+                "endTime": "565s",
+                "startTime": "564.800s",
+                "word": "on"
+              },
+              {
+                "endTime": "565.300s",
+                "startTime": "565s",
+                "word": "display"
+              },
+              {
+                "endTime": "565.500s",
+                "startTime": "565.300s",
+                "word": "this"
+              },
+              {
+                "endTime": "565.900s",
+                "startTime": "565.500s",
+                "word": "evening"
+              },
+              {
+                "endTime": "567s",
+                "startTime": "566.800s",
+                "word": "may"
+              },
+              {
+                "endTime": "567.100s",
+                "startTime": "567s",
+                "word": "we"
+              },
+              {
+                "endTime": "567.600s",
+                "startTime": "567.100s",
+                "word": "all"
+              },
+              {
+                "endTime": "567.800s",
+                "startTime": "567.700s",
+                "word": "in"
+              },
+              {
+                "endTime": "567.900s",
+                "startTime": "567.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "568.500s",
+                "startTime": "567.900s",
+                "word": "words"
+              },
+              {
+                "endTime": "568.800s",
+                "startTime": "568.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "568.900s",
+                "startTime": "568.800s",
+                "word": "Al"
+              },
+              {
+                "endTime": "569.400s",
+                "startTime": "568.900s",
+                "word": "Smith"
+              },
+              {
+                "endTime": "570.200s",
+                "startTime": "570s",
+                "word": "do"
+              },
+              {
+                "endTime": "570.700s",
+                "startTime": "570.200s",
+                "word": "our"
+              },
+              {
+                "endTime": "571.200s",
+                "startTime": "570.900s",
+                "word": "full"
+              },
+              {
+                "endTime": "571.600s",
+                "startTime": "571.200s",
+                "word": "Duty"
+              },
+              {
+                "endTime": "571.800s",
+                "startTime": "571.700s",
+                "word": "as"
+              },
+              {
+                "endTime": "572.400s",
+                "startTime": "571.800s",
+                "word": "Citizens"
+              },
+              {
+                "endTime": "573.200s",
+                "startTime": "573s",
+                "word": "God"
+              },
+              {
+                "endTime": "573.500s",
+                "startTime": "573.200s",
+                "word": "bless"
+              },
+              {
+                "endTime": "573.700s",
+                "startTime": "573.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "574.100s",
+                "startTime": "573.900s",
+                "word": "God"
+              },
+              {
+                "endTime": "574.200s",
+                "startTime": "574.100s",
+                "word": "bless"
+              },
+              {
+                "endTime": "574.300s",
+                "startTime": "574.200s",
+                "word": "your"
+              },
+              {
+                "endTime": "574.900s",
+                "startTime": "574.300s",
+                "word": "family"
+              }
+            ]
+          },
+          {
+            "confidence": 0.87120694,
+            "transcript": " so we may have different political perspectives but I think in fact I'm certain that we share the hope that the next four years will reflect the same decency in the same willingness to come together for a higher purpose that are on display this evening may we all in the words of Al Smith do are full Duty as Citizens God bless you God bless your family"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "574.990s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.73519176,
+            "transcript": " and may God bless the United States of America thank you very much",
+            "words": [
+              {
+                "endTime": "575.800s",
+                "startTime": "575s",
+                "word": "and"
+              },
+              {
+                "endTime": "575.800s",
+                "startTime": "575.800s",
+                "word": "may"
+              },
+              {
+                "endTime": "575.900s",
+                "startTime": "575.800s",
+                "word": "God"
+              },
+              {
+                "endTime": "576.100s",
+                "startTime": "575.900s",
+                "word": "bless"
+              },
+              {
+                "endTime": "576.400s",
+                "startTime": "576.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "576.400s",
+                "startTime": "576.400s",
+                "word": "United"
+              },
+              {
+                "endTime": "576.700s",
+                "startTime": "576.400s",
+                "word": "States"
+              },
+              {
+                "endTime": "577s",
+                "startTime": "576.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "577.300s",
+                "startTime": "577s",
+                "word": "America"
+              },
+              {
+                "endTime": "577.800s",
+                "startTime": "577.400s",
+                "word": "thank"
+              },
+              {
+                "endTime": "577.900s",
+                "startTime": "577.800s",
+                "word": "you"
+              },
+              {
+                "endTime": "577.900s",
+                "startTime": "577.900s",
+                "word": "very"
+              },
+              {
+                "endTime": "578s",
+                "startTime": "577.900s",
+                "word": "much"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "578.960s"
+      }
+    ],
+    "totalBilledTime": "585s"
+  }
+}

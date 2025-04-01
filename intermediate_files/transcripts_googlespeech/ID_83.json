@@ -1,0 +1,5477 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2021-12-11T21:33:48.352206Z",
+    "progressPercent": 100,
+    "startTime": "2021-12-11T21:32:37.180610Z",
+    "uri": "gs://trimmedspeeches/ID_83_cut.wav"
+  },
+  "name": "4949216312335312257",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.889515,
+            "transcript": "secretary Panetta General Dempsey member of our armed forces and most importantly to the families survivors and loved ones of those we lost",
+            "words": [
+              {
+                "endTime": "2.100s",
+                "startTime": "0.400s",
+                "word": "secretary"
+              },
+              {
+                "endTime": "2.100s",
+                "startTime": "2.100s",
+                "word": "Panetta"
+              },
+              {
+                "endTime": "3.900s",
+                "startTime": "2.100s",
+                "word": "General"
+              },
+              {
+                "endTime": "4.300s",
+                "startTime": "3.900s",
+                "word": "Dempsey"
+              },
+              {
+                "endTime": "5.800s",
+                "startTime": "4.300s",
+                "word": "member"
+              },
+              {
+                "endTime": "6s",
+                "startTime": "5.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "6.200s",
+                "startTime": "6s",
+                "word": "our"
+              },
+              {
+                "endTime": "6.500s",
+                "startTime": "6.200s",
+                "word": "armed"
+              },
+              {
+                "endTime": "6.600s",
+                "startTime": "6.500s",
+                "word": "forces"
+              },
+              {
+                "endTime": "7.500s",
+                "startTime": "6.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "7.900s",
+                "startTime": "7.500s",
+                "word": "most"
+              },
+              {
+                "endTime": "8.100s",
+                "startTime": "7.900s",
+                "word": "importantly"
+              },
+              {
+                "endTime": "8.800s",
+                "startTime": "8.100s",
+                "word": "to"
+              },
+              {
+                "endTime": "8.900s",
+                "startTime": "8.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "9.400s",
+                "startTime": "8.900s",
+                "word": "families"
+              },
+              {
+                "endTime": "11.300s",
+                "startTime": "9.400s",
+                "word": "survivors"
+              },
+              {
+                "endTime": "11.800s",
+                "startTime": "11.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "12s",
+                "startTime": "11.800s",
+                "word": "loved"
+              },
+              {
+                "endTime": "12.300s",
+                "startTime": "12s",
+                "word": "ones"
+              },
+              {
+                "endTime": "13.100s",
+                "startTime": "12.300s",
+                "word": "of"
+              },
+              {
+                "endTime": "13.300s",
+                "startTime": "13.100s",
+                "word": "those"
+              },
+              {
+                "endTime": "13.600s",
+                "startTime": "13.300s",
+                "word": "we"
+              },
+              {
+                "endTime": "13.600s",
+                "startTime": "13.600s",
+                "word": "lost"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "14.460s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8688094,
+            "transcript": " Michelle and I are humbled to join you again on this solemn anniversary",
+            "words": [
+              {
+                "endTime": "15.600s",
+                "startTime": "14.900s",
+                "word": "Michelle"
+              },
+              {
+                "endTime": "15.800s",
+                "startTime": "15.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "16s",
+                "startTime": "15.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "16.200s",
+                "startTime": "16s",
+                "word": "are"
+              },
+              {
+                "endTime": "16.800s",
+                "startTime": "16.200s",
+                "word": "humbled"
+              },
+              {
+                "endTime": "17.300s",
+                "startTime": "16.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "17.600s",
+                "startTime": "17.300s",
+                "word": "join"
+              },
+              {
+                "endTime": "17.700s",
+                "startTime": "17.600s",
+                "word": "you"
+              },
+              {
+                "endTime": "17.700s",
+                "startTime": "17.700s",
+                "word": "again"
+              },
+              {
+                "endTime": "18.200s",
+                "startTime": "17.700s",
+                "word": "on"
+              },
+              {
+                "endTime": "18.400s",
+                "startTime": "18.200s",
+                "word": "this"
+              },
+              {
+                "endTime": "19.100s",
+                "startTime": "18.400s",
+                "word": "solemn"
+              },
+              {
+                "endTime": "19.200s",
+                "startTime": "19.100s",
+                "word": "anniversary"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "20.200s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.84202254,
+            "transcript": " today we remember a day that began like so many others",
+            "words": [
+              {
+                "endTime": "22.100s",
+                "startTime": "21.500s",
+                "word": "today"
+              },
+              {
+                "endTime": "22.800s",
+                "startTime": "22.100s",
+                "word": "we"
+              },
+              {
+                "endTime": "23s",
+                "startTime": "22.800s",
+                "word": "remember"
+              },
+              {
+                "endTime": "23.500s",
+                "startTime": "23s",
+                "word": "a"
+              },
+              {
+                "endTime": "23.800s",
+                "startTime": "23.500s",
+                "word": "day"
+              },
+              {
+                "endTime": "24s",
+                "startTime": "23.800s",
+                "word": "that"
+              },
+              {
+                "endTime": "24.200s",
+                "startTime": "24s",
+                "word": "began"
+              },
+              {
+                "endTime": "24.600s",
+                "startTime": "24.200s",
+                "word": "like"
+              },
+              {
+                "endTime": "24.800s",
+                "startTime": "24.600s",
+                "word": "so"
+              },
+              {
+                "endTime": "24.900s",
+                "startTime": "24.800s",
+                "word": "many"
+              },
+              {
+                "endTime": "25.300s",
+                "startTime": "24.900s",
+                "word": "others"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "25.790s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128385,
+            "transcript": " there were rides to school and commutes to work",
+            "words": [
+              {
+                "endTime": "27s",
+                "startTime": "26.800s",
+                "word": "there"
+              },
+              {
+                "endTime": "27.100s",
+                "startTime": "27s",
+                "word": "were"
+              },
+              {
+                "endTime": "27.600s",
+                "startTime": "27.100s",
+                "word": "rides"
+              },
+              {
+                "endTime": "27.700s",
+                "startTime": "27.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "27.800s",
+                "startTime": "27.700s",
+                "word": "school"
+              },
+              {
+                "endTime": "29.300s",
+                "startTime": "27.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "29.800s",
+                "startTime": "29.300s",
+                "word": "commutes"
+              },
+              {
+                "endTime": "29.800s",
+                "startTime": "29.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "30s",
+                "startTime": "29.800s",
+                "word": "work"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "30.820s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128386,
+            "transcript": " early flights and familiar routines quick hugs and Quiet Moments",
+            "words": [
+              {
+                "endTime": "32.100s",
+                "startTime": "31.900s",
+                "word": "early"
+              },
+              {
+                "endTime": "32.600s",
+                "startTime": "32.100s",
+                "word": "flights"
+              },
+              {
+                "endTime": "32.800s",
+                "startTime": "32.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "33.300s",
+                "startTime": "32.800s",
+                "word": "familiar"
+              },
+              {
+                "endTime": "34s",
+                "startTime": "33.300s",
+                "word": "routines"
+              },
+              {
+                "endTime": "35.200s",
+                "startTime": "34.900s",
+                "word": "quick"
+              },
+              {
+                "endTime": "35.800s",
+                "startTime": "35.200s",
+                "word": "hugs"
+              },
+              {
+                "endTime": "36.900s",
+                "startTime": "36.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "37.300s",
+                "startTime": "36.900s",
+                "word": "Quiet"
+              },
+              {
+                "endTime": "37.900s",
+                "startTime": "37.300s",
+                "word": "Moments"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "38.350s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9040379,
+            "transcript": " it was day like this one the Clear Blue Sky but a sky that would soon be filled with clouds of smoke and prayers of 1/8 Nation shaken to its core",
+            "words": [
+              {
+                "endTime": "39.500s",
+                "startTime": "39.400s",
+                "word": "it"
+              },
+              {
+                "endTime": "39.800s",
+                "startTime": "39.500s",
+                "word": "was"
+              },
+              {
+                "endTime": "40.300s",
+                "startTime": "39.800s",
+                "word": "day"
+              },
+              {
+                "endTime": "41.200s",
+                "startTime": "41s",
+                "word": "like"
+              },
+              {
+                "endTime": "41.400s",
+                "startTime": "41.200s",
+                "word": "this"
+              },
+              {
+                "endTime": "41.600s",
+                "startTime": "41.400s",
+                "word": "one"
+              },
+              {
+                "endTime": "42.400s",
+                "startTime": "42.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "42.600s",
+                "startTime": "42.400s",
+                "word": "Clear"
+              },
+              {
+                "endTime": "42.900s",
+                "startTime": "42.600s",
+                "word": "Blue"
+              },
+              {
+                "endTime": "43.500s",
+                "startTime": "42.900s",
+                "word": "Sky"
+              },
+              {
+                "endTime": "45.200s",
+                "startTime": "45s",
+                "word": "but"
+              },
+              {
+                "endTime": "45.200s",
+                "startTime": "45.200s",
+                "word": "a"
+              },
+              {
+                "endTime": "45.500s",
+                "startTime": "45.200s",
+                "word": "sky"
+              },
+              {
+                "endTime": "45.700s",
+                "startTime": "45.500s",
+                "word": "that"
+              },
+              {
+                "endTime": "46.100s",
+                "startTime": "45.700s",
+                "word": "would"
+              },
+              {
+                "endTime": "46.400s",
+                "startTime": "46.200s",
+                "word": "soon"
+              },
+              {
+                "endTime": "46.600s",
+                "startTime": "46.400s",
+                "word": "be"
+              },
+              {
+                "endTime": "47s",
+                "startTime": "46.600s",
+                "word": "filled"
+              },
+              {
+                "endTime": "47.200s",
+                "startTime": "47s",
+                "word": "with"
+              },
+              {
+                "endTime": "47.500s",
+                "startTime": "47.200s",
+                "word": "clouds"
+              },
+              {
+                "endTime": "47.700s",
+                "startTime": "47.500s",
+                "word": "of"
+              },
+              {
+                "endTime": "48.200s",
+                "startTime": "47.700s",
+                "word": "smoke"
+              },
+              {
+                "endTime": "50s",
+                "startTime": "49.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "50.900s",
+                "startTime": "50s",
+                "word": "prayers"
+              },
+              {
+                "endTime": "51.100s",
+                "startTime": "51s",
+                "word": "of"
+              },
+              {
+                "endTime": "51.500s",
+                "startTime": "51.100s",
+                "word": "1/8"
+              },
+              {
+                "endTime": "52.200s",
+                "startTime": "51.500s",
+                "word": "Nation"
+              },
+              {
+                "endTime": "53.300s",
+                "startTime": "52.600s",
+                "word": "shaken"
+              },
+              {
+                "endTime": "53.600s",
+                "startTime": "53.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "53.800s",
+                "startTime": "53.600s",
+                "word": "its"
+              },
+              {
+                "endTime": "54.200s",
+                "startTime": "53.800s",
+                "word": "core"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "54.630s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.83710915,
+            "transcript": " even now all these years later it is easy for those of us who lived through that day to close our eyes and to find ourselves back there",
+            "words": [
+              {
+                "endTime": "57.300s",
+                "startTime": "55.700s",
+                "word": "even"
+              },
+              {
+                "endTime": "57.400s",
+                "startTime": "57.300s",
+                "word": "now"
+              },
+              {
+                "endTime": "58.400s",
+                "startTime": "57.400s",
+                "word": "all"
+              },
+              {
+                "endTime": "58.500s",
+                "startTime": "58.400s",
+                "word": "these"
+              },
+              {
+                "endTime": "58.700s",
+                "startTime": "58.500s",
+                "word": "years"
+              },
+              {
+                "endTime": "58.900s",
+                "startTime": "58.700s",
+                "word": "later"
+              },
+              {
+                "endTime": "60.600s",
+                "startTime": "58.900s",
+                "word": "it"
+              },
+              {
+                "endTime": "60.600s",
+                "startTime": "60.600s",
+                "word": "is"
+              },
+              {
+                "endTime": "61.100s",
+                "startTime": "60.600s",
+                "word": "easy"
+              },
+              {
+                "endTime": "61.200s",
+                "startTime": "61.100s",
+                "word": "for"
+              },
+              {
+                "endTime": "61.400s",
+                "startTime": "61.200s",
+                "word": "those"
+              },
+              {
+                "endTime": "61.500s",
+                "startTime": "61.400s",
+                "word": "of"
+              },
+              {
+                "endTime": "61.800s",
+                "startTime": "61.500s",
+                "word": "us"
+              },
+              {
+                "endTime": "62.600s",
+                "startTime": "61.800s",
+                "word": "who"
+              },
+              {
+                "endTime": "62.800s",
+                "startTime": "62.600s",
+                "word": "lived"
+              },
+              {
+                "endTime": "62.900s",
+                "startTime": "62.800s",
+                "word": "through"
+              },
+              {
+                "endTime": "63.100s",
+                "startTime": "62.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "63.300s",
+                "startTime": "63.100s",
+                "word": "day"
+              },
+              {
+                "endTime": "63.500s",
+                "startTime": "63.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "63.700s",
+                "startTime": "63.500s",
+                "word": "close"
+              },
+              {
+                "endTime": "63.900s",
+                "startTime": "63.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "64.300s",
+                "startTime": "63.900s",
+                "word": "eyes"
+              },
+              {
+                "endTime": "64.600s",
+                "startTime": "64.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "64.800s",
+                "startTime": "64.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "65.100s",
+                "startTime": "64.800s",
+                "word": "find"
+              },
+              {
+                "endTime": "65.300s",
+                "startTime": "65.100s",
+                "word": "ourselves"
+              },
+              {
+                "endTime": "66.100s",
+                "startTime": "65.300s",
+                "word": "back"
+              },
+              {
+                "endTime": "66.400s",
+                "startTime": "66.100s",
+                "word": "there"
+              }
+            ]
+          },
+          {
+            "confidence": 0.82760084,
+            "transcript": " even now all these years later it is easy for those of us who lived through that data close our eyes and to find ourselves back there"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "66.900s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.6718641,
+            "transcript": " come back here",
+            "words": [
+              {
+                "endTime": "67.700s",
+                "startTime": "67.300s",
+                "word": "come"
+              },
+              {
+                "endTime": "67.900s",
+                "startTime": "67.700s",
+                "word": "back"
+              },
+              {
+                "endTime": "68.100s",
+                "startTime": "67.900s",
+                "word": "here"
+              }
+            ]
+          },
+          {
+            "confidence": 0.589269,
+            "transcript": " back here"
+          },
+          {
+            "confidence": 0.6705645,
+            "transcript": " I'm back here"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "68.810s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128384,
+            "transcript": " back when grief crashed over us like an awful wave when Americans everywhere held each other tight seeking the reassurance that the world we knew wasn't crumbling under our feet",
+            "words": [
+              {
+                "endTime": "69.900s",
+                "startTime": "69.500s",
+                "word": "back"
+              },
+              {
+                "endTime": "70.400s",
+                "startTime": "69.900s",
+                "word": "when"
+              },
+              {
+                "endTime": "71.100s",
+                "startTime": "70.400s",
+                "word": "grief"
+              },
+              {
+                "endTime": "71.700s",
+                "startTime": "71.100s",
+                "word": "crashed"
+              },
+              {
+                "endTime": "71.900s",
+                "startTime": "71.700s",
+                "word": "over"
+              },
+              {
+                "endTime": "72.100s",
+                "startTime": "71.900s",
+                "word": "us"
+              },
+              {
+                "endTime": "72.300s",
+                "startTime": "72.100s",
+                "word": "like"
+              },
+              {
+                "endTime": "72.400s",
+                "startTime": "72.300s",
+                "word": "an"
+              },
+              {
+                "endTime": "72.700s",
+                "startTime": "72.400s",
+                "word": "awful"
+              },
+              {
+                "endTime": "73.200s",
+                "startTime": "72.700s",
+                "word": "wave"
+              },
+              {
+                "endTime": "74.500s",
+                "startTime": "74.400s",
+                "word": "when"
+              },
+              {
+                "endTime": "75s",
+                "startTime": "74.500s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "75.500s",
+                "startTime": "75s",
+                "word": "everywhere"
+              },
+              {
+                "endTime": "75.700s",
+                "startTime": "75.500s",
+                "word": "held"
+              },
+              {
+                "endTime": "75.800s",
+                "startTime": "75.700s",
+                "word": "each"
+              },
+              {
+                "endTime": "76s",
+                "startTime": "75.800s",
+                "word": "other"
+              },
+              {
+                "endTime": "76.600s",
+                "startTime": "76s",
+                "word": "tight"
+              },
+              {
+                "endTime": "77.800s",
+                "startTime": "77.300s",
+                "word": "seeking"
+              },
+              {
+                "endTime": "77.900s",
+                "startTime": "77.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "78.600s",
+                "startTime": "77.900s",
+                "word": "reassurance"
+              },
+              {
+                "endTime": "78.800s",
+                "startTime": "78.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "78.900s",
+                "startTime": "78.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "79.300s",
+                "startTime": "78.900s",
+                "word": "world"
+              },
+              {
+                "endTime": "79.700s",
+                "startTime": "79.300s",
+                "word": "we"
+              },
+              {
+                "endTime": "79.900s",
+                "startTime": "79.700s",
+                "word": "knew"
+              },
+              {
+                "endTime": "81.100s",
+                "startTime": "79.900s",
+                "word": "wasn't"
+              },
+              {
+                "endTime": "81.600s",
+                "startTime": "81.100s",
+                "word": "crumbling"
+              },
+              {
+                "endTime": "82.100s",
+                "startTime": "81.600s",
+                "word": "under"
+              },
+              {
+                "endTime": "82.300s",
+                "startTime": "82.100s",
+                "word": "our"
+              },
+              {
+                "endTime": "82.500s",
+                "startTime": "82.300s",
+                "word": "feet"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "83.270s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.78621346,
+            "transcript": " eleven times we have marked another September 11th come and gone",
+            "words": [
+              {
+                "endTime": "85.100s",
+                "startTime": "84.800s",
+                "word": "eleven"
+              },
+              {
+                "endTime": "85.800s",
+                "startTime": "85.100s",
+                "word": "times"
+              },
+              {
+                "endTime": "86s",
+                "startTime": "85.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "86.100s",
+                "startTime": "86s",
+                "word": "have"
+              },
+              {
+                "endTime": "86.700s",
+                "startTime": "86.100s",
+                "word": "marked"
+              },
+              {
+                "endTime": "87.300s",
+                "startTime": "86.900s",
+                "word": "another"
+              },
+              {
+                "endTime": "87.800s",
+                "startTime": "87.300s",
+                "word": "September"
+              },
+              {
+                "endTime": "88.400s",
+                "startTime": "87.800s",
+                "word": "11th"
+              },
+              {
+                "endTime": "88.800s",
+                "startTime": "88.600s",
+                "word": "come"
+              },
+              {
+                "endTime": "88.900s",
+                "startTime": "88.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "89.300s",
+                "startTime": "88.900s",
+                "word": "gone"
+              }
+            ]
+          },
+          {
+            "confidence": 0.72538924,
+            "transcript": " 11 times we have marked another September 11th come and gone"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "89.960s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.67055273,
+            "transcript": " eleven times we have paused in remembrance",
+            "words": [
+              {
+                "endTime": "90.900s",
+                "startTime": "90.600s",
+                "word": "eleven"
+              },
+              {
+                "endTime": "91.400s",
+                "startTime": "90.900s",
+                "word": "times"
+              },
+              {
+                "endTime": "91.500s",
+                "startTime": "91.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "91.800s",
+                "startTime": "91.500s",
+                "word": "have"
+              },
+              {
+                "endTime": "93s",
+                "startTime": "92.200s",
+                "word": "paused"
+              },
+              {
+                "endTime": "93.500s",
+                "startTime": "93.400s",
+                "word": "in"
+              },
+              {
+                "endTime": "94.300s",
+                "startTime": "93.500s",
+                "word": "remembrance"
+              }
+            ]
+          },
+          {
+            "confidence": 0.67753446,
+            "transcript": " 11 times we have paused in remembrance"
+          },
+          {
+            "confidence": 0.66406816,
+            "transcript": " eleven times we have paused and Remembrance"
+          },
+          {
+            "confidence": 0.6502843,
+            "transcript": " 11 times we have paused and Remembrance"
+          },
+          {
+            "confidence": 0.71477985,
+            "transcript": " eleven times we have caused in remembrance"
+          },
+          {
+            "confidence": 0.6875015,
+            "transcript": " eleven times we have caused and Remembrance"
+          },
+          {
+            "confidence": 0.7056791,
+            "transcript": " 11 times we have caused in remembrance"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "94.750s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.6681556,
+            "transcript": " and reflection",
+            "words": [
+              {
+                "endTime": "95.700s",
+                "startTime": "95.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "96.300s",
+                "startTime": "95.700s",
+                "word": "reflection"
+              }
+            ]
+          },
+          {
+            "confidence": 0.66197693,
+            "transcript": " reflection"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "96.830s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.72549295,
+            "transcript": " in unity and in purpose",
+            "words": [
+              {
+                "endTime": "98s",
+                "startTime": "97.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "98.400s",
+                "startTime": "98s",
+                "word": "unity"
+              },
+              {
+                "endTime": "100s",
+                "startTime": "98.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "100.200s",
+                "startTime": "100s",
+                "word": "in"
+              },
+              {
+                "endTime": "100.600s",
+                "startTime": "100.200s",
+                "word": "purpose"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "101.250s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.72024834,
+            "transcript": " this is never an easy day but it is especially difficult for all of you",
+            "words": [
+              {
+                "endTime": "103.100s",
+                "startTime": "102.700s",
+                "word": "this"
+              },
+              {
+                "endTime": "103.200s",
+                "startTime": "103.100s",
+                "word": "is"
+              },
+              {
+                "endTime": "103.400s",
+                "startTime": "103.200s",
+                "word": "never"
+              },
+              {
+                "endTime": "103.600s",
+                "startTime": "103.400s",
+                "word": "an"
+              },
+              {
+                "endTime": "103.600s",
+                "startTime": "103.600s",
+                "word": "easy"
+              },
+              {
+                "endTime": "104s",
+                "startTime": "103.600s",
+                "word": "day"
+              },
+              {
+                "endTime": "104.700s",
+                "startTime": "104s",
+                "word": "but"
+              },
+              {
+                "endTime": "104.800s",
+                "startTime": "104.700s",
+                "word": "it"
+              },
+              {
+                "endTime": "104.900s",
+                "startTime": "104.800s",
+                "word": "is"
+              },
+              {
+                "endTime": "105.400s",
+                "startTime": "104.900s",
+                "word": "especially"
+              },
+              {
+                "endTime": "105.700s",
+                "startTime": "105.400s",
+                "word": "difficult"
+              },
+              {
+                "endTime": "106.400s",
+                "startTime": "105.700s",
+                "word": "for"
+              },
+              {
+                "endTime": "106.700s",
+                "startTime": "106.400s",
+                "word": "all"
+              },
+              {
+                "endTime": "106.700s",
+                "startTime": "106.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "107s",
+                "startTime": "106.700s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "107.480s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8340238,
+            "transcript": " the families of nearly 3,000 innocent who lost their lives",
+            "words": [
+              {
+                "endTime": "108.300s",
+                "startTime": "108.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "108.900s",
+                "startTime": "108.300s",
+                "word": "families"
+              },
+              {
+                "endTime": "109.100s",
+                "startTime": "108.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "109.600s",
+                "startTime": "109.100s",
+                "word": "nearly"
+              },
+              {
+                "endTime": "110.400s",
+                "startTime": "109.600s",
+                "word": "3,000"
+              },
+              {
+                "endTime": "110.700s",
+                "startTime": "110.400s",
+                "word": "innocent"
+              },
+              {
+                "endTime": "110.900s",
+                "startTime": "110.700s",
+                "word": "who"
+              },
+              {
+                "endTime": "111.200s",
+                "startTime": "110.900s",
+                "word": "lost"
+              },
+              {
+                "endTime": "111.400s",
+                "startTime": "111.200s",
+                "word": "their"
+              },
+              {
+                "endTime": "111.800s",
+                "startTime": "111.400s",
+                "word": "lives"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8201974,
+            "transcript": " the families of nearly 3,000 innocence who lost their lives"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "112.200s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.91283864,
+            "transcript": " your mothers and fathers or husbands and wives your sons and your daughters",
+            "words": [
+              {
+                "endTime": "113.300s",
+                "startTime": "113.200s",
+                "word": "your"
+              },
+              {
+                "endTime": "113.900s",
+                "startTime": "113.300s",
+                "word": "mothers"
+              },
+              {
+                "endTime": "114.100s",
+                "startTime": "114s",
+                "word": "and"
+              },
+              {
+                "endTime": "114.700s",
+                "startTime": "114.100s",
+                "word": "fathers"
+              },
+              {
+                "endTime": "115.800s",
+                "startTime": "115.700s",
+                "word": "or"
+              },
+              {
+                "endTime": "116.300s",
+                "startTime": "115.800s",
+                "word": "husbands"
+              },
+              {
+                "endTime": "116.400s",
+                "startTime": "116.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "117.100s",
+                "startTime": "116.400s",
+                "word": "wives"
+              },
+              {
+                "endTime": "117.500s",
+                "startTime": "117.300s",
+                "word": "your"
+              },
+              {
+                "endTime": "118.200s",
+                "startTime": "117.500s",
+                "word": "sons"
+              },
+              {
+                "endTime": "119s",
+                "startTime": "118.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "119.100s",
+                "startTime": "119s",
+                "word": "your"
+              },
+              {
+                "endTime": "119.600s",
+                "startTime": "119.100s",
+                "word": "daughters"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "120.060s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86883724,
+            "transcript": " they were taken from us suddenly and far too soon",
+            "words": [
+              {
+                "endTime": "121.200s",
+                "startTime": "121.100s",
+                "word": "they"
+              },
+              {
+                "endTime": "121.300s",
+                "startTime": "121.200s",
+                "word": "were"
+              },
+              {
+                "endTime": "121.600s",
+                "startTime": "121.300s",
+                "word": "taken"
+              },
+              {
+                "endTime": "121.800s",
+                "startTime": "121.600s",
+                "word": "from"
+              },
+              {
+                "endTime": "122s",
+                "startTime": "121.800s",
+                "word": "us"
+              },
+              {
+                "endTime": "122.400s",
+                "startTime": "122s",
+                "word": "suddenly"
+              },
+              {
+                "endTime": "122.500s",
+                "startTime": "122.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "122.800s",
+                "startTime": "122.500s",
+                "word": "far"
+              },
+              {
+                "endTime": "123s",
+                "startTime": "122.800s",
+                "word": "too"
+              },
+              {
+                "endTime": "123.300s",
+                "startTime": "123s",
+                "word": "soon"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "123.940s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.83978224,
+            "transcript": " to you and your families the rest of us cannot begin to imagine the pain you've endured these many years",
+            "words": [
+              {
+                "endTime": "125.300s",
+                "startTime": "125s",
+                "word": "to"
+              },
+              {
+                "endTime": "125.500s",
+                "startTime": "125.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "125.700s",
+                "startTime": "125.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "125.800s",
+                "startTime": "125.700s",
+                "word": "your"
+              },
+              {
+                "endTime": "126.400s",
+                "startTime": "125.800s",
+                "word": "families"
+              },
+              {
+                "endTime": "127s",
+                "startTime": "126.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "127.300s",
+                "startTime": "127s",
+                "word": "rest"
+              },
+              {
+                "endTime": "127.300s",
+                "startTime": "127.300s",
+                "word": "of"
+              },
+              {
+                "endTime": "127.400s",
+                "startTime": "127.300s",
+                "word": "us"
+              },
+              {
+                "endTime": "127.700s",
+                "startTime": "127.400s",
+                "word": "cannot"
+              },
+              {
+                "endTime": "128s",
+                "startTime": "127.700s",
+                "word": "begin"
+              },
+              {
+                "endTime": "128.100s",
+                "startTime": "128s",
+                "word": "to"
+              },
+              {
+                "endTime": "128.300s",
+                "startTime": "128.100s",
+                "word": "imagine"
+              },
+              {
+                "endTime": "128.800s",
+                "startTime": "128.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "129.100s",
+                "startTime": "128.800s",
+                "word": "pain"
+              },
+              {
+                "endTime": "129.400s",
+                "startTime": "129.100s",
+                "word": "you've"
+              },
+              {
+                "endTime": "129.500s",
+                "startTime": "129.400s",
+                "word": "endured"
+              },
+              {
+                "endTime": "129.900s",
+                "startTime": "129.500s",
+                "word": "these"
+              },
+              {
+                "endTime": "130.300s",
+                "startTime": "129.900s",
+                "word": "many"
+              },
+              {
+                "endTime": "130.300s",
+                "startTime": "130.300s",
+                "word": "years"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8120922,
+            "transcript": " to you and your family's the rest of us cannot begin to imagine the pain you've endured these many years"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "131.060s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7508619,
+            "transcript": " we will never fully understand how difficult it has been for you to carry on",
+            "words": [
+              {
+                "endTime": "132.100s",
+                "startTime": "131.700s",
+                "word": "we"
+              },
+              {
+                "endTime": "132.200s",
+                "startTime": "132.100s",
+                "word": "will"
+              },
+              {
+                "endTime": "132.400s",
+                "startTime": "132.200s",
+                "word": "never"
+              },
+              {
+                "endTime": "132.600s",
+                "startTime": "132.400s",
+                "word": "fully"
+              },
+              {
+                "endTime": "133.400s",
+                "startTime": "132.600s",
+                "word": "understand"
+              },
+              {
+                "endTime": "133.500s",
+                "startTime": "133.400s",
+                "word": "how"
+              },
+              {
+                "endTime": "133.700s",
+                "startTime": "133.500s",
+                "word": "difficult"
+              },
+              {
+                "endTime": "134s",
+                "startTime": "133.700s",
+                "word": "it"
+              },
+              {
+                "endTime": "134.100s",
+                "startTime": "134s",
+                "word": "has"
+              },
+              {
+                "endTime": "134.200s",
+                "startTime": "134.100s",
+                "word": "been"
+              },
+              {
+                "endTime": "134.400s",
+                "startTime": "134.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "134.600s",
+                "startTime": "134.400s",
+                "word": "you"
+              },
+              {
+                "endTime": "134.700s",
+                "startTime": "134.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "135s",
+                "startTime": "134.700s",
+                "word": "carry"
+              },
+              {
+                "endTime": "135.100s",
+                "startTime": "135s",
+                "word": "on"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "135.830s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7786319,
+            "transcript": " to summon that strength to rebuild your lives",
+            "words": [
+              {
+                "endTime": "136.900s",
+                "startTime": "136.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "137.200s",
+                "startTime": "136.900s",
+                "word": "summon"
+              },
+              {
+                "endTime": "137.700s",
+                "startTime": "137.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "138.400s",
+                "startTime": "137.700s",
+                "word": "strength"
+              },
+              {
+                "endTime": "138.900s",
+                "startTime": "138.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "139.300s",
+                "startTime": "138.900s",
+                "word": "rebuild"
+              },
+              {
+                "endTime": "139.500s",
+                "startTime": "139.300s",
+                "word": "your"
+              },
+              {
+                "endTime": "139.700s",
+                "startTime": "139.500s",
+                "word": "lives"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7179296,
+            "transcript": " to summon that strength in the rebuild your lives"
+          },
+          {
+            "confidence": 0.76287514,
+            "transcript": " to summon that strength the rebuild your lives"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "140.440s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7673828,
+            "transcript": " but no matter how many years pass no matter how many times we come together on this Hallowed Ground know this that you will never be alone",
+            "words": [
+              {
+                "endTime": "141.900s",
+                "startTime": "141.700s",
+                "word": "but"
+              },
+              {
+                "endTime": "142s",
+                "startTime": "141.900s",
+                "word": "no"
+              },
+              {
+                "endTime": "142.300s",
+                "startTime": "142s",
+                "word": "matter"
+              },
+              {
+                "endTime": "142.400s",
+                "startTime": "142.300s",
+                "word": "how"
+              },
+              {
+                "endTime": "142.700s",
+                "startTime": "142.400s",
+                "word": "many"
+              },
+              {
+                "endTime": "142.900s",
+                "startTime": "142.700s",
+                "word": "years"
+              },
+              {
+                "endTime": "143.400s",
+                "startTime": "142.900s",
+                "word": "pass"
+              },
+              {
+                "endTime": "144.500s",
+                "startTime": "143.500s",
+                "word": "no"
+              },
+              {
+                "endTime": "144.800s",
+                "startTime": "144.500s",
+                "word": "matter"
+              },
+              {
+                "endTime": "144.900s",
+                "startTime": "144.800s",
+                "word": "how"
+              },
+              {
+                "endTime": "145s",
+                "startTime": "144.900s",
+                "word": "many"
+              },
+              {
+                "endTime": "145.400s",
+                "startTime": "145s",
+                "word": "times"
+              },
+              {
+                "endTime": "145.500s",
+                "startTime": "145.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "145.700s",
+                "startTime": "145.500s",
+                "word": "come"
+              },
+              {
+                "endTime": "145.900s",
+                "startTime": "145.700s",
+                "word": "together"
+              },
+              {
+                "endTime": "146.200s",
+                "startTime": "145.900s",
+                "word": "on"
+              },
+              {
+                "endTime": "146.400s",
+                "startTime": "146.200s",
+                "word": "this"
+              },
+              {
+                "endTime": "147.100s",
+                "startTime": "146.400s",
+                "word": "Hallowed"
+              },
+              {
+                "endTime": "147.300s",
+                "startTime": "147.100s",
+                "word": "Ground"
+              },
+              {
+                "endTime": "148.900s",
+                "startTime": "147.300s",
+                "word": "know"
+              },
+              {
+                "endTime": "149.200s",
+                "startTime": "148.900s",
+                "word": "this"
+              },
+              {
+                "endTime": "150.400s",
+                "startTime": "149.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "150.500s",
+                "startTime": "150.400s",
+                "word": "you"
+              },
+              {
+                "endTime": "150.600s",
+                "startTime": "150.500s",
+                "word": "will"
+              },
+              {
+                "endTime": "150.800s",
+                "startTime": "150.600s",
+                "word": "never"
+              },
+              {
+                "endTime": "150.900s",
+                "startTime": "150.800s",
+                "word": "be"
+              },
+              {
+                "endTime": "151.100s",
+                "startTime": "150.900s",
+                "word": "alone"
+              }
+            ]
+          },
+          {
+            "confidence": 0.76549774,
+            "transcript": " but no matter how many years pass no matter how many times we come together on this Hallowed Ground no this that you will never be alone"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "151.820s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128385,
+            "transcript": " your loved ones will never be forgotten",
+            "words": [
+              {
+                "endTime": "153s",
+                "startTime": "152.800s",
+                "word": "your"
+              },
+              {
+                "endTime": "153.300s",
+                "startTime": "153s",
+                "word": "loved"
+              },
+              {
+                "endTime": "153.800s",
+                "startTime": "153.300s",
+                "word": "ones"
+              },
+              {
+                "endTime": "154s",
+                "startTime": "153.800s",
+                "word": "will"
+              },
+              {
+                "endTime": "154.300s",
+                "startTime": "154s",
+                "word": "never"
+              },
+              {
+                "endTime": "154.600s",
+                "startTime": "154.300s",
+                "word": "be"
+              },
+              {
+                "endTime": "155.300s",
+                "startTime": "154.600s",
+                "word": "forgotten"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "155.770s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128386,
+            "transcript": " they will endure in the hearts of our nation because through their sacrifice they helped us make the America we are today",
+            "words": [
+              {
+                "endTime": "156.900s",
+                "startTime": "156.800s",
+                "word": "they"
+              },
+              {
+                "endTime": "157.100s",
+                "startTime": "156.900s",
+                "word": "will"
+              },
+              {
+                "endTime": "157.400s",
+                "startTime": "157.100s",
+                "word": "endure"
+              },
+              {
+                "endTime": "157.500s",
+                "startTime": "157.400s",
+                "word": "in"
+              },
+              {
+                "endTime": "157.600s",
+                "startTime": "157.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "158.200s",
+                "startTime": "157.600s",
+                "word": "hearts"
+              },
+              {
+                "endTime": "158.400s",
+                "startTime": "158.200s",
+                "word": "of"
+              },
+              {
+                "endTime": "158.500s",
+                "startTime": "158.400s",
+                "word": "our"
+              },
+              {
+                "endTime": "159s",
+                "startTime": "158.500s",
+                "word": "nation"
+              },
+              {
+                "endTime": "160.500s",
+                "startTime": "160.100s",
+                "word": "because"
+              },
+              {
+                "endTime": "160.700s",
+                "startTime": "160.500s",
+                "word": "through"
+              },
+              {
+                "endTime": "160.900s",
+                "startTime": "160.700s",
+                "word": "their"
+              },
+              {
+                "endTime": "161.800s",
+                "startTime": "160.900s",
+                "word": "sacrifice"
+              },
+              {
+                "endTime": "162s",
+                "startTime": "161.800s",
+                "word": "they"
+              },
+              {
+                "endTime": "162.500s",
+                "startTime": "162s",
+                "word": "helped"
+              },
+              {
+                "endTime": "163.100s",
+                "startTime": "162.500s",
+                "word": "us"
+              },
+              {
+                "endTime": "164.100s",
+                "startTime": "163.800s",
+                "word": "make"
+              },
+              {
+                "endTime": "164.200s",
+                "startTime": "164.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "164.800s",
+                "startTime": "164.200s",
+                "word": "America"
+              },
+              {
+                "endTime": "165s",
+                "startTime": "164.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "165.200s",
+                "startTime": "165s",
+                "word": "are"
+              },
+              {
+                "endTime": "165.600s",
+                "startTime": "165.200s",
+                "word": "today"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "165.980s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7946703,
+            "transcript": " an America that has emerged even stronger",
+            "words": [
+              {
+                "endTime": "167.200s",
+                "startTime": "166.900s",
+                "word": "an"
+              },
+              {
+                "endTime": "167.600s",
+                "startTime": "167.200s",
+                "word": "America"
+              },
+              {
+                "endTime": "167.700s",
+                "startTime": "167.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "167.900s",
+                "startTime": "167.700s",
+                "word": "has"
+              },
+              {
+                "endTime": "168.100s",
+                "startTime": "167.900s",
+                "word": "emerged"
+              },
+              {
+                "endTime": "168.900s",
+                "startTime": "168.100s",
+                "word": "even"
+              },
+              {
+                "endTime": "169.200s",
+                "startTime": "168.900s",
+                "word": "stronger"
+              }
+            ]
+          },
+          {
+            "confidence": 0.72296643,
+            "transcript": " America that has emerged even stronger"
+          },
+          {
+            "confidence": 0.6922318,
+            "transcript": " an America that is emerged even stronger"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "170.010s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9024304,
+            "transcript": " most of the Americans we lost that day had never considered the possibility that a small band of terrorists Halfway Around the World could do a such harm most had never heard the name Al Qaeda and yet it's because of their sacrifice that we've come together and dealt a crippling blow to the organization that brought evil to our Shores",
+            "words": [
+              {
+                "endTime": "171.800s",
+                "startTime": "171.500s",
+                "word": "most"
+              },
+              {
+                "endTime": "171.800s",
+                "startTime": "171.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "171.900s",
+                "startTime": "171.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "172.400s",
+                "startTime": "171.900s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "172.500s",
+                "startTime": "172.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "172.800s",
+                "startTime": "172.500s",
+                "word": "lost"
+              },
+              {
+                "endTime": "172.900s",
+                "startTime": "172.800s",
+                "word": "that"
+              },
+              {
+                "endTime": "173s",
+                "startTime": "172.900s",
+                "word": "day"
+              },
+              {
+                "endTime": "173.400s",
+                "startTime": "173s",
+                "word": "had"
+              },
+              {
+                "endTime": "173.600s",
+                "startTime": "173.400s",
+                "word": "never"
+              },
+              {
+                "endTime": "174s",
+                "startTime": "173.600s",
+                "word": "considered"
+              },
+              {
+                "endTime": "174.400s",
+                "startTime": "174s",
+                "word": "the"
+              },
+              {
+                "endTime": "174.400s",
+                "startTime": "174.400s",
+                "word": "possibility"
+              },
+              {
+                "endTime": "175.100s",
+                "startTime": "174.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "175.300s",
+                "startTime": "175.100s",
+                "word": "a"
+              },
+              {
+                "endTime": "175.600s",
+                "startTime": "175.300s",
+                "word": "small"
+              },
+              {
+                "endTime": "175.900s",
+                "startTime": "175.600s",
+                "word": "band"
+              },
+              {
+                "endTime": "176s",
+                "startTime": "175.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "176.500s",
+                "startTime": "176s",
+                "word": "terrorists"
+              },
+              {
+                "endTime": "177s",
+                "startTime": "176.500s",
+                "word": "Halfway"
+              },
+              {
+                "endTime": "177.300s",
+                "startTime": "177s",
+                "word": "Around"
+              },
+              {
+                "endTime": "177.600s",
+                "startTime": "177.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "177.600s",
+                "startTime": "177.600s",
+                "word": "World"
+              },
+              {
+                "endTime": "178.100s",
+                "startTime": "177.600s",
+                "word": "could"
+              },
+              {
+                "endTime": "178.300s",
+                "startTime": "178.100s",
+                "word": "do"
+              },
+              {
+                "endTime": "178.300s",
+                "startTime": "178.300s",
+                "word": "a"
+              },
+              {
+                "endTime": "178.600s",
+                "startTime": "178.300s",
+                "word": "such"
+              },
+              {
+                "endTime": "178.900s",
+                "startTime": "178.600s",
+                "word": "harm"
+              },
+              {
+                "endTime": "180.700s",
+                "startTime": "178.900s",
+                "word": "most"
+              },
+              {
+                "endTime": "180.800s",
+                "startTime": "180.700s",
+                "word": "had"
+              },
+              {
+                "endTime": "180.800s",
+                "startTime": "180.800s",
+                "word": "never"
+              },
+              {
+                "endTime": "181.200s",
+                "startTime": "180.800s",
+                "word": "heard"
+              },
+              {
+                "endTime": "181.700s",
+                "startTime": "181.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "181.800s",
+                "startTime": "181.700s",
+                "word": "name"
+              },
+              {
+                "endTime": "182.100s",
+                "startTime": "181.800s",
+                "word": "Al"
+              },
+              {
+                "endTime": "182.500s",
+                "startTime": "182.100s",
+                "word": "Qaeda"
+              },
+              {
+                "endTime": "183.500s",
+                "startTime": "182.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "183.800s",
+                "startTime": "183.500s",
+                "word": "yet"
+              },
+              {
+                "endTime": "183.900s",
+                "startTime": "183.800s",
+                "word": "it's"
+              },
+              {
+                "endTime": "184.100s",
+                "startTime": "183.900s",
+                "word": "because"
+              },
+              {
+                "endTime": "184.400s",
+                "startTime": "184.100s",
+                "word": "of"
+              },
+              {
+                "endTime": "184.500s",
+                "startTime": "184.400s",
+                "word": "their"
+              },
+              {
+                "endTime": "184.900s",
+                "startTime": "184.500s",
+                "word": "sacrifice"
+              },
+              {
+                "endTime": "185.400s",
+                "startTime": "184.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "185.600s",
+                "startTime": "185.400s",
+                "word": "we've"
+              },
+              {
+                "endTime": "185.800s",
+                "startTime": "185.600s",
+                "word": "come"
+              },
+              {
+                "endTime": "186s",
+                "startTime": "185.800s",
+                "word": "together"
+              },
+              {
+                "endTime": "186.400s",
+                "startTime": "186s",
+                "word": "and"
+              },
+              {
+                "endTime": "186.700s",
+                "startTime": "186.400s",
+                "word": "dealt"
+              },
+              {
+                "endTime": "186.800s",
+                "startTime": "186.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "187.200s",
+                "startTime": "186.800s",
+                "word": "crippling"
+              },
+              {
+                "endTime": "187.400s",
+                "startTime": "187.200s",
+                "word": "blow"
+              },
+              {
+                "endTime": "187.900s",
+                "startTime": "187.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "188.600s",
+                "startTime": "187.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "189.200s",
+                "startTime": "188.600s",
+                "word": "organization"
+              },
+              {
+                "endTime": "189.300s",
+                "startTime": "189.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "189.500s",
+                "startTime": "189.300s",
+                "word": "brought"
+              },
+              {
+                "endTime": "189.900s",
+                "startTime": "189.500s",
+                "word": "evil"
+              },
+              {
+                "endTime": "190.100s",
+                "startTime": "189.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "190.100s",
+                "startTime": "190.100s",
+                "word": "our"
+              },
+              {
+                "endTime": "190.600s",
+                "startTime": "190.100s",
+                "word": "Shores"
+              }
+            ]
+          },
+          {
+            "confidence": 0.89409477,
+            "transcript": " most of the Americans we lost that day had never considered the possibility that a small band of terrorists Halfway Around the World to could do a such harm most had never heard the name Al Qaeda and yet it's because of their sacrifice that we've come together and dealt a crippling blow to the organization that brought evil to our Shores"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "191.160s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128387,
+            "transcript": " Al qaeda's leadership has been devastated and Osama Bin Laden will never threaten us again",
+            "words": [
+              {
+                "endTime": "192s",
+                "startTime": "191.800s",
+                "word": "Al"
+              },
+              {
+                "endTime": "192.400s",
+                "startTime": "192s",
+                "word": "qaeda's"
+              },
+              {
+                "endTime": "192.800s",
+                "startTime": "192.400s",
+                "word": "leadership"
+              },
+              {
+                "endTime": "193s",
+                "startTime": "192.800s",
+                "word": "has"
+              },
+              {
+                "endTime": "193.200s",
+                "startTime": "193s",
+                "word": "been"
+              },
+              {
+                "endTime": "194s",
+                "startTime": "193.200s",
+                "word": "devastated"
+              },
+              {
+                "endTime": "194.800s",
+                "startTime": "194.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "195.200s",
+                "startTime": "194.800s",
+                "word": "Osama"
+              },
+              {
+                "endTime": "195.400s",
+                "startTime": "195.200s",
+                "word": "Bin"
+              },
+              {
+                "endTime": "195.800s",
+                "startTime": "195.400s",
+                "word": "Laden"
+              },
+              {
+                "endTime": "195.900s",
+                "startTime": "195.800s",
+                "word": "will"
+              },
+              {
+                "endTime": "196.400s",
+                "startTime": "195.900s",
+                "word": "never"
+              },
+              {
+                "endTime": "197.100s",
+                "startTime": "196.800s",
+                "word": "threaten"
+              },
+              {
+                "endTime": "197.300s",
+                "startTime": "197.100s",
+                "word": "us"
+              },
+              {
+                "endTime": "197.700s",
+                "startTime": "197.300s",
+                "word": "again"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "198.100s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85806143,
+            "transcript": " our country is safer and our people are resilient",
+            "words": [
+              {
+                "endTime": "199.100s",
+                "startTime": "198.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "199.500s",
+                "startTime": "199.100s",
+                "word": "country"
+              },
+              {
+                "endTime": "199.500s",
+                "startTime": "199.500s",
+                "word": "is"
+              },
+              {
+                "endTime": "200s",
+                "startTime": "199.500s",
+                "word": "safer"
+              },
+              {
+                "endTime": "200.200s",
+                "startTime": "200s",
+                "word": "and"
+              },
+              {
+                "endTime": "200.300s",
+                "startTime": "200.200s",
+                "word": "our"
+              },
+              {
+                "endTime": "200.700s",
+                "startTime": "200.300s",
+                "word": "people"
+              },
+              {
+                "endTime": "201.500s",
+                "startTime": "200.700s",
+                "word": "are"
+              },
+              {
+                "endTime": "201.900s",
+                "startTime": "201.500s",
+                "word": "resilient"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "202.800s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7945456,
+            "transcript": " it's true that the majority of those who died on September 11 had never put on our country's uniform and yet they inspired more than 5 million Americans members of the 9/11 generation to wear that uniform over the last decade",
+            "words": [
+              {
+                "endTime": "203.900s",
+                "startTime": "203.500s",
+                "word": "it's"
+              },
+              {
+                "endTime": "204.200s",
+                "startTime": "203.900s",
+                "word": "true"
+              },
+              {
+                "endTime": "204.200s",
+                "startTime": "204.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "204.500s",
+                "startTime": "204.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "204.700s",
+                "startTime": "204.500s",
+                "word": "majority"
+              },
+              {
+                "endTime": "204.900s",
+                "startTime": "204.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "205s",
+                "startTime": "204.900s",
+                "word": "those"
+              },
+              {
+                "endTime": "205.200s",
+                "startTime": "205s",
+                "word": "who"
+              },
+              {
+                "endTime": "205.500s",
+                "startTime": "205.200s",
+                "word": "died"
+              },
+              {
+                "endTime": "205.700s",
+                "startTime": "205.500s",
+                "word": "on"
+              },
+              {
+                "endTime": "206.200s",
+                "startTime": "205.700s",
+                "word": "September"
+              },
+              {
+                "endTime": "206.600s",
+                "startTime": "206.200s",
+                "word": "11"
+              },
+              {
+                "endTime": "207.100s",
+                "startTime": "206.600s",
+                "word": "had"
+              },
+              {
+                "endTime": "207.300s",
+                "startTime": "207.100s",
+                "word": "never"
+              },
+              {
+                "endTime": "207.600s",
+                "startTime": "207.300s",
+                "word": "put"
+              },
+              {
+                "endTime": "207.800s",
+                "startTime": "207.600s",
+                "word": "on"
+              },
+              {
+                "endTime": "207.900s",
+                "startTime": "207.800s",
+                "word": "our"
+              },
+              {
+                "endTime": "208.300s",
+                "startTime": "207.900s",
+                "word": "country's"
+              },
+              {
+                "endTime": "208.400s",
+                "startTime": "208.300s",
+                "word": "uniform"
+              },
+              {
+                "endTime": "209.400s",
+                "startTime": "208.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "209.600s",
+                "startTime": "209.400s",
+                "word": "yet"
+              },
+              {
+                "endTime": "209.700s",
+                "startTime": "209.600s",
+                "word": "they"
+              },
+              {
+                "endTime": "210.400s",
+                "startTime": "209.700s",
+                "word": "inspired"
+              },
+              {
+                "endTime": "210.600s",
+                "startTime": "210.400s",
+                "word": "more"
+              },
+              {
+                "endTime": "210.600s",
+                "startTime": "210.600s",
+                "word": "than"
+              },
+              {
+                "endTime": "211.100s",
+                "startTime": "210.600s",
+                "word": "5"
+              },
+              {
+                "endTime": "211.500s",
+                "startTime": "211.100s",
+                "word": "million"
+              },
+              {
+                "endTime": "211.600s",
+                "startTime": "211.500s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "213.600s",
+                "startTime": "211.600s",
+                "word": "members"
+              },
+              {
+                "endTime": "213.600s",
+                "startTime": "213.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "213.700s",
+                "startTime": "213.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "214.200s",
+                "startTime": "213.700s",
+                "word": "9/11"
+              },
+              {
+                "endTime": "214.300s",
+                "startTime": "214.200s",
+                "word": "generation"
+              },
+              {
+                "endTime": "215.800s",
+                "startTime": "214.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "215.900s",
+                "startTime": "215.800s",
+                "word": "wear"
+              },
+              {
+                "endTime": "216.100s",
+                "startTime": "215.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "216.400s",
+                "startTime": "216.100s",
+                "word": "uniform"
+              },
+              {
+                "endTime": "217.200s",
+                "startTime": "216.400s",
+                "word": "over"
+              },
+              {
+                "endTime": "217.300s",
+                "startTime": "217.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "217.500s",
+                "startTime": "217.300s",
+                "word": "last"
+              },
+              {
+                "endTime": "218s",
+                "startTime": "217.500s",
+                "word": "decade"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7865022,
+            "transcript": " it's true that the majority of those who died on September 11 had never put on our country's uniform and yet they inspired more than five million Americans members of the 9/11 generation to wear that uniform over the last decade"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "218.450s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128386,
+            "transcript": " these men and women have done everything that we have asked",
+            "words": [
+              {
+                "endTime": "219.500s",
+                "startTime": "219.200s",
+                "word": "these"
+              },
+              {
+                "endTime": "219.600s",
+                "startTime": "219.500s",
+                "word": "men"
+              },
+              {
+                "endTime": "219.800s",
+                "startTime": "219.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "220s",
+                "startTime": "219.800s",
+                "word": "women"
+              },
+              {
+                "endTime": "220.100s",
+                "startTime": "220s",
+                "word": "have"
+              },
+              {
+                "endTime": "220.300s",
+                "startTime": "220.100s",
+                "word": "done"
+              },
+              {
+                "endTime": "221s",
+                "startTime": "220.300s",
+                "word": "everything"
+              },
+              {
+                "endTime": "221.800s",
+                "startTime": "221.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "221.900s",
+                "startTime": "221.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "222.100s",
+                "startTime": "221.900s",
+                "word": "have"
+              },
+              {
+                "endTime": "222.700s",
+                "startTime": "222.100s",
+                "word": "asked"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "222.930s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7263187,
+            "transcript": " today the war in Iraq is over",
+            "words": [
+              {
+                "endTime": "224.400s",
+                "startTime": "223.900s",
+                "word": "today"
+              },
+              {
+                "endTime": "224.600s",
+                "startTime": "224.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "225.500s",
+                "startTime": "224.600s",
+                "word": "war"
+              },
+              {
+                "endTime": "225.600s",
+                "startTime": "225.500s",
+                "word": "in"
+              },
+              {
+                "endTime": "225.900s",
+                "startTime": "225.600s",
+                "word": "Iraq"
+              },
+              {
+                "endTime": "225.900s",
+                "startTime": "225.900s",
+                "word": "is"
+              },
+              {
+                "endTime": "226.100s",
+                "startTime": "225.900s",
+                "word": "over"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "226.740s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7751419,
+            "transcript": " in Afghanistan were training Afghan security forces and forging a partnership with the Afghan people and by the end of 2014 the longest war in our history will be over",
+            "words": [
+              {
+                "endTime": "227.500s",
+                "startTime": "227.200s",
+                "word": "in"
+              },
+              {
+                "endTime": "227.800s",
+                "startTime": "227.500s",
+                "word": "Afghanistan"
+              },
+              {
+                "endTime": "228.400s",
+                "startTime": "227.800s",
+                "word": "were"
+              },
+              {
+                "endTime": "228.800s",
+                "startTime": "228.400s",
+                "word": "training"
+              },
+              {
+                "endTime": "229.100s",
+                "startTime": "228.800s",
+                "word": "Afghan"
+              },
+              {
+                "endTime": "229.300s",
+                "startTime": "229.100s",
+                "word": "security"
+              },
+              {
+                "endTime": "230.100s",
+                "startTime": "229.300s",
+                "word": "forces"
+              },
+              {
+                "endTime": "230.300s",
+                "startTime": "230.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "230.800s",
+                "startTime": "230.300s",
+                "word": "forging"
+              },
+              {
+                "endTime": "231.400s",
+                "startTime": "230.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "232s",
+                "startTime": "231.400s",
+                "word": "partnership"
+              },
+              {
+                "endTime": "232.600s",
+                "startTime": "232s",
+                "word": "with"
+              },
+              {
+                "endTime": "232.700s",
+                "startTime": "232.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "233.100s",
+                "startTime": "232.700s",
+                "word": "Afghan"
+              },
+              {
+                "endTime": "233.200s",
+                "startTime": "233.100s",
+                "word": "people"
+              },
+              {
+                "endTime": "234.400s",
+                "startTime": "233.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "234.500s",
+                "startTime": "234.400s",
+                "word": "by"
+              },
+              {
+                "endTime": "234.600s",
+                "startTime": "234.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "234.800s",
+                "startTime": "234.600s",
+                "word": "end"
+              },
+              {
+                "endTime": "234.800s",
+                "startTime": "234.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "235.600s",
+                "startTime": "234.800s",
+                "word": "2014"
+              },
+              {
+                "endTime": "236.200s",
+                "startTime": "235.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "236.600s",
+                "startTime": "236.200s",
+                "word": "longest"
+              },
+              {
+                "endTime": "236.800s",
+                "startTime": "236.600s",
+                "word": "war"
+              },
+              {
+                "endTime": "236.900s",
+                "startTime": "236.800s",
+                "word": "in"
+              },
+              {
+                "endTime": "237s",
+                "startTime": "236.900s",
+                "word": "our"
+              },
+              {
+                "endTime": "237.100s",
+                "startTime": "237s",
+                "word": "history"
+              },
+              {
+                "endTime": "237.800s",
+                "startTime": "237.100s",
+                "word": "will"
+              },
+              {
+                "endTime": "238s",
+                "startTime": "237.800s",
+                "word": "be"
+              },
+              {
+                "endTime": "238.300s",
+                "startTime": "238s",
+                "word": "over"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "238.690s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7954314,
+            "transcript": " mean while countless civilians of open their hearts to our troops our military families and our veterans",
+            "words": [
+              {
+                "endTime": "240.200s",
+                "startTime": "239.700s",
+                "word": "mean"
+              },
+              {
+                "endTime": "240.400s",
+                "startTime": "240.200s",
+                "word": "while"
+              },
+              {
+                "endTime": "241.200s",
+                "startTime": "240.400s",
+                "word": "countless"
+              },
+              {
+                "endTime": "241.600s",
+                "startTime": "241.200s",
+                "word": "civilians"
+              },
+              {
+                "endTime": "241.800s",
+                "startTime": "241.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "242.100s",
+                "startTime": "241.800s",
+                "word": "open"
+              },
+              {
+                "endTime": "242.100s",
+                "startTime": "242.100s",
+                "word": "their"
+              },
+              {
+                "endTime": "242.500s",
+                "startTime": "242.100s",
+                "word": "hearts"
+              },
+              {
+                "endTime": "242.600s",
+                "startTime": "242.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "242.700s",
+                "startTime": "242.600s",
+                "word": "our"
+              },
+              {
+                "endTime": "243s",
+                "startTime": "242.700s",
+                "word": "troops"
+              },
+              {
+                "endTime": "243.700s",
+                "startTime": "243s",
+                "word": "our"
+              },
+              {
+                "endTime": "244.200s",
+                "startTime": "243.700s",
+                "word": "military"
+              },
+              {
+                "endTime": "244.700s",
+                "startTime": "244.200s",
+                "word": "families"
+              },
+              {
+                "endTime": "245.400s",
+                "startTime": "244.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "245.600s",
+                "startTime": "245.400s",
+                "word": "our"
+              },
+              {
+                "endTime": "245.700s",
+                "startTime": "245.600s",
+                "word": "veterans"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7394784,
+            "transcript": " mean while countless civilians have opened their hearts to our troops our military families and our veterans"
+          },
+          {
+            "confidence": 0.82982516,
+            "transcript": " meanwhile countless civilians of open their hearts to our troops our military families and our veterans"
+          },
+          {
+            "confidence": 0.77037513,
+            "transcript": " meanwhile countless civilians have opened their hearts to our troops our military families and our veterans"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "246.560s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.91107935,
+            "transcript": " 11 years ago Memorial Services were held for Americans of different races and Creeds backgrounds and beliefs",
+            "words": [
+              {
+                "endTime": "248.500s",
+                "startTime": "248.200s",
+                "word": "11"
+              },
+              {
+                "endTime": "248.700s",
+                "startTime": "248.500s",
+                "word": "years"
+              },
+              {
+                "endTime": "249.200s",
+                "startTime": "248.700s",
+                "word": "ago"
+              },
+              {
+                "endTime": "249.700s",
+                "startTime": "249.200s",
+                "word": "Memorial"
+              },
+              {
+                "endTime": "250.200s",
+                "startTime": "249.700s",
+                "word": "Services"
+              },
+              {
+                "endTime": "250.300s",
+                "startTime": "250.200s",
+                "word": "were"
+              },
+              {
+                "endTime": "250.700s",
+                "startTime": "250.300s",
+                "word": "held"
+              },
+              {
+                "endTime": "250.900s",
+                "startTime": "250.700s",
+                "word": "for"
+              },
+              {
+                "endTime": "251.700s",
+                "startTime": "250.900s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "251.800s",
+                "startTime": "251.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "252.200s",
+                "startTime": "251.800s",
+                "word": "different"
+              },
+              {
+                "endTime": "252.600s",
+                "startTime": "252.200s",
+                "word": "races"
+              },
+              {
+                "endTime": "252.800s",
+                "startTime": "252.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "253.400s",
+                "startTime": "252.800s",
+                "word": "Creeds"
+              },
+              {
+                "endTime": "254.600s",
+                "startTime": "254s",
+                "word": "backgrounds"
+              },
+              {
+                "endTime": "254.700s",
+                "startTime": "254.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "255.400s",
+                "startTime": "254.700s",
+                "word": "beliefs"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "255.760s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8810339,
+            "transcript": " and yet instead of turning us against each other tragedy has brought us together",
+            "words": [
+              {
+                "endTime": "256.800s",
+                "startTime": "256.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "257.100s",
+                "startTime": "256.800s",
+                "word": "yet"
+              },
+              {
+                "endTime": "257.600s",
+                "startTime": "257.300s",
+                "word": "instead"
+              },
+              {
+                "endTime": "257.700s",
+                "startTime": "257.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "257.900s",
+                "startTime": "257.700s",
+                "word": "turning"
+              },
+              {
+                "endTime": "258.300s",
+                "startTime": "257.900s",
+                "word": "us"
+              },
+              {
+                "endTime": "258.700s",
+                "startTime": "258.300s",
+                "word": "against"
+              },
+              {
+                "endTime": "258.800s",
+                "startTime": "258.700s",
+                "word": "each"
+              },
+              {
+                "endTime": "259s",
+                "startTime": "258.800s",
+                "word": "other"
+              },
+              {
+                "endTime": "260.600s",
+                "startTime": "259.400s",
+                "word": "tragedy"
+              },
+              {
+                "endTime": "260.600s",
+                "startTime": "260.600s",
+                "word": "has"
+              },
+              {
+                "endTime": "260.900s",
+                "startTime": "260.600s",
+                "word": "brought"
+              },
+              {
+                "endTime": "261.100s",
+                "startTime": "260.900s",
+                "word": "us"
+              },
+              {
+                "endTime": "261.200s",
+                "startTime": "261.100s",
+                "word": "together"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "261.930s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8237125,
+            "transcript": " I've always said that our fight is with Al Qaeda and its Affiliates not with Islam or any other religion",
+            "words": [
+              {
+                "endTime": "263.100s",
+                "startTime": "263s",
+                "word": "I've"
+              },
+              {
+                "endTime": "263.400s",
+                "startTime": "263.100s",
+                "word": "always"
+              },
+              {
+                "endTime": "263.600s",
+                "startTime": "263.400s",
+                "word": "said"
+              },
+              {
+                "endTime": "263.700s",
+                "startTime": "263.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "263.900s",
+                "startTime": "263.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "264.500s",
+                "startTime": "263.900s",
+                "word": "fight"
+              },
+              {
+                "endTime": "264.800s",
+                "startTime": "264.600s",
+                "word": "is"
+              },
+              {
+                "endTime": "264.900s",
+                "startTime": "264.800s",
+                "word": "with"
+              },
+              {
+                "endTime": "265.100s",
+                "startTime": "264.900s",
+                "word": "Al"
+              },
+              {
+                "endTime": "265.400s",
+                "startTime": "265.100s",
+                "word": "Qaeda"
+              },
+              {
+                "endTime": "265.500s",
+                "startTime": "265.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "265.700s",
+                "startTime": "265.500s",
+                "word": "its"
+              },
+              {
+                "endTime": "266.400s",
+                "startTime": "265.700s",
+                "word": "Affiliates"
+              },
+              {
+                "endTime": "266.600s",
+                "startTime": "266.400s",
+                "word": "not"
+              },
+              {
+                "endTime": "267s",
+                "startTime": "266.600s",
+                "word": "with"
+              },
+              {
+                "endTime": "267.900s",
+                "startTime": "267.400s",
+                "word": "Islam"
+              },
+              {
+                "endTime": "268s",
+                "startTime": "267.900s",
+                "word": "or"
+              },
+              {
+                "endTime": "268.400s",
+                "startTime": "268s",
+                "word": "any"
+              },
+              {
+                "endTime": "268.700s",
+                "startTime": "268.400s",
+                "word": "other"
+              },
+              {
+                "endTime": "269.200s",
+                "startTime": "268.700s",
+                "word": "religion"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "269.650s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8748373,
+            "transcript": " this country was built as a beacon of freedom and tolerance that's what's made us strong now and forever",
+            "words": [
+              {
+                "endTime": "270.500s",
+                "startTime": "270s",
+                "word": "this"
+              },
+              {
+                "endTime": "270.900s",
+                "startTime": "270.500s",
+                "word": "country"
+              },
+              {
+                "endTime": "271s",
+                "startTime": "270.900s",
+                "word": "was"
+              },
+              {
+                "endTime": "271.100s",
+                "startTime": "271s",
+                "word": "built"
+              },
+              {
+                "endTime": "271.800s",
+                "startTime": "271.100s",
+                "word": "as"
+              },
+              {
+                "endTime": "271.800s",
+                "startTime": "271.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "272.200s",
+                "startTime": "271.800s",
+                "word": "beacon"
+              },
+              {
+                "endTime": "272.300s",
+                "startTime": "272.200s",
+                "word": "of"
+              },
+              {
+                "endTime": "272.400s",
+                "startTime": "272.300s",
+                "word": "freedom"
+              },
+              {
+                "endTime": "273.100s",
+                "startTime": "272.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "273.200s",
+                "startTime": "273.100s",
+                "word": "tolerance"
+              },
+              {
+                "endTime": "274.500s",
+                "startTime": "273.200s",
+                "word": "that's"
+              },
+              {
+                "endTime": "274.800s",
+                "startTime": "274.500s",
+                "word": "what's"
+              },
+              {
+                "endTime": "275s",
+                "startTime": "274.800s",
+                "word": "made"
+              },
+              {
+                "endTime": "275.100s",
+                "startTime": "275s",
+                "word": "us"
+              },
+              {
+                "endTime": "275.600s",
+                "startTime": "275.100s",
+                "word": "strong"
+              },
+              {
+                "endTime": "276.600s",
+                "startTime": "275.600s",
+                "word": "now"
+              },
+              {
+                "endTime": "277.800s",
+                "startTime": "276.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "278.200s",
+                "startTime": "277.800s",
+                "word": "forever"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "278.820s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7629553,
+            "transcript": " and finally when those innocent Souls were taken from us they left behind unfulfilled",
+            "words": [
+              {
+                "endTime": "280.800s",
+                "startTime": "280.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "281.200s",
+                "startTime": "280.800s",
+                "word": "finally"
+              },
+              {
+                "endTime": "281.400s",
+                "startTime": "281.200s",
+                "word": "when"
+              },
+              {
+                "endTime": "282.100s",
+                "startTime": "281.400s",
+                "word": "those"
+              },
+              {
+                "endTime": "282.400s",
+                "startTime": "282.100s",
+                "word": "innocent"
+              },
+              {
+                "endTime": "282.900s",
+                "startTime": "282.400s",
+                "word": "Souls"
+              },
+              {
+                "endTime": "283s",
+                "startTime": "282.900s",
+                "word": "were"
+              },
+              {
+                "endTime": "283.300s",
+                "startTime": "283s",
+                "word": "taken"
+              },
+              {
+                "endTime": "283.500s",
+                "startTime": "283.300s",
+                "word": "from"
+              },
+              {
+                "endTime": "283.700s",
+                "startTime": "283.500s",
+                "word": "us"
+              },
+              {
+                "endTime": "284s",
+                "startTime": "283.700s",
+                "word": "they"
+              },
+              {
+                "endTime": "284.400s",
+                "startTime": "284s",
+                "word": "left"
+              },
+              {
+                "endTime": "284.600s",
+                "startTime": "284.400s",
+                "word": "behind"
+              },
+              {
+                "endTime": "285.100s",
+                "startTime": "284.600s",
+                "word": "unfulfilled"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "285.980s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.79369277,
+            "transcript": " and unfulfilled work and tasks that remain undone and that's why on a day when others sought to bring this country down we chose to build it up with a national day of service and Remembrance",
+            "words": [
+              {
+                "endTime": "288s",
+                "startTime": "287.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "288.900s",
+                "startTime": "288s",
+                "word": "unfulfilled"
+              },
+              {
+                "endTime": "289.500s",
+                "startTime": "288.900s",
+                "word": "work"
+              },
+              {
+                "endTime": "290.400s",
+                "startTime": "289.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "291.700s",
+                "startTime": "290.400s",
+                "word": "tasks"
+              },
+              {
+                "endTime": "291.800s",
+                "startTime": "291.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "292.200s",
+                "startTime": "291.800s",
+                "word": "remain"
+              },
+              {
+                "endTime": "292.500s",
+                "startTime": "292.200s",
+                "word": "undone"
+              },
+              {
+                "endTime": "293.800s",
+                "startTime": "292.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "294s",
+                "startTime": "293.800s",
+                "word": "that's"
+              },
+              {
+                "endTime": "294.200s",
+                "startTime": "294s",
+                "word": "why"
+              },
+              {
+                "endTime": "294.900s",
+                "startTime": "294.200s",
+                "word": "on"
+              },
+              {
+                "endTime": "294.900s",
+                "startTime": "294.900s",
+                "word": "a"
+              },
+              {
+                "endTime": "295.100s",
+                "startTime": "294.900s",
+                "word": "day"
+              },
+              {
+                "endTime": "295.300s",
+                "startTime": "295.100s",
+                "word": "when"
+              },
+              {
+                "endTime": "295.500s",
+                "startTime": "295.300s",
+                "word": "others"
+              },
+              {
+                "endTime": "295.800s",
+                "startTime": "295.500s",
+                "word": "sought"
+              },
+              {
+                "endTime": "296s",
+                "startTime": "295.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "296.100s",
+                "startTime": "296s",
+                "word": "bring"
+              },
+              {
+                "endTime": "296.300s",
+                "startTime": "296.100s",
+                "word": "this"
+              },
+              {
+                "endTime": "296.500s",
+                "startTime": "296.300s",
+                "word": "country"
+              },
+              {
+                "endTime": "296.800s",
+                "startTime": "296.500s",
+                "word": "down"
+              },
+              {
+                "endTime": "297.100s",
+                "startTime": "296.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "297.400s",
+                "startTime": "297.100s",
+                "word": "chose"
+              },
+              {
+                "endTime": "297.500s",
+                "startTime": "297.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "297.600s",
+                "startTime": "297.500s",
+                "word": "build"
+              },
+              {
+                "endTime": "297.800s",
+                "startTime": "297.600s",
+                "word": "it"
+              },
+              {
+                "endTime": "297.900s",
+                "startTime": "297.800s",
+                "word": "up"
+              },
+              {
+                "endTime": "298.400s",
+                "startTime": "297.900s",
+                "word": "with"
+              },
+              {
+                "endTime": "298.500s",
+                "startTime": "298.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "299s",
+                "startTime": "298.500s",
+                "word": "national"
+              },
+              {
+                "endTime": "299.500s",
+                "startTime": "299s",
+                "word": "day"
+              },
+              {
+                "endTime": "299.600s",
+                "startTime": "299.500s",
+                "word": "of"
+              },
+              {
+                "endTime": "299.800s",
+                "startTime": "299.600s",
+                "word": "service"
+              },
+              {
+                "endTime": "300.600s",
+                "startTime": "299.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "300.900s",
+                "startTime": "300.600s",
+                "word": "Remembrance"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "301.860s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128385,
+            "transcript": " scripture tells us do not be overcome by evil",
+            "words": [
+              {
+                "endTime": "303.400s",
+                "startTime": "302.900s",
+                "word": "scripture"
+              },
+              {
+                "endTime": "303.700s",
+                "startTime": "303.400s",
+                "word": "tells"
+              },
+              {
+                "endTime": "304.100s",
+                "startTime": "303.700s",
+                "word": "us"
+              },
+              {
+                "endTime": "304.700s",
+                "startTime": "304.600s",
+                "word": "do"
+              },
+              {
+                "endTime": "304.900s",
+                "startTime": "304.700s",
+                "word": "not"
+              },
+              {
+                "endTime": "305s",
+                "startTime": "304.900s",
+                "word": "be"
+              },
+              {
+                "endTime": "305.500s",
+                "startTime": "305s",
+                "word": "overcome"
+              },
+              {
+                "endTime": "305.700s",
+                "startTime": "305.500s",
+                "word": "by"
+              },
+              {
+                "endTime": "306.100s",
+                "startTime": "305.700s",
+                "word": "evil"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "306.460s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128386,
+            "transcript": " but overcome evil with good",
+            "words": [
+              {
+                "endTime": "307.300s",
+                "startTime": "307.100s",
+                "word": "but"
+              },
+              {
+                "endTime": "308.200s",
+                "startTime": "307.300s",
+                "word": "overcome"
+              },
+              {
+                "endTime": "308.900s",
+                "startTime": "308.400s",
+                "word": "evil"
+              },
+              {
+                "endTime": "309.300s",
+                "startTime": "309s",
+                "word": "with"
+              },
+              {
+                "endTime": "309.700s",
+                "startTime": "309.300s",
+                "word": "good"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "310.170s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89676917,
+            "transcript": " there's no better way to honor the best in those who died then by discovering the best in ourselves",
+            "words": [
+              {
+                "endTime": "311.100s",
+                "startTime": "310.800s",
+                "word": "there's"
+              },
+              {
+                "endTime": "311.400s",
+                "startTime": "311.100s",
+                "word": "no"
+              },
+              {
+                "endTime": "311.700s",
+                "startTime": "311.400s",
+                "word": "better"
+              },
+              {
+                "endTime": "311.900s",
+                "startTime": "311.700s",
+                "word": "way"
+              },
+              {
+                "endTime": "312.100s",
+                "startTime": "311.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "312.300s",
+                "startTime": "312.100s",
+                "word": "honor"
+              },
+              {
+                "endTime": "312.500s",
+                "startTime": "312.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "312.600s",
+                "startTime": "312.500s",
+                "word": "best"
+              },
+              {
+                "endTime": "313.400s",
+                "startTime": "312.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "313.600s",
+                "startTime": "313.400s",
+                "word": "those"
+              },
+              {
+                "endTime": "313.800s",
+                "startTime": "313.600s",
+                "word": "who"
+              },
+              {
+                "endTime": "314s",
+                "startTime": "313.800s",
+                "word": "died"
+              },
+              {
+                "endTime": "314.400s",
+                "startTime": "314s",
+                "word": "then"
+              },
+              {
+                "endTime": "315.400s",
+                "startTime": "314.400s",
+                "word": "by"
+              },
+              {
+                "endTime": "316s",
+                "startTime": "315.400s",
+                "word": "discovering"
+              },
+              {
+                "endTime": "316.300s",
+                "startTime": "316s",
+                "word": "the"
+              },
+              {
+                "endTime": "316.600s",
+                "startTime": "316.300s",
+                "word": "best"
+              },
+              {
+                "endTime": "316.800s",
+                "startTime": "316.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "316.900s",
+                "startTime": "316.800s",
+                "word": "ourselves"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "317.830s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.78104025,
+            "transcript": " this anniversary allows us to renew our faith that even the darkest night gives way to a brighter Dawn",
+            "words": [
+              {
+                "endTime": "319.200s",
+                "startTime": "318.800s",
+                "word": "this"
+              },
+              {
+                "endTime": "319.500s",
+                "startTime": "319.200s",
+                "word": "anniversary"
+              },
+              {
+                "endTime": "320.200s",
+                "startTime": "319.500s",
+                "word": "allows"
+              },
+              {
+                "endTime": "320.500s",
+                "startTime": "320.200s",
+                "word": "us"
+              },
+              {
+                "endTime": "321.700s",
+                "startTime": "320.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "321.900s",
+                "startTime": "321.700s",
+                "word": "renew"
+              },
+              {
+                "endTime": "322s",
+                "startTime": "321.900s",
+                "word": "our"
+              },
+              {
+                "endTime": "322.200s",
+                "startTime": "322s",
+                "word": "faith"
+              },
+              {
+                "endTime": "323.200s",
+                "startTime": "322.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "323.600s",
+                "startTime": "323.200s",
+                "word": "even"
+              },
+              {
+                "endTime": "324.400s",
+                "startTime": "323.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "324.700s",
+                "startTime": "324.400s",
+                "word": "darkest"
+              },
+              {
+                "endTime": "325s",
+                "startTime": "324.700s",
+                "word": "night"
+              },
+              {
+                "endTime": "325.300s",
+                "startTime": "325s",
+                "word": "gives"
+              },
+              {
+                "endTime": "325.500s",
+                "startTime": "325.300s",
+                "word": "way"
+              },
+              {
+                "endTime": "325.600s",
+                "startTime": "325.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "325.800s",
+                "startTime": "325.600s",
+                "word": "a"
+              },
+              {
+                "endTime": "326.100s",
+                "startTime": "325.800s",
+                "word": "brighter"
+              },
+              {
+                "endTime": "326.400s",
+                "startTime": "326.100s",
+                "word": "Dawn"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7655261,
+            "transcript": " this anniversary allows us to renew our faith that even the darkest night gives way to a brighter dumb"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "326.810s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8673014,
+            "transcript": " today we can come here to the Pentagon and touch these names and kneel beside a building where a single Stone still Bears the scars of that fire",
+            "words": [
+              {
+                "endTime": "327.900s",
+                "startTime": "327.400s",
+                "word": "today"
+              },
+              {
+                "endTime": "328.300s",
+                "startTime": "327.900s",
+                "word": "we"
+              },
+              {
+                "endTime": "328.400s",
+                "startTime": "328.300s",
+                "word": "can"
+              },
+              {
+                "endTime": "328.700s",
+                "startTime": "328.400s",
+                "word": "come"
+              },
+              {
+                "endTime": "328.700s",
+                "startTime": "328.700s",
+                "word": "here"
+              },
+              {
+                "endTime": "329.200s",
+                "startTime": "328.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "329.300s",
+                "startTime": "329.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "329.900s",
+                "startTime": "329.300s",
+                "word": "Pentagon"
+              },
+              {
+                "endTime": "330.900s",
+                "startTime": "329.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "331.100s",
+                "startTime": "330.900s",
+                "word": "touch"
+              },
+              {
+                "endTime": "331.300s",
+                "startTime": "331.100s",
+                "word": "these"
+              },
+              {
+                "endTime": "331.900s",
+                "startTime": "331.300s",
+                "word": "names"
+              },
+              {
+                "endTime": "332s",
+                "startTime": "331.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "332.300s",
+                "startTime": "332s",
+                "word": "kneel"
+              },
+              {
+                "endTime": "332.500s",
+                "startTime": "332.300s",
+                "word": "beside"
+              },
+              {
+                "endTime": "332.900s",
+                "startTime": "332.500s",
+                "word": "a"
+              },
+              {
+                "endTime": "333.200s",
+                "startTime": "332.900s",
+                "word": "building"
+              },
+              {
+                "endTime": "333.400s",
+                "startTime": "333.200s",
+                "word": "where"
+              },
+              {
+                "endTime": "333.500s",
+                "startTime": "333.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "333.800s",
+                "startTime": "333.500s",
+                "word": "single"
+              },
+              {
+                "endTime": "334.300s",
+                "startTime": "333.800s",
+                "word": "Stone"
+              },
+              {
+                "endTime": "334.700s",
+                "startTime": "334.300s",
+                "word": "still"
+              },
+              {
+                "endTime": "335.600s",
+                "startTime": "334.700s",
+                "word": "Bears"
+              },
+              {
+                "endTime": "335.700s",
+                "startTime": "335.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "335.800s",
+                "startTime": "335.700s",
+                "word": "scars"
+              },
+              {
+                "endTime": "336.300s",
+                "startTime": "335.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "336.400s",
+                "startTime": "336.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "336.800s",
+                "startTime": "336.400s",
+                "word": "fire"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "337.500s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8051424,
+            "transcript": " we can visit the field of Honor in Pennsylvania remember the heroes who made it sacred we can see water cascading into the footprints of the twin towers and gays up that a new tower Rising above the New York skyline",
+            "words": [
+              {
+                "endTime": "338.500s",
+                "startTime": "337.900s",
+                "word": "we"
+              },
+              {
+                "endTime": "338.600s",
+                "startTime": "338.500s",
+                "word": "can"
+              },
+              {
+                "endTime": "338.800s",
+                "startTime": "338.600s",
+                "word": "visit"
+              },
+              {
+                "endTime": "339.400s",
+                "startTime": "338.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "339.800s",
+                "startTime": "339.400s",
+                "word": "field"
+              },
+              {
+                "endTime": "339.900s",
+                "startTime": "339.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "340.200s",
+                "startTime": "339.900s",
+                "word": "Honor"
+              },
+              {
+                "endTime": "340.300s",
+                "startTime": "340.200s",
+                "word": "in"
+              },
+              {
+                "endTime": "340.900s",
+                "startTime": "340.300s",
+                "word": "Pennsylvania"
+              },
+              {
+                "endTime": "341.300s",
+                "startTime": "340.900s",
+                "word": "remember"
+              },
+              {
+                "endTime": "341.500s",
+                "startTime": "341.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "341.600s",
+                "startTime": "341.500s",
+                "word": "heroes"
+              },
+              {
+                "endTime": "342.700s",
+                "startTime": "341.600s",
+                "word": "who"
+              },
+              {
+                "endTime": "342.900s",
+                "startTime": "342.700s",
+                "word": "made"
+              },
+              {
+                "endTime": "343s",
+                "startTime": "342.900s",
+                "word": "it"
+              },
+              {
+                "endTime": "343.300s",
+                "startTime": "343s",
+                "word": "sacred"
+              },
+              {
+                "endTime": "344.800s",
+                "startTime": "343.300s",
+                "word": "we"
+              },
+              {
+                "endTime": "344.900s",
+                "startTime": "344.800s",
+                "word": "can"
+              },
+              {
+                "endTime": "345s",
+                "startTime": "344.900s",
+                "word": "see"
+              },
+              {
+                "endTime": "345.400s",
+                "startTime": "345s",
+                "word": "water"
+              },
+              {
+                "endTime": "346s",
+                "startTime": "345.400s",
+                "word": "cascading"
+              },
+              {
+                "endTime": "346.500s",
+                "startTime": "346s",
+                "word": "into"
+              },
+              {
+                "endTime": "346.700s",
+                "startTime": "346.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "347.300s",
+                "startTime": "346.700s",
+                "word": "footprints"
+              },
+              {
+                "endTime": "347.400s",
+                "startTime": "347.300s",
+                "word": "of"
+              },
+              {
+                "endTime": "347.500s",
+                "startTime": "347.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "347.800s",
+                "startTime": "347.500s",
+                "word": "twin"
+              },
+              {
+                "endTime": "347.900s",
+                "startTime": "347.800s",
+                "word": "towers"
+              },
+              {
+                "endTime": "349.100s",
+                "startTime": "347.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "349.400s",
+                "startTime": "349.100s",
+                "word": "gays"
+              },
+              {
+                "endTime": "349.600s",
+                "startTime": "349.400s",
+                "word": "up"
+              },
+              {
+                "endTime": "350.300s",
+                "startTime": "349.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "350.400s",
+                "startTime": "350.300s",
+                "word": "a"
+              },
+              {
+                "endTime": "350.600s",
+                "startTime": "350.400s",
+                "word": "new"
+              },
+              {
+                "endTime": "351.300s",
+                "startTime": "350.600s",
+                "word": "tower"
+              },
+              {
+                "endTime": "351.800s",
+                "startTime": "351.300s",
+                "word": "Rising"
+              },
+              {
+                "endTime": "352s",
+                "startTime": "351.800s",
+                "word": "above"
+              },
+              {
+                "endTime": "352.100s",
+                "startTime": "352s",
+                "word": "the"
+              },
+              {
+                "endTime": "352.200s",
+                "startTime": "352.100s",
+                "word": "New"
+              },
+              {
+                "endTime": "352.300s",
+                "startTime": "352.200s",
+                "word": "York"
+              },
+              {
+                "endTime": "352.500s",
+                "startTime": "352.300s",
+                "word": "skyline"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "353.450s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7211798,
+            "transcript": " and even though we may never be able to fully lift the burden carried by those left behind we know that somewhere a son is growing up with his father's eyes and a daughter has her mother's laugh",
+            "words": [
+              {
+                "endTime": "354.600s",
+                "startTime": "354.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "354.800s",
+                "startTime": "354.600s",
+                "word": "even"
+              },
+              {
+                "endTime": "354.900s",
+                "startTime": "354.800s",
+                "word": "though"
+              },
+              {
+                "endTime": "355s",
+                "startTime": "354.900s",
+                "word": "we"
+              },
+              {
+                "endTime": "355.100s",
+                "startTime": "355s",
+                "word": "may"
+              },
+              {
+                "endTime": "355.300s",
+                "startTime": "355.100s",
+                "word": "never"
+              },
+              {
+                "endTime": "355.500s",
+                "startTime": "355.300s",
+                "word": "be"
+              },
+              {
+                "endTime": "356s",
+                "startTime": "355.500s",
+                "word": "able"
+              },
+              {
+                "endTime": "356.300s",
+                "startTime": "356s",
+                "word": "to"
+              },
+              {
+                "endTime": "357.100s",
+                "startTime": "356.300s",
+                "word": "fully"
+              },
+              {
+                "endTime": "357.600s",
+                "startTime": "357.100s",
+                "word": "lift"
+              },
+              {
+                "endTime": "358s",
+                "startTime": "357.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "358.400s",
+                "startTime": "358s",
+                "word": "burden"
+              },
+              {
+                "endTime": "358.500s",
+                "startTime": "358.400s",
+                "word": "carried"
+              },
+              {
+                "endTime": "358.900s",
+                "startTime": "358.500s",
+                "word": "by"
+              },
+              {
+                "endTime": "360.300s",
+                "startTime": "358.900s",
+                "word": "those"
+              },
+              {
+                "endTime": "360.600s",
+                "startTime": "360.300s",
+                "word": "left"
+              },
+              {
+                "endTime": "360.700s",
+                "startTime": "360.600s",
+                "word": "behind"
+              },
+              {
+                "endTime": "362.200s",
+                "startTime": "360.700s",
+                "word": "we"
+              },
+              {
+                "endTime": "362.200s",
+                "startTime": "362.200s",
+                "word": "know"
+              },
+              {
+                "endTime": "362.400s",
+                "startTime": "362.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "362.900s",
+                "startTime": "362.400s",
+                "word": "somewhere"
+              },
+              {
+                "endTime": "363.900s",
+                "startTime": "362.900s",
+                "word": "a"
+              },
+              {
+                "endTime": "364.200s",
+                "startTime": "363.900s",
+                "word": "son"
+              },
+              {
+                "endTime": "364.400s",
+                "startTime": "364.200s",
+                "word": "is"
+              },
+              {
+                "endTime": "364.700s",
+                "startTime": "364.400s",
+                "word": "growing"
+              },
+              {
+                "endTime": "364.800s",
+                "startTime": "364.700s",
+                "word": "up"
+              },
+              {
+                "endTime": "365s",
+                "startTime": "364.800s",
+                "word": "with"
+              },
+              {
+                "endTime": "365.200s",
+                "startTime": "365s",
+                "word": "his"
+              },
+              {
+                "endTime": "365.600s",
+                "startTime": "365.200s",
+                "word": "father's"
+              },
+              {
+                "endTime": "365.900s",
+                "startTime": "365.600s",
+                "word": "eyes"
+              },
+              {
+                "endTime": "367.100s",
+                "startTime": "365.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "367.200s",
+                "startTime": "367.100s",
+                "word": "a"
+              },
+              {
+                "endTime": "367.600s",
+                "startTime": "367.200s",
+                "word": "daughter"
+              },
+              {
+                "endTime": "367.800s",
+                "startTime": "367.600s",
+                "word": "has"
+              },
+              {
+                "endTime": "368s",
+                "startTime": "367.800s",
+                "word": "her"
+              },
+              {
+                "endTime": "368.300s",
+                "startTime": "368s",
+                "word": "mother's"
+              },
+              {
+                "endTime": "368.600s",
+                "startTime": "368.300s",
+                "word": "laugh"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "369.120s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128386,
+            "transcript": " living reminders that those who died are with us still",
+            "words": [
+              {
+                "endTime": "370.700s",
+                "startTime": "370.400s",
+                "word": "living"
+              },
+              {
+                "endTime": "371.400s",
+                "startTime": "370.700s",
+                "word": "reminders"
+              },
+              {
+                "endTime": "372s",
+                "startTime": "371.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "372.600s",
+                "startTime": "372s",
+                "word": "those"
+              },
+              {
+                "endTime": "372.700s",
+                "startTime": "372.600s",
+                "word": "who"
+              },
+              {
+                "endTime": "373.300s",
+                "startTime": "372.700s",
+                "word": "died"
+              },
+              {
+                "endTime": "373.700s",
+                "startTime": "373.600s",
+                "word": "are"
+              },
+              {
+                "endTime": "373.900s",
+                "startTime": "373.700s",
+                "word": "with"
+              },
+              {
+                "endTime": "374.100s",
+                "startTime": "373.900s",
+                "word": "us"
+              },
+              {
+                "endTime": "374.400s",
+                "startTime": "374.100s",
+                "word": "still"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "374.920s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9011819,
+            "transcript": " so as painful as this day is and always will be it leaves us with the lesson",
+            "words": [
+              {
+                "endTime": "376.200s",
+                "startTime": "376s",
+                "word": "so"
+              },
+              {
+                "endTime": "376.300s",
+                "startTime": "376.200s",
+                "word": "as"
+              },
+              {
+                "endTime": "376.800s",
+                "startTime": "376.300s",
+                "word": "painful"
+              },
+              {
+                "endTime": "376.900s",
+                "startTime": "376.800s",
+                "word": "as"
+              },
+              {
+                "endTime": "377.100s",
+                "startTime": "376.900s",
+                "word": "this"
+              },
+              {
+                "endTime": "377.300s",
+                "startTime": "377.100s",
+                "word": "day"
+              },
+              {
+                "endTime": "377.500s",
+                "startTime": "377.300s",
+                "word": "is"
+              },
+              {
+                "endTime": "377.600s",
+                "startTime": "377.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "378s",
+                "startTime": "377.600s",
+                "word": "always"
+              },
+              {
+                "endTime": "378.200s",
+                "startTime": "378s",
+                "word": "will"
+              },
+              {
+                "endTime": "378.500s",
+                "startTime": "378.200s",
+                "word": "be"
+              },
+              {
+                "endTime": "379.200s",
+                "startTime": "379s",
+                "word": "it"
+              },
+              {
+                "endTime": "379.500s",
+                "startTime": "379.200s",
+                "word": "leaves"
+              },
+              {
+                "endTime": "379.600s",
+                "startTime": "379.500s",
+                "word": "us"
+              },
+              {
+                "endTime": "379.800s",
+                "startTime": "379.600s",
+                "word": "with"
+              },
+              {
+                "endTime": "379.800s",
+                "startTime": "379.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "380.300s",
+                "startTime": "379.800s",
+                "word": "lesson"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8804907,
+            "transcript": " so as painful as this day is and always will be it leaves us with a lesson"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "380.670s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128386,
+            "transcript": " that no single event can never destroy Who We Are",
+            "words": [
+              {
+                "endTime": "381.700s",
+                "startTime": "381.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "382.200s",
+                "startTime": "381.700s",
+                "word": "no"
+              },
+              {
+                "endTime": "382.600s",
+                "startTime": "382.300s",
+                "word": "single"
+              },
+              {
+                "endTime": "383.200s",
+                "startTime": "382.600s",
+                "word": "event"
+              },
+              {
+                "endTime": "383.600s",
+                "startTime": "383.500s",
+                "word": "can"
+              },
+              {
+                "endTime": "383.800s",
+                "startTime": "383.600s",
+                "word": "never"
+              },
+              {
+                "endTime": "384.400s",
+                "startTime": "383.800s",
+                "word": "destroy"
+              },
+              {
+                "endTime": "384.600s",
+                "startTime": "384.400s",
+                "word": "Who"
+              },
+              {
+                "endTime": "384.700s",
+                "startTime": "384.600s",
+                "word": "We"
+              },
+              {
+                "endTime": "384.900s",
+                "startTime": "384.700s",
+                "word": "Are"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "385.330s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.76478297,
+            "transcript": " no Act of terrorism can ever change what we stand for",
+            "words": [
+              {
+                "endTime": "386.300s",
+                "startTime": "385.900s",
+                "word": "no"
+              },
+              {
+                "endTime": "386.700s",
+                "startTime": "386.300s",
+                "word": "Act"
+              },
+              {
+                "endTime": "386.700s",
+                "startTime": "386.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "387.100s",
+                "startTime": "386.700s",
+                "word": "terrorism"
+              },
+              {
+                "endTime": "388s",
+                "startTime": "387.100s",
+                "word": "can"
+              },
+              {
+                "endTime": "388.200s",
+                "startTime": "388s",
+                "word": "ever"
+              },
+              {
+                "endTime": "388.300s",
+                "startTime": "388.200s",
+                "word": "change"
+              },
+              {
+                "endTime": "389.400s",
+                "startTime": "388.300s",
+                "word": "what"
+              },
+              {
+                "endTime": "389.500s",
+                "startTime": "389.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "389.800s",
+                "startTime": "389.500s",
+                "word": "stand"
+              },
+              {
+                "endTime": "390s",
+                "startTime": "389.800s",
+                "word": "for"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "390.660s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.901595,
+            "transcript": " instead we recommit ourselves to the values that we believe in holding firmly without wavering to the hope that we confess",
+            "words": [
+              {
+                "endTime": "391.900s",
+                "startTime": "391.200s",
+                "word": "instead"
+              },
+              {
+                "endTime": "392.200s",
+                "startTime": "391.900s",
+                "word": "we"
+              },
+              {
+                "endTime": "392.700s",
+                "startTime": "392.200s",
+                "word": "recommit"
+              },
+              {
+                "endTime": "392.700s",
+                "startTime": "392.700s",
+                "word": "ourselves"
+              },
+              {
+                "endTime": "393.400s",
+                "startTime": "392.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "393.500s",
+                "startTime": "393.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "393.900s",
+                "startTime": "393.500s",
+                "word": "values"
+              },
+              {
+                "endTime": "394s",
+                "startTime": "393.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "394.200s",
+                "startTime": "394s",
+                "word": "we"
+              },
+              {
+                "endTime": "394.300s",
+                "startTime": "394.200s",
+                "word": "believe"
+              },
+              {
+                "endTime": "394.800s",
+                "startTime": "394.300s",
+                "word": "in"
+              },
+              {
+                "endTime": "395.900s",
+                "startTime": "394.800s",
+                "word": "holding"
+              },
+              {
+                "endTime": "396.400s",
+                "startTime": "395.900s",
+                "word": "firmly"
+              },
+              {
+                "endTime": "397.300s",
+                "startTime": "396.400s",
+                "word": "without"
+              },
+              {
+                "endTime": "397.900s",
+                "startTime": "397.300s",
+                "word": "wavering"
+              },
+              {
+                "endTime": "399.100s",
+                "startTime": "397.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "399.200s",
+                "startTime": "399.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "399.400s",
+                "startTime": "399.200s",
+                "word": "hope"
+              },
+              {
+                "endTime": "399.800s",
+                "startTime": "399.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "400.100s",
+                "startTime": "399.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "400.500s",
+                "startTime": "400.100s",
+                "word": "confess"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "401.110s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90005034,
+            "transcript": " that's the commitment that we reaffirm today",
+            "words": [
+              {
+                "endTime": "402.600s",
+                "startTime": "402.200s",
+                "word": "that's"
+              },
+              {
+                "endTime": "402.700s",
+                "startTime": "402.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "403.300s",
+                "startTime": "402.700s",
+                "word": "commitment"
+              },
+              {
+                "endTime": "403.400s",
+                "startTime": "403.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "403.500s",
+                "startTime": "403.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "404.100s",
+                "startTime": "403.500s",
+                "word": "reaffirm"
+              },
+              {
+                "endTime": "404.500s",
+                "startTime": "404.100s",
+                "word": "today"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "404.830s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7282564,
+            "transcript": " and that's why when the history books are written the True Legacy of 9/11 will not be one of fear or hate or division",
+            "words": [
+              {
+                "endTime": "405.700s",
+                "startTime": "405.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "406s",
+                "startTime": "405.700s",
+                "word": "that's"
+              },
+              {
+                "endTime": "406.200s",
+                "startTime": "406s",
+                "word": "why"
+              },
+              {
+                "endTime": "406.500s",
+                "startTime": "406.200s",
+                "word": "when"
+              },
+              {
+                "endTime": "406.600s",
+                "startTime": "406.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "406.800s",
+                "startTime": "406.600s",
+                "word": "history"
+              },
+              {
+                "endTime": "407.100s",
+                "startTime": "406.800s",
+                "word": "books"
+              },
+              {
+                "endTime": "407.400s",
+                "startTime": "407.100s",
+                "word": "are"
+              },
+              {
+                "endTime": "407.500s",
+                "startTime": "407.400s",
+                "word": "written"
+              },
+              {
+                "endTime": "408.600s",
+                "startTime": "407.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "408.800s",
+                "startTime": "408.600s",
+                "word": "True"
+              },
+              {
+                "endTime": "409.100s",
+                "startTime": "408.800s",
+                "word": "Legacy"
+              },
+              {
+                "endTime": "409.500s",
+                "startTime": "409.100s",
+                "word": "of"
+              },
+              {
+                "endTime": "410.100s",
+                "startTime": "409.500s",
+                "word": "9/11"
+              },
+              {
+                "endTime": "410.600s",
+                "startTime": "410.100s",
+                "word": "will"
+              },
+              {
+                "endTime": "410.800s",
+                "startTime": "410.600s",
+                "word": "not"
+              },
+              {
+                "endTime": "411s",
+                "startTime": "410.800s",
+                "word": "be"
+              },
+              {
+                "endTime": "411.100s",
+                "startTime": "411s",
+                "word": "one"
+              },
+              {
+                "endTime": "411.200s",
+                "startTime": "411.100s",
+                "word": "of"
+              },
+              {
+                "endTime": "411.600s",
+                "startTime": "411.200s",
+                "word": "fear"
+              },
+              {
+                "endTime": "412s",
+                "startTime": "411.600s",
+                "word": "or"
+              },
+              {
+                "endTime": "412.300s",
+                "startTime": "412s",
+                "word": "hate"
+              },
+              {
+                "endTime": "413s",
+                "startTime": "412.300s",
+                "word": "or"
+              },
+              {
+                "endTime": "413.500s",
+                "startTime": "413s",
+                "word": "division"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "413.960s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9021186,
+            "transcript": " it will be a safer World a stronger nation and a people more united than ever before",
+            "words": [
+              {
+                "endTime": "414.700s",
+                "startTime": "414.600s",
+                "word": "it"
+              },
+              {
+                "endTime": "414.800s",
+                "startTime": "414.700s",
+                "word": "will"
+              },
+              {
+                "endTime": "415s",
+                "startTime": "414.800s",
+                "word": "be"
+              },
+              {
+                "endTime": "415.100s",
+                "startTime": "415s",
+                "word": "a"
+              },
+              {
+                "endTime": "415.500s",
+                "startTime": "415.100s",
+                "word": "safer"
+              },
+              {
+                "endTime": "416.100s",
+                "startTime": "415.500s",
+                "word": "World"
+              },
+              {
+                "endTime": "416.800s",
+                "startTime": "416.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "417.300s",
+                "startTime": "416.800s",
+                "word": "stronger"
+              },
+              {
+                "endTime": "417.500s",
+                "startTime": "417.300s",
+                "word": "nation"
+              },
+              {
+                "endTime": "419.100s",
+                "startTime": "417.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "419.100s",
+                "startTime": "419.100s",
+                "word": "a"
+              },
+              {
+                "endTime": "419.200s",
+                "startTime": "419.100s",
+                "word": "people"
+              },
+              {
+                "endTime": "420.500s",
+                "startTime": "419.200s",
+                "word": "more"
+              },
+              {
+                "endTime": "421.300s",
+                "startTime": "420.500s",
+                "word": "united"
+              },
+              {
+                "endTime": "421.600s",
+                "startTime": "421.300s",
+                "word": "than"
+              },
+              {
+                "endTime": "421.800s",
+                "startTime": "421.600s",
+                "word": "ever"
+              },
+              {
+                "endTime": "422.300s",
+                "startTime": "421.800s",
+                "word": "before"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "422.800s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8399162,
+            "transcript": " God bless the memories of those we lost",
+            "words": [
+              {
+                "endTime": "425s",
+                "startTime": "424.700s",
+                "word": "God"
+              },
+              {
+                "endTime": "425.500s",
+                "startTime": "425s",
+                "word": "bless"
+              },
+              {
+                "endTime": "425.600s",
+                "startTime": "425.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "426.400s",
+                "startTime": "425.600s",
+                "word": "memories"
+              },
+              {
+                "endTime": "426.500s",
+                "startTime": "426.400s",
+                "word": "of"
+              },
+              {
+                "endTime": "426.800s",
+                "startTime": "426.500s",
+                "word": "those"
+              },
+              {
+                "endTime": "426.900s",
+                "startTime": "426.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "427.500s",
+                "startTime": "426.900s",
+                "word": "lost"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "427.750s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.640354,
+            "transcript": " and God bless these United States of America",
+            "words": [
+              {
+                "endTime": "428.900s",
+                "startTime": "428.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "429.100s",
+                "startTime": "428.900s",
+                "word": "God"
+              },
+              {
+                "endTime": "429.400s",
+                "startTime": "429.100s",
+                "word": "bless"
+              },
+              {
+                "endTime": "430.200s",
+                "startTime": "429.400s",
+                "word": "these"
+              },
+              {
+                "endTime": "430.400s",
+                "startTime": "430.200s",
+                "word": "United"
+              },
+              {
+                "endTime": "430.800s",
+                "startTime": "430.400s",
+                "word": "States"
+              },
+              {
+                "endTime": "431s",
+                "startTime": "430.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "431.500s",
+                "startTime": "431s",
+                "word": "America"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "431.840s"
+      }
+    ],
+    "totalBilledTime": "435s"
+  }
+}

@@ -1,0 +1,3190 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2021-12-11T21:32:28.476482Z",
+    "progressPercent": 100,
+    "startTime": "2021-12-11T21:31:42.840036Z",
+    "uri": "gs://trimmedspeeches/ID_114_cut.wav"
+  },
+  "name": "4406078145979443690",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90879,
+            "transcript": "hello this is Mitt Romney and this November America will make a choice about the direction we want to go as a country and nowhere is that choice clear that on the issue of Medicare President Obama's health care law rated 716 billion dollars from the Medicare trust fund and he did that to finance his takeover of the healthcare system now if that wasn't bad enough his",
+            "words": [
+              {
+                "endTime": "3.100s",
+                "startTime": "2.600s",
+                "word": "hello"
+              },
+              {
+                "endTime": "3.300s",
+                "startTime": "3.100s",
+                "word": "this"
+              },
+              {
+                "endTime": "3.400s",
+                "startTime": "3.300s",
+                "word": "is"
+              },
+              {
+                "endTime": "3.700s",
+                "startTime": "3.400s",
+                "word": "Mitt"
+              },
+              {
+                "endTime": "4.400s",
+                "startTime": "3.700s",
+                "word": "Romney"
+              },
+              {
+                "endTime": "4.900s",
+                "startTime": "4.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "5.100s",
+                "startTime": "4.900s",
+                "word": "this"
+              },
+              {
+                "endTime": "6s",
+                "startTime": "5.100s",
+                "word": "November"
+              },
+              {
+                "endTime": "6.700s",
+                "startTime": "6s",
+                "word": "America"
+              },
+              {
+                "endTime": "6.800s",
+                "startTime": "6.700s",
+                "word": "will"
+              },
+              {
+                "endTime": "7s",
+                "startTime": "6.800s",
+                "word": "make"
+              },
+              {
+                "endTime": "7.100s",
+                "startTime": "7s",
+                "word": "a"
+              },
+              {
+                "endTime": "7.600s",
+                "startTime": "7.100s",
+                "word": "choice"
+              },
+              {
+                "endTime": "7.900s",
+                "startTime": "7.600s",
+                "word": "about"
+              },
+              {
+                "endTime": "7.900s",
+                "startTime": "7.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "8.400s",
+                "startTime": "7.900s",
+                "word": "direction"
+              },
+              {
+                "endTime": "8.500s",
+                "startTime": "8.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "8.800s",
+                "startTime": "8.500s",
+                "word": "want"
+              },
+              {
+                "endTime": "8.800s",
+                "startTime": "8.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "9.300s",
+                "startTime": "8.800s",
+                "word": "go"
+              },
+              {
+                "endTime": "9.500s",
+                "startTime": "9.300s",
+                "word": "as"
+              },
+              {
+                "endTime": "9.600s",
+                "startTime": "9.500s",
+                "word": "a"
+              },
+              {
+                "endTime": "10.700s",
+                "startTime": "9.600s",
+                "word": "country"
+              },
+              {
+                "endTime": "10.900s",
+                "startTime": "10.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "11.500s",
+                "startTime": "10.900s",
+                "word": "nowhere"
+              },
+              {
+                "endTime": "11.700s",
+                "startTime": "11.500s",
+                "word": "is"
+              },
+              {
+                "endTime": "11.900s",
+                "startTime": "11.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "12.400s",
+                "startTime": "11.900s",
+                "word": "choice"
+              },
+              {
+                "endTime": "13.200s",
+                "startTime": "12.400s",
+                "word": "clear"
+              },
+              {
+                "endTime": "13.500s",
+                "startTime": "13.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "13.600s",
+                "startTime": "13.500s",
+                "word": "on"
+              },
+              {
+                "endTime": "13.700s",
+                "startTime": "13.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "14.300s",
+                "startTime": "13.700s",
+                "word": "issue"
+              },
+              {
+                "endTime": "14.500s",
+                "startTime": "14.300s",
+                "word": "of"
+              },
+              {
+                "endTime": "15.900s",
+                "startTime": "14.500s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "16.400s",
+                "startTime": "16s",
+                "word": "President"
+              },
+              {
+                "endTime": "16.900s",
+                "startTime": "16.400s",
+                "word": "Obama's"
+              },
+              {
+                "endTime": "17.100s",
+                "startTime": "16.900s",
+                "word": "health"
+              },
+              {
+                "endTime": "17.400s",
+                "startTime": "17.100s",
+                "word": "care"
+              },
+              {
+                "endTime": "17.800s",
+                "startTime": "17.400s",
+                "word": "law"
+              },
+              {
+                "endTime": "18.600s",
+                "startTime": "17.900s",
+                "word": "rated"
+              },
+              {
+                "endTime": "20.100s",
+                "startTime": "18.700s",
+                "word": "716"
+              },
+              {
+                "endTime": "20.500s",
+                "startTime": "20.100s",
+                "word": "billion"
+              },
+              {
+                "endTime": "21.300s",
+                "startTime": "20.500s",
+                "word": "dollars"
+              },
+              {
+                "endTime": "21.600s",
+                "startTime": "21.300s",
+                "word": "from"
+              },
+              {
+                "endTime": "21.700s",
+                "startTime": "21.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "22.200s",
+                "startTime": "21.700s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "22.600s",
+                "startTime": "22.200s",
+                "word": "trust"
+              },
+              {
+                "endTime": "23.600s",
+                "startTime": "22.600s",
+                "word": "fund"
+              },
+              {
+                "endTime": "23.800s",
+                "startTime": "23.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "23.800s",
+                "startTime": "23.800s",
+                "word": "he"
+              },
+              {
+                "endTime": "24.200s",
+                "startTime": "23.800s",
+                "word": "did"
+              },
+              {
+                "endTime": "24.400s",
+                "startTime": "24.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "24.600s",
+                "startTime": "24.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "25s",
+                "startTime": "24.600s",
+                "word": "finance"
+              },
+              {
+                "endTime": "25.200s",
+                "startTime": "25s",
+                "word": "his"
+              },
+              {
+                "endTime": "25.900s",
+                "startTime": "25.200s",
+                "word": "takeover"
+              },
+              {
+                "endTime": "26.100s",
+                "startTime": "25.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "26.200s",
+                "startTime": "26.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "26.600s",
+                "startTime": "26.200s",
+                "word": "healthcare"
+              },
+              {
+                "endTime": "27.700s",
+                "startTime": "26.600s",
+                "word": "system"
+              },
+              {
+                "endTime": "28s",
+                "startTime": "27.800s",
+                "word": "now"
+              },
+              {
+                "endTime": "28s",
+                "startTime": "28s",
+                "word": "if"
+              },
+              {
+                "endTime": "28.200s",
+                "startTime": "28s",
+                "word": "that"
+              },
+              {
+                "endTime": "28.500s",
+                "startTime": "28.200s",
+                "word": "wasn't"
+              },
+              {
+                "endTime": "28.700s",
+                "startTime": "28.500s",
+                "word": "bad"
+              },
+              {
+                "endTime": "29.300s",
+                "startTime": "28.700s",
+                "word": "enough"
+              },
+              {
+                "endTime": "30.100s",
+                "startTime": "29.900s",
+                "word": "his"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8631115,
+            "transcript": "hello this is Mitt Romney and this November America will make a choice about the direction we want to go as a country and nowhere is that choice clear that on the issue of Medicare President Obama's health care law rated 716 billion dollars from the Medicare trust fund and he did that to finance his takeover of the Health Care system now if that wasn't bad enough his"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "30.320s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9022296,
+            "transcript": "Carol also put in place a board of 15 unelected bureaucrats and gave them the power to make additional cuts to Medicare without even having to get approval from Congress this means they could deny elderly Americans that care they work for their entire lives all because President Obama trust bureaucrats more that he trusts seniors and their doctors and here's one more troubling aspect of all this according to Independent nonpartisan scorekeepers",
+            "words": [
+              {
+                "endTime": "30.800s",
+                "startTime": "30.400s",
+                "word": "Carol"
+              },
+              {
+                "endTime": "31.400s",
+                "startTime": "30.800s",
+                "word": "also"
+              },
+              {
+                "endTime": "31.700s",
+                "startTime": "31.400s",
+                "word": "put"
+              },
+              {
+                "endTime": "31.800s",
+                "startTime": "31.700s",
+                "word": "in"
+              },
+              {
+                "endTime": "32.100s",
+                "startTime": "31.800s",
+                "word": "place"
+              },
+              {
+                "endTime": "32.200s",
+                "startTime": "32.100s",
+                "word": "a"
+              },
+              {
+                "endTime": "32.800s",
+                "startTime": "32.200s",
+                "word": "board"
+              },
+              {
+                "endTime": "33s",
+                "startTime": "32.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "33.800s",
+                "startTime": "33s",
+                "word": "15"
+              },
+              {
+                "endTime": "34.400s",
+                "startTime": "33.900s",
+                "word": "unelected"
+              },
+              {
+                "endTime": "35.200s",
+                "startTime": "34.400s",
+                "word": "bureaucrats"
+              },
+              {
+                "endTime": "36s",
+                "startTime": "35.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "36.400s",
+                "startTime": "36s",
+                "word": "gave"
+              },
+              {
+                "endTime": "36.600s",
+                "startTime": "36.400s",
+                "word": "them"
+              },
+              {
+                "endTime": "36.800s",
+                "startTime": "36.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "37.200s",
+                "startTime": "36.800s",
+                "word": "power"
+              },
+              {
+                "endTime": "37.400s",
+                "startTime": "37.200s",
+                "word": "to"
+              },
+              {
+                "endTime": "37.600s",
+                "startTime": "37.400s",
+                "word": "make"
+              },
+              {
+                "endTime": "38.100s",
+                "startTime": "37.600s",
+                "word": "additional"
+              },
+              {
+                "endTime": "38.400s",
+                "startTime": "38.100s",
+                "word": "cuts"
+              },
+              {
+                "endTime": "38.500s",
+                "startTime": "38.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "39.200s",
+                "startTime": "38.500s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "40s",
+                "startTime": "39.600s",
+                "word": "without"
+              },
+              {
+                "endTime": "40.200s",
+                "startTime": "40s",
+                "word": "even"
+              },
+              {
+                "endTime": "40.500s",
+                "startTime": "40.200s",
+                "word": "having"
+              },
+              {
+                "endTime": "40.600s",
+                "startTime": "40.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "40.800s",
+                "startTime": "40.600s",
+                "word": "get"
+              },
+              {
+                "endTime": "41.200s",
+                "startTime": "40.800s",
+                "word": "approval"
+              },
+              {
+                "endTime": "41.300s",
+                "startTime": "41.200s",
+                "word": "from"
+              },
+              {
+                "endTime": "41.900s",
+                "startTime": "41.300s",
+                "word": "Congress"
+              },
+              {
+                "endTime": "42.900s",
+                "startTime": "42.600s",
+                "word": "this"
+              },
+              {
+                "endTime": "43.200s",
+                "startTime": "42.900s",
+                "word": "means"
+              },
+              {
+                "endTime": "43.300s",
+                "startTime": "43.200s",
+                "word": "they"
+              },
+              {
+                "endTime": "43.500s",
+                "startTime": "43.300s",
+                "word": "could"
+              },
+              {
+                "endTime": "44.100s",
+                "startTime": "43.500s",
+                "word": "deny"
+              },
+              {
+                "endTime": "44.600s",
+                "startTime": "44.100s",
+                "word": "elderly"
+              },
+              {
+                "endTime": "45.200s",
+                "startTime": "44.600s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "45.400s",
+                "startTime": "45.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "45.600s",
+                "startTime": "45.400s",
+                "word": "care"
+              },
+              {
+                "endTime": "45.800s",
+                "startTime": "45.600s",
+                "word": "they"
+              },
+              {
+                "endTime": "46.200s",
+                "startTime": "45.800s",
+                "word": "work"
+              },
+              {
+                "endTime": "46.400s",
+                "startTime": "46.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "46.600s",
+                "startTime": "46.400s",
+                "word": "their"
+              },
+              {
+                "endTime": "47.100s",
+                "startTime": "46.600s",
+                "word": "entire"
+              },
+              {
+                "endTime": "47.700s",
+                "startTime": "47.100s",
+                "word": "lives"
+              },
+              {
+                "endTime": "48.400s",
+                "startTime": "48.100s",
+                "word": "all"
+              },
+              {
+                "endTime": "48.700s",
+                "startTime": "48.400s",
+                "word": "because"
+              },
+              {
+                "endTime": "49.100s",
+                "startTime": "48.700s",
+                "word": "President"
+              },
+              {
+                "endTime": "49.500s",
+                "startTime": "49.100s",
+                "word": "Obama"
+              },
+              {
+                "endTime": "49.900s",
+                "startTime": "49.500s",
+                "word": "trust"
+              },
+              {
+                "endTime": "50.500s",
+                "startTime": "49.900s",
+                "word": "bureaucrats"
+              },
+              {
+                "endTime": "50.700s",
+                "startTime": "50.500s",
+                "word": "more"
+              },
+              {
+                "endTime": "50.800s",
+                "startTime": "50.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "50.900s",
+                "startTime": "50.800s",
+                "word": "he"
+              },
+              {
+                "endTime": "51.400s",
+                "startTime": "50.900s",
+                "word": "trusts"
+              },
+              {
+                "endTime": "52.400s",
+                "startTime": "51.700s",
+                "word": "seniors"
+              },
+              {
+                "endTime": "52.800s",
+                "startTime": "52.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "53s",
+                "startTime": "52.800s",
+                "word": "their"
+              },
+              {
+                "endTime": "53.600s",
+                "startTime": "53s",
+                "word": "doctors"
+              },
+              {
+                "endTime": "54.400s",
+                "startTime": "54.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "54.600s",
+                "startTime": "54.400s",
+                "word": "here's"
+              },
+              {
+                "endTime": "54.800s",
+                "startTime": "54.600s",
+                "word": "one"
+              },
+              {
+                "endTime": "55s",
+                "startTime": "54.800s",
+                "word": "more"
+              },
+              {
+                "endTime": "55.400s",
+                "startTime": "55s",
+                "word": "troubling"
+              },
+              {
+                "endTime": "55.800s",
+                "startTime": "55.400s",
+                "word": "aspect"
+              },
+              {
+                "endTime": "55.900s",
+                "startTime": "55.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "56.100s",
+                "startTime": "55.900s",
+                "word": "all"
+              },
+              {
+                "endTime": "56.500s",
+                "startTime": "56.100s",
+                "word": "this"
+              },
+              {
+                "endTime": "57.400s",
+                "startTime": "57s",
+                "word": "according"
+              },
+              {
+                "endTime": "57.600s",
+                "startTime": "57.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "58.300s",
+                "startTime": "57.600s",
+                "word": "Independent"
+              },
+              {
+                "endTime": "59s",
+                "startTime": "58.300s",
+                "word": "nonpartisan"
+              },
+              {
+                "endTime": "59.900s",
+                "startTime": "59s",
+                "word": "scorekeepers"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "60.290s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9029959,
+            "transcript": " these cuts the president's people will take to Medicare won't prevent it from going bankrupt experts estimate that Medicare trust funds will be exhausted just 12 short years from now now there is good news and that is that there's a better approach last November I released a plan to save and strengthen Medicare without making any changes for those that are 55 years of age and older and then shortly after that my running mate Paul Ryan he worked in a bipartisan way",
+            "words": [
+              {
+                "endTime": "60.700s",
+                "startTime": "60.300s",
+                "word": "these"
+              },
+              {
+                "endTime": "61.100s",
+                "startTime": "60.700s",
+                "word": "cuts"
+              },
+              {
+                "endTime": "61.400s",
+                "startTime": "61.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "61.900s",
+                "startTime": "61.400s",
+                "word": "president's"
+              },
+              {
+                "endTime": "62.100s",
+                "startTime": "61.900s",
+                "word": "people"
+              },
+              {
+                "endTime": "62.300s",
+                "startTime": "62.100s",
+                "word": "will"
+              },
+              {
+                "endTime": "62.500s",
+                "startTime": "62.300s",
+                "word": "take"
+              },
+              {
+                "endTime": "62.600s",
+                "startTime": "62.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "63.300s",
+                "startTime": "62.600s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "63.900s",
+                "startTime": "63.300s",
+                "word": "won't"
+              },
+              {
+                "endTime": "64.300s",
+                "startTime": "63.900s",
+                "word": "prevent"
+              },
+              {
+                "endTime": "64.500s",
+                "startTime": "64.300s",
+                "word": "it"
+              },
+              {
+                "endTime": "64.600s",
+                "startTime": "64.500s",
+                "word": "from"
+              },
+              {
+                "endTime": "64.800s",
+                "startTime": "64.600s",
+                "word": "going"
+              },
+              {
+                "endTime": "65.100s",
+                "startTime": "64.800s",
+                "word": "bankrupt"
+              },
+              {
+                "endTime": "66.900s",
+                "startTime": "65.600s",
+                "word": "experts"
+              },
+              {
+                "endTime": "67.200s",
+                "startTime": "66.900s",
+                "word": "estimate"
+              },
+              {
+                "endTime": "67.500s",
+                "startTime": "67.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "68.100s",
+                "startTime": "67.500s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "68.500s",
+                "startTime": "68.100s",
+                "word": "trust"
+              },
+              {
+                "endTime": "68.800s",
+                "startTime": "68.500s",
+                "word": "funds"
+              },
+              {
+                "endTime": "69s",
+                "startTime": "68.800s",
+                "word": "will"
+              },
+              {
+                "endTime": "69s",
+                "startTime": "69s",
+                "word": "be"
+              },
+              {
+                "endTime": "69.600s",
+                "startTime": "69s",
+                "word": "exhausted"
+              },
+              {
+                "endTime": "69.900s",
+                "startTime": "69.600s",
+                "word": "just"
+              },
+              {
+                "endTime": "70.600s",
+                "startTime": "69.900s",
+                "word": "12"
+              },
+              {
+                "endTime": "71s",
+                "startTime": "70.600s",
+                "word": "short"
+              },
+              {
+                "endTime": "71.300s",
+                "startTime": "71s",
+                "word": "years"
+              },
+              {
+                "endTime": "71.500s",
+                "startTime": "71.300s",
+                "word": "from"
+              },
+              {
+                "endTime": "71.600s",
+                "startTime": "71.500s",
+                "word": "now"
+              },
+              {
+                "endTime": "72.800s",
+                "startTime": "71.900s",
+                "word": "now"
+              },
+              {
+                "endTime": "73s",
+                "startTime": "72.800s",
+                "word": "there"
+              },
+              {
+                "endTime": "73.100s",
+                "startTime": "73s",
+                "word": "is"
+              },
+              {
+                "endTime": "73.200s",
+                "startTime": "73.100s",
+                "word": "good"
+              },
+              {
+                "endTime": "73.400s",
+                "startTime": "73.200s",
+                "word": "news"
+              },
+              {
+                "endTime": "74.100s",
+                "startTime": "73.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "74.200s",
+                "startTime": "74.100s",
+                "word": "that"
+              },
+              {
+                "endTime": "74.400s",
+                "startTime": "74.200s",
+                "word": "is"
+              },
+              {
+                "endTime": "74.500s",
+                "startTime": "74.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "74.700s",
+                "startTime": "74.500s",
+                "word": "there's"
+              },
+              {
+                "endTime": "74.800s",
+                "startTime": "74.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "75s",
+                "startTime": "74.800s",
+                "word": "better"
+              },
+              {
+                "endTime": "75.100s",
+                "startTime": "75s",
+                "word": "approach"
+              },
+              {
+                "endTime": "76.500s",
+                "startTime": "75.100s",
+                "word": "last"
+              },
+              {
+                "endTime": "77s",
+                "startTime": "76.500s",
+                "word": "November"
+              },
+              {
+                "endTime": "77.200s",
+                "startTime": "77s",
+                "word": "I"
+              },
+              {
+                "endTime": "77.700s",
+                "startTime": "77.200s",
+                "word": "released"
+              },
+              {
+                "endTime": "77.800s",
+                "startTime": "77.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "77.900s",
+                "startTime": "77.800s",
+                "word": "plan"
+              },
+              {
+                "endTime": "78.200s",
+                "startTime": "77.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "78.600s",
+                "startTime": "78.200s",
+                "word": "save"
+              },
+              {
+                "endTime": "78.700s",
+                "startTime": "78.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "79.300s",
+                "startTime": "78.700s",
+                "word": "strengthen"
+              },
+              {
+                "endTime": "79.400s",
+                "startTime": "79.300s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "80.500s",
+                "startTime": "79.400s",
+                "word": "without"
+              },
+              {
+                "endTime": "81.100s",
+                "startTime": "80.500s",
+                "word": "making"
+              },
+              {
+                "endTime": "81.500s",
+                "startTime": "81.100s",
+                "word": "any"
+              },
+              {
+                "endTime": "81.600s",
+                "startTime": "81.500s",
+                "word": "changes"
+              },
+              {
+                "endTime": "82.200s",
+                "startTime": "81.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "82.400s",
+                "startTime": "82.200s",
+                "word": "those"
+              },
+              {
+                "endTime": "82.600s",
+                "startTime": "82.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "82.800s",
+                "startTime": "82.600s",
+                "word": "are"
+              },
+              {
+                "endTime": "83.400s",
+                "startTime": "82.800s",
+                "word": "55"
+              },
+              {
+                "endTime": "83.500s",
+                "startTime": "83.400s",
+                "word": "years"
+              },
+              {
+                "endTime": "83.700s",
+                "startTime": "83.500s",
+                "word": "of"
+              },
+              {
+                "endTime": "83.900s",
+                "startTime": "83.700s",
+                "word": "age"
+              },
+              {
+                "endTime": "84.300s",
+                "startTime": "83.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "84.400s",
+                "startTime": "84.300s",
+                "word": "older"
+              },
+              {
+                "endTime": "85.800s",
+                "startTime": "84.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "86s",
+                "startTime": "85.800s",
+                "word": "then"
+              },
+              {
+                "endTime": "86.200s",
+                "startTime": "86s",
+                "word": "shortly"
+              },
+              {
+                "endTime": "86.400s",
+                "startTime": "86.200s",
+                "word": "after"
+              },
+              {
+                "endTime": "86.600s",
+                "startTime": "86.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "87s",
+                "startTime": "86.600s",
+                "word": "my"
+              },
+              {
+                "endTime": "87.300s",
+                "startTime": "87s",
+                "word": "running"
+              },
+              {
+                "endTime": "87.500s",
+                "startTime": "87.300s",
+                "word": "mate"
+              },
+              {
+                "endTime": "87.700s",
+                "startTime": "87.500s",
+                "word": "Paul"
+              },
+              {
+                "endTime": "87.900s",
+                "startTime": "87.700s",
+                "word": "Ryan"
+              },
+              {
+                "endTime": "88.800s",
+                "startTime": "87.900s",
+                "word": "he"
+              },
+              {
+                "endTime": "89.100s",
+                "startTime": "88.800s",
+                "word": "worked"
+              },
+              {
+                "endTime": "89.200s",
+                "startTime": "89.100s",
+                "word": "in"
+              },
+              {
+                "endTime": "89.200s",
+                "startTime": "89.200s",
+                "word": "a"
+              },
+              {
+                "endTime": "89.900s",
+                "startTime": "89.200s",
+                "word": "bipartisan"
+              },
+              {
+                "endTime": "90.100s",
+                "startTime": "89.900s",
+                "word": "way"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "90.300s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8989266,
+            "transcript": " to advance a nearly identical series of reforms in Congress now that he and I have teamed up we're going to ensure that seniors are protected from President Obama's Reckless actions we're going to take our Solutions all the way to the White House we're going to start by repealing Obamacare that law is threatening seniors and it's a maze of new federal mandates and taxes and penalties that's hampering job creation once the partisan roadblock is removed we can work with leaders from both parties to advance real",
+            "words": [
+              {
+                "endTime": "90.500s",
+                "startTime": "90.200s",
+                "word": "to"
+              },
+              {
+                "endTime": "90.700s",
+                "startTime": "90.500s",
+                "word": "advance"
+              },
+              {
+                "endTime": "90.900s",
+                "startTime": "90.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "91.200s",
+                "startTime": "90.900s",
+                "word": "nearly"
+              },
+              {
+                "endTime": "91.500s",
+                "startTime": "91.200s",
+                "word": "identical"
+              },
+              {
+                "endTime": "92.200s",
+                "startTime": "91.500s",
+                "word": "series"
+              },
+              {
+                "endTime": "92.300s",
+                "startTime": "92.200s",
+                "word": "of"
+              },
+              {
+                "endTime": "92.500s",
+                "startTime": "92.300s",
+                "word": "reforms"
+              },
+              {
+                "endTime": "92.900s",
+                "startTime": "92.500s",
+                "word": "in"
+              },
+              {
+                "endTime": "93.500s",
+                "startTime": "92.900s",
+                "word": "Congress"
+              },
+              {
+                "endTime": "94.400s",
+                "startTime": "93.500s",
+                "word": "now"
+              },
+              {
+                "endTime": "94.600s",
+                "startTime": "94.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "94.700s",
+                "startTime": "94.600s",
+                "word": "he"
+              },
+              {
+                "endTime": "94.800s",
+                "startTime": "94.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "94.900s",
+                "startTime": "94.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "95s",
+                "startTime": "94.900s",
+                "word": "have"
+              },
+              {
+                "endTime": "95.400s",
+                "startTime": "95s",
+                "word": "teamed"
+              },
+              {
+                "endTime": "95.400s",
+                "startTime": "95.400s",
+                "word": "up"
+              },
+              {
+                "endTime": "96.200s",
+                "startTime": "95.400s",
+                "word": "we're"
+              },
+              {
+                "endTime": "96.300s",
+                "startTime": "96.200s",
+                "word": "going"
+              },
+              {
+                "endTime": "96.400s",
+                "startTime": "96.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "96.600s",
+                "startTime": "96.400s",
+                "word": "ensure"
+              },
+              {
+                "endTime": "96.900s",
+                "startTime": "96.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "97.300s",
+                "startTime": "96.900s",
+                "word": "seniors"
+              },
+              {
+                "endTime": "97.700s",
+                "startTime": "97.300s",
+                "word": "are"
+              },
+              {
+                "endTime": "98.500s",
+                "startTime": "97.700s",
+                "word": "protected"
+              },
+              {
+                "endTime": "98.600s",
+                "startTime": "98.500s",
+                "word": "from"
+              },
+              {
+                "endTime": "99.200s",
+                "startTime": "98.600s",
+                "word": "President"
+              },
+              {
+                "endTime": "99.600s",
+                "startTime": "99.200s",
+                "word": "Obama's"
+              },
+              {
+                "endTime": "100.200s",
+                "startTime": "99.600s",
+                "word": "Reckless"
+              },
+              {
+                "endTime": "100.700s",
+                "startTime": "100.200s",
+                "word": "actions"
+              },
+              {
+                "endTime": "101.300s",
+                "startTime": "100.700s",
+                "word": "we're"
+              },
+              {
+                "endTime": "101.400s",
+                "startTime": "101.300s",
+                "word": "going"
+              },
+              {
+                "endTime": "101.500s",
+                "startTime": "101.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "101.700s",
+                "startTime": "101.500s",
+                "word": "take"
+              },
+              {
+                "endTime": "101.900s",
+                "startTime": "101.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "102.500s",
+                "startTime": "101.900s",
+                "word": "Solutions"
+              },
+              {
+                "endTime": "102.600s",
+                "startTime": "102.500s",
+                "word": "all"
+              },
+              {
+                "endTime": "102.800s",
+                "startTime": "102.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "102.900s",
+                "startTime": "102.800s",
+                "word": "way"
+              },
+              {
+                "endTime": "102.900s",
+                "startTime": "102.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "103s",
+                "startTime": "102.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "103.200s",
+                "startTime": "103s",
+                "word": "White"
+              },
+              {
+                "endTime": "103.500s",
+                "startTime": "103.200s",
+                "word": "House"
+              },
+              {
+                "endTime": "104.400s",
+                "startTime": "103.700s",
+                "word": "we're"
+              },
+              {
+                "endTime": "104.600s",
+                "startTime": "104.400s",
+                "word": "going"
+              },
+              {
+                "endTime": "104.600s",
+                "startTime": "104.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "104.900s",
+                "startTime": "104.600s",
+                "word": "start"
+              },
+              {
+                "endTime": "105s",
+                "startTime": "104.900s",
+                "word": "by"
+              },
+              {
+                "endTime": "105.500s",
+                "startTime": "105s",
+                "word": "repealing"
+              },
+              {
+                "endTime": "106.300s",
+                "startTime": "105.500s",
+                "word": "Obamacare"
+              },
+              {
+                "endTime": "107.200s",
+                "startTime": "106.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "107.500s",
+                "startTime": "107.200s",
+                "word": "law"
+              },
+              {
+                "endTime": "107.700s",
+                "startTime": "107.500s",
+                "word": "is"
+              },
+              {
+                "endTime": "108.100s",
+                "startTime": "107.700s",
+                "word": "threatening"
+              },
+              {
+                "endTime": "108.700s",
+                "startTime": "108.100s",
+                "word": "seniors"
+              },
+              {
+                "endTime": "109.300s",
+                "startTime": "108.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "109.400s",
+                "startTime": "109.300s",
+                "word": "it's"
+              },
+              {
+                "endTime": "109.500s",
+                "startTime": "109.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "109.900s",
+                "startTime": "109.500s",
+                "word": "maze"
+              },
+              {
+                "endTime": "110s",
+                "startTime": "109.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "110.200s",
+                "startTime": "110s",
+                "word": "new"
+              },
+              {
+                "endTime": "110.400s",
+                "startTime": "110.200s",
+                "word": "federal"
+              },
+              {
+                "endTime": "111.200s",
+                "startTime": "110.400s",
+                "word": "mandates"
+              },
+              {
+                "endTime": "111.300s",
+                "startTime": "111.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "111.800s",
+                "startTime": "111.300s",
+                "word": "taxes"
+              },
+              {
+                "endTime": "111.800s",
+                "startTime": "111.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "112s",
+                "startTime": "111.800s",
+                "word": "penalties"
+              },
+              {
+                "endTime": "113s",
+                "startTime": "112.500s",
+                "word": "that's"
+              },
+              {
+                "endTime": "113.300s",
+                "startTime": "113s",
+                "word": "hampering"
+              },
+              {
+                "endTime": "113.600s",
+                "startTime": "113.300s",
+                "word": "job"
+              },
+              {
+                "endTime": "114.200s",
+                "startTime": "113.600s",
+                "word": "creation"
+              },
+              {
+                "endTime": "115.400s",
+                "startTime": "114.300s",
+                "word": "once"
+              },
+              {
+                "endTime": "115.500s",
+                "startTime": "115.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "116s",
+                "startTime": "115.500s",
+                "word": "partisan"
+              },
+              {
+                "endTime": "116.500s",
+                "startTime": "116s",
+                "word": "roadblock"
+              },
+              {
+                "endTime": "116.600s",
+                "startTime": "116.500s",
+                "word": "is"
+              },
+              {
+                "endTime": "117.100s",
+                "startTime": "116.600s",
+                "word": "removed"
+              },
+              {
+                "endTime": "117.600s",
+                "startTime": "117.100s",
+                "word": "we"
+              },
+              {
+                "endTime": "117.600s",
+                "startTime": "117.600s",
+                "word": "can"
+              },
+              {
+                "endTime": "118s",
+                "startTime": "117.600s",
+                "word": "work"
+              },
+              {
+                "endTime": "118.100s",
+                "startTime": "118s",
+                "word": "with"
+              },
+              {
+                "endTime": "118.400s",
+                "startTime": "118.100s",
+                "word": "leaders"
+              },
+              {
+                "endTime": "118.500s",
+                "startTime": "118.400s",
+                "word": "from"
+              },
+              {
+                "endTime": "118.800s",
+                "startTime": "118.500s",
+                "word": "both"
+              },
+              {
+                "endTime": "119s",
+                "startTime": "118.800s",
+                "word": "parties"
+              },
+              {
+                "endTime": "119.500s",
+                "startTime": "119s",
+                "word": "to"
+              },
+              {
+                "endTime": "119.900s",
+                "startTime": "119.500s",
+                "word": "advance"
+              },
+              {
+                "endTime": "120.200s",
+                "startTime": "119.900s",
+                "word": "real"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8938767,
+            "transcript": " to advance a nearly identical series of reforms in Congress now that he and I have teamed up we're going to ensure that seniors are protected from President Obama's Reckless actions we're going to take our Solutions all the way to the White House we're going to start by repealing Obamacare that law is threatening seniors and it's a maze of new federal mandates and taxes and penalties that's hampering job creation once the partisan roadblock is removed we can work with leaders from both parties to Advanced real"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "120.270s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.82474685,
+            "transcript": " solutions to save Medicare the romney-ryan plan will make no changes to Medicare for those that are retired or near retirement and if we act soon we can reorient our policies without without asking seniors to reorganize their lives for younger Americans we're going to strengthen Medicare for them by providing future retirees with federal financial support and letting them choose from a list of medicare-approved coverage plans include including a traditional Medicare option",
+            "words": [
+              {
+                "endTime": "120.900s",
+                "startTime": "120.300s",
+                "word": "solutions"
+              },
+              {
+                "endTime": "121s",
+                "startTime": "120.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "121.400s",
+                "startTime": "121s",
+                "word": "save"
+              },
+              {
+                "endTime": "122.100s",
+                "startTime": "121.400s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "122.900s",
+                "startTime": "122.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "123.600s",
+                "startTime": "122.900s",
+                "word": "romney-ryan"
+              },
+              {
+                "endTime": "124.100s",
+                "startTime": "123.600s",
+                "word": "plan"
+              },
+              {
+                "endTime": "124.600s",
+                "startTime": "124.400s",
+                "word": "will"
+              },
+              {
+                "endTime": "124.800s",
+                "startTime": "124.600s",
+                "word": "make"
+              },
+              {
+                "endTime": "125.100s",
+                "startTime": "124.800s",
+                "word": "no"
+              },
+              {
+                "endTime": "125.600s",
+                "startTime": "125.100s",
+                "word": "changes"
+              },
+              {
+                "endTime": "125.700s",
+                "startTime": "125.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "126.300s",
+                "startTime": "125.700s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "126.400s",
+                "startTime": "126.300s",
+                "word": "for"
+              },
+              {
+                "endTime": "126.800s",
+                "startTime": "126.400s",
+                "word": "those"
+              },
+              {
+                "endTime": "126.900s",
+                "startTime": "126.800s",
+                "word": "that"
+              },
+              {
+                "endTime": "127s",
+                "startTime": "126.900s",
+                "word": "are"
+              },
+              {
+                "endTime": "127.800s",
+                "startTime": "127s",
+                "word": "retired"
+              },
+              {
+                "endTime": "128.100s",
+                "startTime": "127.900s",
+                "word": "or"
+              },
+              {
+                "endTime": "128.300s",
+                "startTime": "128.100s",
+                "word": "near"
+              },
+              {
+                "endTime": "129.500s",
+                "startTime": "128.300s",
+                "word": "retirement"
+              },
+              {
+                "endTime": "129.700s",
+                "startTime": "129.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "129.800s",
+                "startTime": "129.700s",
+                "word": "if"
+              },
+              {
+                "endTime": "129.900s",
+                "startTime": "129.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "130.200s",
+                "startTime": "129.900s",
+                "word": "act"
+              },
+              {
+                "endTime": "130.900s",
+                "startTime": "130.200s",
+                "word": "soon"
+              },
+              {
+                "endTime": "131.100s",
+                "startTime": "131s",
+                "word": "we"
+              },
+              {
+                "endTime": "131.300s",
+                "startTime": "131.100s",
+                "word": "can"
+              },
+              {
+                "endTime": "131.800s",
+                "startTime": "131.300s",
+                "word": "reorient"
+              },
+              {
+                "endTime": "131.900s",
+                "startTime": "131.800s",
+                "word": "our"
+              },
+              {
+                "endTime": "132.500s",
+                "startTime": "131.900s",
+                "word": "policies"
+              },
+              {
+                "endTime": "132.800s",
+                "startTime": "132.500s",
+                "word": "without"
+              },
+              {
+                "endTime": "133.200s",
+                "startTime": "132.800s",
+                "word": "without"
+              },
+              {
+                "endTime": "133.500s",
+                "startTime": "133.200s",
+                "word": "asking"
+              },
+              {
+                "endTime": "134s",
+                "startTime": "133.500s",
+                "word": "seniors"
+              },
+              {
+                "endTime": "134.100s",
+                "startTime": "134s",
+                "word": "to"
+              },
+              {
+                "endTime": "134.600s",
+                "startTime": "134.100s",
+                "word": "reorganize"
+              },
+              {
+                "endTime": "134.800s",
+                "startTime": "134.600s",
+                "word": "their"
+              },
+              {
+                "endTime": "135.300s",
+                "startTime": "134.800s",
+                "word": "lives"
+              },
+              {
+                "endTime": "136.500s",
+                "startTime": "136.300s",
+                "word": "for"
+              },
+              {
+                "endTime": "136.800s",
+                "startTime": "136.500s",
+                "word": "younger"
+              },
+              {
+                "endTime": "137.500s",
+                "startTime": "136.800s",
+                "word": "Americans"
+              },
+              {
+                "endTime": "137.800s",
+                "startTime": "137.700s",
+                "word": "we're"
+              },
+              {
+                "endTime": "137.900s",
+                "startTime": "137.800s",
+                "word": "going"
+              },
+              {
+                "endTime": "138s",
+                "startTime": "137.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "138.400s",
+                "startTime": "138s",
+                "word": "strengthen"
+              },
+              {
+                "endTime": "139s",
+                "startTime": "138.400s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "139.100s",
+                "startTime": "139s",
+                "word": "for"
+              },
+              {
+                "endTime": "139.400s",
+                "startTime": "139.100s",
+                "word": "them"
+              },
+              {
+                "endTime": "139.600s",
+                "startTime": "139.400s",
+                "word": "by"
+              },
+              {
+                "endTime": "140.100s",
+                "startTime": "139.600s",
+                "word": "providing"
+              },
+              {
+                "endTime": "140.500s",
+                "startTime": "140.100s",
+                "word": "future"
+              },
+              {
+                "endTime": "141.500s",
+                "startTime": "140.500s",
+                "word": "retirees"
+              },
+              {
+                "endTime": "142s",
+                "startTime": "141.800s",
+                "word": "with"
+              },
+              {
+                "endTime": "142.400s",
+                "startTime": "142s",
+                "word": "federal"
+              },
+              {
+                "endTime": "142.900s",
+                "startTime": "142.400s",
+                "word": "financial"
+              },
+              {
+                "endTime": "143.800s",
+                "startTime": "142.900s",
+                "word": "support"
+              },
+              {
+                "endTime": "144s",
+                "startTime": "143.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "144.200s",
+                "startTime": "144s",
+                "word": "letting"
+              },
+              {
+                "endTime": "144.400s",
+                "startTime": "144.200s",
+                "word": "them"
+              },
+              {
+                "endTime": "144.900s",
+                "startTime": "144.400s",
+                "word": "choose"
+              },
+              {
+                "endTime": "145s",
+                "startTime": "144.900s",
+                "word": "from"
+              },
+              {
+                "endTime": "145.100s",
+                "startTime": "145s",
+                "word": "a"
+              },
+              {
+                "endTime": "145.400s",
+                "startTime": "145.100s",
+                "word": "list"
+              },
+              {
+                "endTime": "145.500s",
+                "startTime": "145.400s",
+                "word": "of"
+              },
+              {
+                "endTime": "146.700s",
+                "startTime": "145.500s",
+                "word": "medicare-approved"
+              },
+              {
+                "endTime": "147s",
+                "startTime": "146.700s",
+                "word": "coverage"
+              },
+              {
+                "endTime": "147.600s",
+                "startTime": "147s",
+                "word": "plans"
+              },
+              {
+                "endTime": "148.300s",
+                "startTime": "147.900s",
+                "word": "include"
+              },
+              {
+                "endTime": "148.700s",
+                "startTime": "148.300s",
+                "word": "including"
+              },
+              {
+                "endTime": "148.700s",
+                "startTime": "148.700s",
+                "word": "a"
+              },
+              {
+                "endTime": "149.200s",
+                "startTime": "148.700s",
+                "word": "traditional"
+              },
+              {
+                "endTime": "149.600s",
+                "startTime": "149.200s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "150.100s",
+                "startTime": "149.600s",
+                "word": "option"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "150.280s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.82168126,
+            "transcript": " the amount of financial support that a person would get would be adjusted based on their income more help would go to the poor or the sick and less help would go to those that are financially better off you will be based on how much the plants cost so the seniors always have access to affordable quality coverage and no senior could ever be denied coverage for any reason the romney-ryan plan preserves and protects Medicare and it guarantees the future that",
+            "words": [
+              {
+                "endTime": "151.500s",
+                "startTime": "151.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "151.800s",
+                "startTime": "151.500s",
+                "word": "amount"
+              },
+              {
+                "endTime": "151.900s",
+                "startTime": "151.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "152.300s",
+                "startTime": "151.900s",
+                "word": "financial"
+              },
+              {
+                "endTime": "153.100s",
+                "startTime": "152.300s",
+                "word": "support"
+              },
+              {
+                "endTime": "153.300s",
+                "startTime": "153.100s",
+                "word": "that"
+              },
+              {
+                "endTime": "153.300s",
+                "startTime": "153.300s",
+                "word": "a"
+              },
+              {
+                "endTime": "153.700s",
+                "startTime": "153.300s",
+                "word": "person"
+              },
+              {
+                "endTime": "153.900s",
+                "startTime": "153.700s",
+                "word": "would"
+              },
+              {
+                "endTime": "154.600s",
+                "startTime": "153.900s",
+                "word": "get"
+              },
+              {
+                "endTime": "154.800s",
+                "startTime": "154.600s",
+                "word": "would"
+              },
+              {
+                "endTime": "155s",
+                "startTime": "154.800s",
+                "word": "be"
+              },
+              {
+                "endTime": "156.100s",
+                "startTime": "155s",
+                "word": "adjusted"
+              },
+              {
+                "endTime": "156.500s",
+                "startTime": "156.100s",
+                "word": "based"
+              },
+              {
+                "endTime": "156.600s",
+                "startTime": "156.500s",
+                "word": "on"
+              },
+              {
+                "endTime": "157.100s",
+                "startTime": "156.600s",
+                "word": "their"
+              },
+              {
+                "endTime": "158.300s",
+                "startTime": "157.200s",
+                "word": "income"
+              },
+              {
+                "endTime": "158.600s",
+                "startTime": "158.300s",
+                "word": "more"
+              },
+              {
+                "endTime": "158.800s",
+                "startTime": "158.600s",
+                "word": "help"
+              },
+              {
+                "endTime": "159s",
+                "startTime": "158.800s",
+                "word": "would"
+              },
+              {
+                "endTime": "159.200s",
+                "startTime": "159s",
+                "word": "go"
+              },
+              {
+                "endTime": "159.300s",
+                "startTime": "159.200s",
+                "word": "to"
+              },
+              {
+                "endTime": "159.600s",
+                "startTime": "159.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "160.100s",
+                "startTime": "159.800s",
+                "word": "poor"
+              },
+              {
+                "endTime": "160.300s",
+                "startTime": "160.100s",
+                "word": "or"
+              },
+              {
+                "endTime": "160.400s",
+                "startTime": "160.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "161.200s",
+                "startTime": "160.400s",
+                "word": "sick"
+              },
+              {
+                "endTime": "161.400s",
+                "startTime": "161.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "161.600s",
+                "startTime": "161.400s",
+                "word": "less"
+              },
+              {
+                "endTime": "161.800s",
+                "startTime": "161.600s",
+                "word": "help"
+              },
+              {
+                "endTime": "161.900s",
+                "startTime": "161.800s",
+                "word": "would"
+              },
+              {
+                "endTime": "162.100s",
+                "startTime": "161.900s",
+                "word": "go"
+              },
+              {
+                "endTime": "162.200s",
+                "startTime": "162.100s",
+                "word": "to"
+              },
+              {
+                "endTime": "162.400s",
+                "startTime": "162.200s",
+                "word": "those"
+              },
+              {
+                "endTime": "162.600s",
+                "startTime": "162.400s",
+                "word": "that"
+              },
+              {
+                "endTime": "162.800s",
+                "startTime": "162.600s",
+                "word": "are"
+              },
+              {
+                "endTime": "163.200s",
+                "startTime": "162.800s",
+                "word": "financially"
+              },
+              {
+                "endTime": "163.500s",
+                "startTime": "163.200s",
+                "word": "better"
+              },
+              {
+                "endTime": "164.400s",
+                "startTime": "163.500s",
+                "word": "off"
+              },
+              {
+                "endTime": "164.500s",
+                "startTime": "164.400s",
+                "word": "you"
+              },
+              {
+                "endTime": "164.600s",
+                "startTime": "164.500s",
+                "word": "will"
+              },
+              {
+                "endTime": "164.800s",
+                "startTime": "164.600s",
+                "word": "be"
+              },
+              {
+                "endTime": "165.100s",
+                "startTime": "164.800s",
+                "word": "based"
+              },
+              {
+                "endTime": "165.300s",
+                "startTime": "165.100s",
+                "word": "on"
+              },
+              {
+                "endTime": "165.500s",
+                "startTime": "165.300s",
+                "word": "how"
+              },
+              {
+                "endTime": "165.700s",
+                "startTime": "165.500s",
+                "word": "much"
+              },
+              {
+                "endTime": "165.900s",
+                "startTime": "165.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "166.200s",
+                "startTime": "165.900s",
+                "word": "plants"
+              },
+              {
+                "endTime": "166.700s",
+                "startTime": "166.200s",
+                "word": "cost"
+              },
+              {
+                "endTime": "166.900s",
+                "startTime": "166.700s",
+                "word": "so"
+              },
+              {
+                "endTime": "167s",
+                "startTime": "166.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "167.800s",
+                "startTime": "167s",
+                "word": "seniors"
+              },
+              {
+                "endTime": "168.300s",
+                "startTime": "167.900s",
+                "word": "always"
+              },
+              {
+                "endTime": "168.400s",
+                "startTime": "168.300s",
+                "word": "have"
+              },
+              {
+                "endTime": "168.800s",
+                "startTime": "168.400s",
+                "word": "access"
+              },
+              {
+                "endTime": "169s",
+                "startTime": "168.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "169.700s",
+                "startTime": "169s",
+                "word": "affordable"
+              },
+              {
+                "endTime": "170.400s",
+                "startTime": "169.900s",
+                "word": "quality"
+              },
+              {
+                "endTime": "171.400s",
+                "startTime": "170.400s",
+                "word": "coverage"
+              },
+              {
+                "endTime": "171.600s",
+                "startTime": "171.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "171.700s",
+                "startTime": "171.600s",
+                "word": "no"
+              },
+              {
+                "endTime": "172.100s",
+                "startTime": "171.700s",
+                "word": "senior"
+              },
+              {
+                "endTime": "172.300s",
+                "startTime": "172.100s",
+                "word": "could"
+              },
+              {
+                "endTime": "172.500s",
+                "startTime": "172.300s",
+                "word": "ever"
+              },
+              {
+                "endTime": "172.600s",
+                "startTime": "172.500s",
+                "word": "be"
+              },
+              {
+                "endTime": "173.100s",
+                "startTime": "172.600s",
+                "word": "denied"
+              },
+              {
+                "endTime": "173.400s",
+                "startTime": "173.100s",
+                "word": "coverage"
+              },
+              {
+                "endTime": "173.600s",
+                "startTime": "173.400s",
+                "word": "for"
+              },
+              {
+                "endTime": "173.800s",
+                "startTime": "173.600s",
+                "word": "any"
+              },
+              {
+                "endTime": "174.400s",
+                "startTime": "173.800s",
+                "word": "reason"
+              },
+              {
+                "endTime": "175.300s",
+                "startTime": "175.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "176.100s",
+                "startTime": "175.300s",
+                "word": "romney-ryan"
+              },
+              {
+                "endTime": "176.600s",
+                "startTime": "176.100s",
+                "word": "plan"
+              },
+              {
+                "endTime": "177.200s",
+                "startTime": "176.600s",
+                "word": "preserves"
+              },
+              {
+                "endTime": "177.400s",
+                "startTime": "177.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "177.800s",
+                "startTime": "177.400s",
+                "word": "protects"
+              },
+              {
+                "endTime": "178.500s",
+                "startTime": "177.800s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "179.100s",
+                "startTime": "178.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "179.200s",
+                "startTime": "179.100s",
+                "word": "it"
+              },
+              {
+                "endTime": "179.800s",
+                "startTime": "179.200s",
+                "word": "guarantees"
+              },
+              {
+                "endTime": "179.900s",
+                "startTime": "179.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "180.300s",
+                "startTime": "179.900s",
+                "word": "future"
+              },
+              {
+                "endTime": "180.400s",
+                "startTime": "180.300s",
+                "word": "that"
+              }
+            ]
+          },
+          {
+            "confidence": 0.844642,
+            "transcript": " the amount of financial support that a person would get would be adjusted based on their income more help would go to the poor or the sick and less help would go to those that are financially better off it would be based on how much the plants cost so the seniors always have access to affordable quality coverage and no senior could ever be denied coverage for any reason the romney-ryan plan preserves and protects Medicare and it guarantees the future that"
+          },
+          {
+            "confidence": 0.8411123,
+            "transcript": " the amount of financial support that a person would get would be adjusted based on their income more help would go to the poor or the sick and less help would go to those that are financially better off it will be based on how much the plants cost so the seniors always have access to affordable quality coverage and no senior could ever be denied coverage for any reason the romney-ryan plan preserves and protects Medicare and it guarantees the future that"
+          },
+          {
+            "confidence": 0.83745384,
+            "transcript": " the amount of financial support that a person would get would be adjusted based on their income more help would go to the poor or the sick and less help would go to those that are financially better off we will be based on how much the plants cost so the seniors always have access to affordable quality coverage and no senior could ever be denied coverage for any reason the romney-ryan plan preserves and protects Medicare and it guarantees the future that"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "180.570s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89986545,
+            "transcript": " G by forcing insurance companies to compete for business choice and competition will drive costs down and make quality better resulting in more affordable better care for our seniors we've got to say this critical program you paid into it and you've earned it I think it's outrageous that the president took seven hundred and sixteen billion dollars out of the Medicare trust fund to pay for ObamaCare no President should put in",
+            "words": [
+              {
+                "endTime": "180.900s",
+                "startTime": "180.600s",
+                "word": "G"
+              },
+              {
+                "endTime": "181s",
+                "startTime": "180.900s",
+                "word": "by"
+              },
+              {
+                "endTime": "181.500s",
+                "startTime": "181s",
+                "word": "forcing"
+              },
+              {
+                "endTime": "182s",
+                "startTime": "181.500s",
+                "word": "insurance"
+              },
+              {
+                "endTime": "182.400s",
+                "startTime": "182s",
+                "word": "companies"
+              },
+              {
+                "endTime": "182.500s",
+                "startTime": "182.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "182.900s",
+                "startTime": "182.500s",
+                "word": "compete"
+              },
+              {
+                "endTime": "183.100s",
+                "startTime": "182.900s",
+                "word": "for"
+              },
+              {
+                "endTime": "183.600s",
+                "startTime": "183.100s",
+                "word": "business"
+              },
+              {
+                "endTime": "185s",
+                "startTime": "184.500s",
+                "word": "choice"
+              },
+              {
+                "endTime": "185.200s",
+                "startTime": "185s",
+                "word": "and"
+              },
+              {
+                "endTime": "185.400s",
+                "startTime": "185.200s",
+                "word": "competition"
+              },
+              {
+                "endTime": "186.100s",
+                "startTime": "185.400s",
+                "word": "will"
+              },
+              {
+                "endTime": "186.500s",
+                "startTime": "186.100s",
+                "word": "drive"
+              },
+              {
+                "endTime": "187s",
+                "startTime": "186.500s",
+                "word": "costs"
+              },
+              {
+                "endTime": "187s",
+                "startTime": "187s",
+                "word": "down"
+              },
+              {
+                "endTime": "187.600s",
+                "startTime": "187s",
+                "word": "and"
+              },
+              {
+                "endTime": "187.900s",
+                "startTime": "187.600s",
+                "word": "make"
+              },
+              {
+                "endTime": "188.500s",
+                "startTime": "187.900s",
+                "word": "quality"
+              },
+              {
+                "endTime": "188.700s",
+                "startTime": "188.500s",
+                "word": "better"
+              },
+              {
+                "endTime": "190.100s",
+                "startTime": "188.700s",
+                "word": "resulting"
+              },
+              {
+                "endTime": "190.300s",
+                "startTime": "190.100s",
+                "word": "in"
+              },
+              {
+                "endTime": "190.400s",
+                "startTime": "190.300s",
+                "word": "more"
+              },
+              {
+                "endTime": "191s",
+                "startTime": "190.400s",
+                "word": "affordable"
+              },
+              {
+                "endTime": "191.800s",
+                "startTime": "191s",
+                "word": "better"
+              },
+              {
+                "endTime": "192.100s",
+                "startTime": "191.800s",
+                "word": "care"
+              },
+              {
+                "endTime": "192.200s",
+                "startTime": "192.100s",
+                "word": "for"
+              },
+              {
+                "endTime": "192.400s",
+                "startTime": "192.200s",
+                "word": "our"
+              },
+              {
+                "endTime": "192.600s",
+                "startTime": "192.400s",
+                "word": "seniors"
+              },
+              {
+                "endTime": "194.100s",
+                "startTime": "193.100s",
+                "word": "we've"
+              },
+              {
+                "endTime": "194.400s",
+                "startTime": "194.100s",
+                "word": "got"
+              },
+              {
+                "endTime": "194.500s",
+                "startTime": "194.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "194.800s",
+                "startTime": "194.500s",
+                "word": "say"
+              },
+              {
+                "endTime": "195s",
+                "startTime": "194.800s",
+                "word": "this"
+              },
+              {
+                "endTime": "195.500s",
+                "startTime": "195s",
+                "word": "critical"
+              },
+              {
+                "endTime": "195.900s",
+                "startTime": "195.500s",
+                "word": "program"
+              },
+              {
+                "endTime": "196.800s",
+                "startTime": "195.900s",
+                "word": "you"
+              },
+              {
+                "endTime": "197.100s",
+                "startTime": "196.800s",
+                "word": "paid"
+              },
+              {
+                "endTime": "197.300s",
+                "startTime": "197.100s",
+                "word": "into"
+              },
+              {
+                "endTime": "197.500s",
+                "startTime": "197.300s",
+                "word": "it"
+              },
+              {
+                "endTime": "198.200s",
+                "startTime": "197.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "198.400s",
+                "startTime": "198.200s",
+                "word": "you've"
+              },
+              {
+                "endTime": "198.500s",
+                "startTime": "198.400s",
+                "word": "earned"
+              },
+              {
+                "endTime": "198.800s",
+                "startTime": "198.500s",
+                "word": "it"
+              },
+              {
+                "endTime": "199.600s",
+                "startTime": "199s",
+                "word": "I"
+              },
+              {
+                "endTime": "199.900s",
+                "startTime": "199.600s",
+                "word": "think"
+              },
+              {
+                "endTime": "200s",
+                "startTime": "199.900s",
+                "word": "it's"
+              },
+              {
+                "endTime": "200.300s",
+                "startTime": "200s",
+                "word": "outrageous"
+              },
+              {
+                "endTime": "200.800s",
+                "startTime": "200.300s",
+                "word": "that"
+              },
+              {
+                "endTime": "201s",
+                "startTime": "200.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "201.600s",
+                "startTime": "201s",
+                "word": "president"
+              },
+              {
+                "endTime": "201.900s",
+                "startTime": "201.600s",
+                "word": "took"
+              },
+              {
+                "endTime": "202.500s",
+                "startTime": "201.900s",
+                "word": "seven"
+              },
+              {
+                "endTime": "202.800s",
+                "startTime": "202.500s",
+                "word": "hundred"
+              },
+              {
+                "endTime": "202.900s",
+                "startTime": "202.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "203.100s",
+                "startTime": "202.900s",
+                "word": "sixteen"
+              },
+              {
+                "endTime": "203.900s",
+                "startTime": "203.100s",
+                "word": "billion"
+              },
+              {
+                "endTime": "204.100s",
+                "startTime": "203.900s",
+                "word": "dollars"
+              },
+              {
+                "endTime": "204.600s",
+                "startTime": "204.100s",
+                "word": "out"
+              },
+              {
+                "endTime": "204.700s",
+                "startTime": "204.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "204.800s",
+                "startTime": "204.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "205.300s",
+                "startTime": "204.800s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "205.500s",
+                "startTime": "205.300s",
+                "word": "trust"
+              },
+              {
+                "endTime": "206.100s",
+                "startTime": "205.500s",
+                "word": "fund"
+              },
+              {
+                "endTime": "206.700s",
+                "startTime": "206.100s",
+                "word": "to"
+              },
+              {
+                "endTime": "206.900s",
+                "startTime": "206.700s",
+                "word": "pay"
+              },
+              {
+                "endTime": "207s",
+                "startTime": "206.900s",
+                "word": "for"
+              },
+              {
+                "endTime": "207.300s",
+                "startTime": "207s",
+                "word": "ObamaCare"
+              },
+              {
+                "endTime": "208.800s",
+                "startTime": "208s",
+                "word": "no"
+              },
+              {
+                "endTime": "209.500s",
+                "startTime": "208.800s",
+                "word": "President"
+              },
+              {
+                "endTime": "209.900s",
+                "startTime": "209.500s",
+                "word": "should"
+              },
+              {
+                "endTime": "210.300s",
+                "startTime": "209.900s",
+                "word": "put"
+              },
+              {
+                "endTime": "210.400s",
+                "startTime": "210.300s",
+                "word": "in"
+              }
+            ]
+          },
+          {
+            "confidence": 0.87417257,
+            "transcript": " ground by forcing insurance companies to compete for business choice and competition will drive costs down and make quality better resulting in more affordable better care for our seniors we've got to save this critical program you paid into it and you've earned it I think it's outrageous that the president took seven hundred and sixteen billion dollars out of the Medicare trust fund to pay for ObamaCare no President should put in"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "210.540s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86489135,
+            "transcript": " Jeopardy your benefits and no Board of bureaucrats should ever be empowered to make decisions that could deny you the kind of care that you deserve this November I hope your reject President Obama's cuts to Medicare and I hope you'll choose Paul Ryan and me to protect health and retirement security to promote prosperity and restore our economic growth thanks so much for listening",
+            "words": [
+              {
+                "endTime": "210.900s",
+                "startTime": "210.500s",
+                "word": "Jeopardy"
+              },
+              {
+                "endTime": "211.100s",
+                "startTime": "210.900s",
+                "word": "your"
+              },
+              {
+                "endTime": "211.800s",
+                "startTime": "211.100s",
+                "word": "benefits"
+              },
+              {
+                "endTime": "212.200s",
+                "startTime": "212s",
+                "word": "and"
+              },
+              {
+                "endTime": "212.400s",
+                "startTime": "212.200s",
+                "word": "no"
+              },
+              {
+                "endTime": "212.700s",
+                "startTime": "212.400s",
+                "word": "Board"
+              },
+              {
+                "endTime": "212.700s",
+                "startTime": "212.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "213.600s",
+                "startTime": "212.700s",
+                "word": "bureaucrats"
+              },
+              {
+                "endTime": "214.100s",
+                "startTime": "213.800s",
+                "word": "should"
+              },
+              {
+                "endTime": "214.300s",
+                "startTime": "214.100s",
+                "word": "ever"
+              },
+              {
+                "endTime": "214.500s",
+                "startTime": "214.300s",
+                "word": "be"
+              },
+              {
+                "endTime": "215s",
+                "startTime": "214.500s",
+                "word": "empowered"
+              },
+              {
+                "endTime": "215.100s",
+                "startTime": "215s",
+                "word": "to"
+              },
+              {
+                "endTime": "215.300s",
+                "startTime": "215.100s",
+                "word": "make"
+              },
+              {
+                "endTime": "215.900s",
+                "startTime": "215.300s",
+                "word": "decisions"
+              },
+              {
+                "endTime": "216s",
+                "startTime": "215.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "216.200s",
+                "startTime": "216s",
+                "word": "could"
+              },
+              {
+                "endTime": "216.500s",
+                "startTime": "216.200s",
+                "word": "deny"
+              },
+              {
+                "endTime": "216.900s",
+                "startTime": "216.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "217.200s",
+                "startTime": "217.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "217.600s",
+                "startTime": "217.200s",
+                "word": "kind"
+              },
+              {
+                "endTime": "217.700s",
+                "startTime": "217.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "218s",
+                "startTime": "217.700s",
+                "word": "care"
+              },
+              {
+                "endTime": "218.200s",
+                "startTime": "218s",
+                "word": "that"
+              },
+              {
+                "endTime": "218.300s",
+                "startTime": "218.200s",
+                "word": "you"
+              },
+              {
+                "endTime": "219.400s",
+                "startTime": "218.300s",
+                "word": "deserve"
+              },
+              {
+                "endTime": "219.800s",
+                "startTime": "219.600s",
+                "word": "this"
+              },
+              {
+                "endTime": "220.500s",
+                "startTime": "219.800s",
+                "word": "November"
+              },
+              {
+                "endTime": "220.900s",
+                "startTime": "220.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "221.200s",
+                "startTime": "220.900s",
+                "word": "hope"
+              },
+              {
+                "endTime": "221.300s",
+                "startTime": "221.200s",
+                "word": "your"
+              },
+              {
+                "endTime": "221.700s",
+                "startTime": "221.300s",
+                "word": "reject"
+              },
+              {
+                "endTime": "222s",
+                "startTime": "221.700s",
+                "word": "President"
+              },
+              {
+                "endTime": "222.500s",
+                "startTime": "222s",
+                "word": "Obama's"
+              },
+              {
+                "endTime": "222.700s",
+                "startTime": "222.500s",
+                "word": "cuts"
+              },
+              {
+                "endTime": "222.900s",
+                "startTime": "222.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "223.600s",
+                "startTime": "222.900s",
+                "word": "Medicare"
+              },
+              {
+                "endTime": "224.200s",
+                "startTime": "224.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "224.300s",
+                "startTime": "224.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "224.500s",
+                "startTime": "224.300s",
+                "word": "hope"
+              },
+              {
+                "endTime": "224.700s",
+                "startTime": "224.500s",
+                "word": "you'll"
+              },
+              {
+                "endTime": "225s",
+                "startTime": "224.700s",
+                "word": "choose"
+              },
+              {
+                "endTime": "225.300s",
+                "startTime": "225s",
+                "word": "Paul"
+              },
+              {
+                "endTime": "225.600s",
+                "startTime": "225.300s",
+                "word": "Ryan"
+              },
+              {
+                "endTime": "225.700s",
+                "startTime": "225.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "225.800s",
+                "startTime": "225.700s",
+                "word": "me"
+              },
+              {
+                "endTime": "225.900s",
+                "startTime": "225.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "226.300s",
+                "startTime": "225.900s",
+                "word": "protect"
+              },
+              {
+                "endTime": "226.500s",
+                "startTime": "226.300s",
+                "word": "health"
+              },
+              {
+                "endTime": "226.900s",
+                "startTime": "226.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "227s",
+                "startTime": "226.900s",
+                "word": "retirement"
+              },
+              {
+                "endTime": "227.500s",
+                "startTime": "227s",
+                "word": "security"
+              },
+              {
+                "endTime": "228.800s",
+                "startTime": "228s",
+                "word": "to"
+              },
+              {
+                "endTime": "229s",
+                "startTime": "228.800s",
+                "word": "promote"
+              },
+              {
+                "endTime": "229.500s",
+                "startTime": "229s",
+                "word": "prosperity"
+              },
+              {
+                "endTime": "230.400s",
+                "startTime": "229.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "230.900s",
+                "startTime": "230.400s",
+                "word": "restore"
+              },
+              {
+                "endTime": "231s",
+                "startTime": "230.900s",
+                "word": "our"
+              },
+              {
+                "endTime": "231.100s",
+                "startTime": "231s",
+                "word": "economic"
+              },
+              {
+                "endTime": "231.600s",
+                "startTime": "231.100s",
+                "word": "growth"
+              },
+              {
+                "endTime": "232.800s",
+                "startTime": "232s",
+                "word": "thanks"
+              },
+              {
+                "endTime": "232.900s",
+                "startTime": "232.800s",
+                "word": "so"
+              },
+              {
+                "endTime": "232.900s",
+                "startTime": "232.900s",
+                "word": "much"
+              },
+              {
+                "endTime": "233.100s",
+                "startTime": "232.900s",
+                "word": "for"
+              },
+              {
+                "endTime": "233.300s",
+                "startTime": "233.100s",
+                "word": "listening"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7619973,
+            "transcript": " Jeopardy or benefits and no Board of bureaucrats should ever be empowered to make decisions that could deny you the kind of care that you deserve this November I hope your reject President Obama's cuts to Medicare and I hope you'll choose Paul Ryan and me to protect health and retirement security to promote prosperity and restore our economic growth thanks so much for listening"
+          },
+          {
+            "confidence": 0.8449679,
+            "transcript": " Jeopardy your benefits and no Board of bureaucrats should ever be empowered to make decisions that could deny you the kind of care that you deserve this November I hope you reject President Obama's cuts to Medicare and I hope you'll choose Paul Ryan and me to protect health and retirement security to promote prosperity and restore our economic growth thanks so much for listening"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "233.950s"
+      }
+    ],
+    "totalBilledTime": "240s"
+  }
+}

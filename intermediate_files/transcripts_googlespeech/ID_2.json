@@ -1,0 +1,3572 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2021-12-11T21:32:39.946837Z",
+    "progressPercent": 100,
+    "startTime": "2021-12-11T21:31:52.521477Z",
+    "uri": "gs://trimmedspeeches/ID_2_cut.wav"
+  },
+  "name": "7111000340967775945",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.702127,
+            "transcript": "thank you hi guys thank you",
+            "words": [
+              {
+                "endTime": "2.300s",
+                "startTime": "0s",
+                "word": "thank"
+              },
+              {
+                "endTime": "2.300s",
+                "startTime": "2.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "3.100s",
+                "startTime": "2.300s",
+                "word": "hi"
+              },
+              {
+                "endTime": "3.600s",
+                "startTime": "3.100s",
+                "word": "guys"
+              },
+              {
+                "endTime": "5s",
+                "startTime": "3.700s",
+                "word": "thank"
+              },
+              {
+                "endTime": "5.200s",
+                "startTime": "5s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "10.430s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7235554,
+            "transcript": " thank you thank you my friends thank you so very much",
+            "words": [
+              {
+                "endTime": "12.500s",
+                "startTime": "11.900s",
+                "word": "thank"
+              },
+              {
+                "endTime": "12.700s",
+                "startTime": "12.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "15.800s",
+                "startTime": "12.700s",
+                "word": "thank"
+              },
+              {
+                "endTime": "15.900s",
+                "startTime": "15.800s",
+                "word": "you"
+              },
+              {
+                "endTime": "16.100s",
+                "startTime": "15.900s",
+                "word": "my"
+              },
+              {
+                "endTime": "16.700s",
+                "startTime": "16.100s",
+                "word": "friends"
+              },
+              {
+                "endTime": "17s",
+                "startTime": "16.700s",
+                "word": "thank"
+              },
+              {
+                "endTime": "17s",
+                "startTime": "17s",
+                "word": "you"
+              },
+              {
+                "endTime": "17.200s",
+                "startTime": "17s",
+                "word": "so"
+              },
+              {
+                "endTime": "17.500s",
+                "startTime": "17.200s",
+                "word": "very"
+              },
+              {
+                "endTime": "17.600s",
+                "startTime": "17.500s",
+                "word": "much"
+              }
+            ]
+          },
+          {
+            "confidence": 0.64902174,
+            "transcript": " thank you thank you my friend thank you so very much"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "18.680s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8104656,
+            "transcript": " thank you",
+            "words": [
+              {
+                "endTime": "19.700s",
+                "startTime": "19.100s",
+                "word": "thank"
+              },
+              {
+                "endTime": "19.900s",
+                "startTime": "19.700s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "21.030s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7087655,
+            "transcript": " thank you",
+            "words": [
+              {
+                "endTime": "27.600s",
+                "startTime": "24s",
+                "word": "thank"
+              },
+              {
+                "endTime": "27.700s",
+                "startTime": "27.600s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "28.780s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7114177,
+            "transcript": " thank you",
+            "words": [
+              {
+                "endTime": "31.400s",
+                "startTime": "30.700s",
+                "word": "thank"
+              },
+              {
+                "endTime": "31.700s",
+                "startTime": "31.400s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "32.550s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128382,
+            "transcript": " I have just called President Obama to congratulate him on his victory his supporters and his campaign also deserve congratulations I wish all of them will but particularly the president the first lady and their daughters this is a time of great challenges for America and I pray that the president will be successful in guiding our nation",
+            "words": [
+              {
+                "endTime": "34.200s",
+                "startTime": "34s",
+                "word": "I"
+              },
+              {
+                "endTime": "34.400s",
+                "startTime": "34.200s",
+                "word": "have"
+              },
+              {
+                "endTime": "34.700s",
+                "startTime": "34.400s",
+                "word": "just"
+              },
+              {
+                "endTime": "35.200s",
+                "startTime": "34.700s",
+                "word": "called"
+              },
+              {
+                "endTime": "35.500s",
+                "startTime": "35.200s",
+                "word": "President"
+              },
+              {
+                "endTime": "36s",
+                "startTime": "35.500s",
+                "word": "Obama"
+              },
+              {
+                "endTime": "36.200s",
+                "startTime": "36s",
+                "word": "to"
+              },
+              {
+                "endTime": "37s",
+                "startTime": "36.200s",
+                "word": "congratulate"
+              },
+              {
+                "endTime": "37.300s",
+                "startTime": "37s",
+                "word": "him"
+              },
+              {
+                "endTime": "37.400s",
+                "startTime": "37.300s",
+                "word": "on"
+              },
+              {
+                "endTime": "37.600s",
+                "startTime": "37.400s",
+                "word": "his"
+              },
+              {
+                "endTime": "38.300s",
+                "startTime": "37.600s",
+                "word": "victory"
+              },
+              {
+                "endTime": "39s",
+                "startTime": "38.800s",
+                "word": "his"
+              },
+              {
+                "endTime": "39.800s",
+                "startTime": "39s",
+                "word": "supporters"
+              },
+              {
+                "endTime": "39.900s",
+                "startTime": "39.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "40s",
+                "startTime": "39.900s",
+                "word": "his"
+              },
+              {
+                "endTime": "41s",
+                "startTime": "40s",
+                "word": "campaign"
+              },
+              {
+                "endTime": "41.600s",
+                "startTime": "41.300s",
+                "word": "also"
+              },
+              {
+                "endTime": "42s",
+                "startTime": "41.600s",
+                "word": "deserve"
+              },
+              {
+                "endTime": "43.100s",
+                "startTime": "42s",
+                "word": "congratulations"
+              },
+              {
+                "endTime": "43.800s",
+                "startTime": "43.600s",
+                "word": "I"
+              },
+              {
+                "endTime": "44.100s",
+                "startTime": "43.800s",
+                "word": "wish"
+              },
+              {
+                "endTime": "44.300s",
+                "startTime": "44.100s",
+                "word": "all"
+              },
+              {
+                "endTime": "44.400s",
+                "startTime": "44.300s",
+                "word": "of"
+              },
+              {
+                "endTime": "44.600s",
+                "startTime": "44.400s",
+                "word": "them"
+              },
+              {
+                "endTime": "45.100s",
+                "startTime": "44.600s",
+                "word": "will"
+              },
+              {
+                "endTime": "45.600s",
+                "startTime": "45.500s",
+                "word": "but"
+              },
+              {
+                "endTime": "46.300s",
+                "startTime": "45.600s",
+                "word": "particularly"
+              },
+              {
+                "endTime": "46.400s",
+                "startTime": "46.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "47.100s",
+                "startTime": "46.400s",
+                "word": "president"
+              },
+              {
+                "endTime": "47.200s",
+                "startTime": "47.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "47.500s",
+                "startTime": "47.200s",
+                "word": "first"
+              },
+              {
+                "endTime": "47.900s",
+                "startTime": "47.500s",
+                "word": "lady"
+              },
+              {
+                "endTime": "48.400s",
+                "startTime": "48.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "48.600s",
+                "startTime": "48.400s",
+                "word": "their"
+              },
+              {
+                "endTime": "49.200s",
+                "startTime": "48.600s",
+                "word": "daughters"
+              },
+              {
+                "endTime": "50.100s",
+                "startTime": "49.900s",
+                "word": "this"
+              },
+              {
+                "endTime": "50.300s",
+                "startTime": "50.100s",
+                "word": "is"
+              },
+              {
+                "endTime": "50.300s",
+                "startTime": "50.300s",
+                "word": "a"
+              },
+              {
+                "endTime": "50.600s",
+                "startTime": "50.300s",
+                "word": "time"
+              },
+              {
+                "endTime": "50.700s",
+                "startTime": "50.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "51s",
+                "startTime": "50.700s",
+                "word": "great"
+              },
+              {
+                "endTime": "51.600s",
+                "startTime": "51s",
+                "word": "challenges"
+              },
+              {
+                "endTime": "51.700s",
+                "startTime": "51.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "52.400s",
+                "startTime": "51.700s",
+                "word": "America"
+              },
+              {
+                "endTime": "53s",
+                "startTime": "52.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "53.200s",
+                "startTime": "53s",
+                "word": "I"
+              },
+              {
+                "endTime": "53.600s",
+                "startTime": "53.200s",
+                "word": "pray"
+              },
+              {
+                "endTime": "53.800s",
+                "startTime": "53.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "53.900s",
+                "startTime": "53.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "54.400s",
+                "startTime": "53.900s",
+                "word": "president"
+              },
+              {
+                "endTime": "54.500s",
+                "startTime": "54.400s",
+                "word": "will"
+              },
+              {
+                "endTime": "54.600s",
+                "startTime": "54.500s",
+                "word": "be"
+              },
+              {
+                "endTime": "55.500s",
+                "startTime": "54.600s",
+                "word": "successful"
+              },
+              {
+                "endTime": "55.900s",
+                "startTime": "55.800s",
+                "word": "in"
+              },
+              {
+                "endTime": "56.400s",
+                "startTime": "55.900s",
+                "word": "guiding"
+              },
+              {
+                "endTime": "56.600s",
+                "startTime": "56.400s",
+                "word": "our"
+              },
+              {
+                "endTime": "57.200s",
+                "startTime": "56.600s",
+                "word": "nation"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "62.750s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8805042,
+            "transcript": " I want to thank Paul Ryan for all that he has done for our campaign",
+            "words": [
+              {
+                "endTime": "63.900s",
+                "startTime": "63.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "64.100s",
+                "startTime": "63.900s",
+                "word": "want"
+              },
+              {
+                "endTime": "64.100s",
+                "startTime": "64.100s",
+                "word": "to"
+              },
+              {
+                "endTime": "64.500s",
+                "startTime": "64.100s",
+                "word": "thank"
+              },
+              {
+                "endTime": "64.800s",
+                "startTime": "64.500s",
+                "word": "Paul"
+              },
+              {
+                "endTime": "65.300s",
+                "startTime": "64.800s",
+                "word": "Ryan"
+              },
+              {
+                "endTime": "65.500s",
+                "startTime": "65.300s",
+                "word": "for"
+              },
+              {
+                "endTime": "65.700s",
+                "startTime": "65.500s",
+                "word": "all"
+              },
+              {
+                "endTime": "65.800s",
+                "startTime": "65.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "65.900s",
+                "startTime": "65.800s",
+                "word": "he"
+              },
+              {
+                "endTime": "66s",
+                "startTime": "65.900s",
+                "word": "has"
+              },
+              {
+                "endTime": "66.100s",
+                "startTime": "66s",
+                "word": "done"
+              },
+              {
+                "endTime": "66.400s",
+                "startTime": "66.100s",
+                "word": "for"
+              },
+              {
+                "endTime": "66.600s",
+                "startTime": "66.400s",
+                "word": "our"
+              },
+              {
+                "endTime": "67.200s",
+                "startTime": "66.600s",
+                "word": "campaign"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "69.850s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85407645,
+            "transcript": " and for our country besides my wife Ann Paul is the best choice I've ever made",
+            "words": [
+              {
+                "endTime": "73.400s",
+                "startTime": "73s",
+                "word": "and"
+              },
+              {
+                "endTime": "73.500s",
+                "startTime": "73.400s",
+                "word": "for"
+              },
+              {
+                "endTime": "73.700s",
+                "startTime": "73.500s",
+                "word": "our"
+              },
+              {
+                "endTime": "74.300s",
+                "startTime": "73.700s",
+                "word": "country"
+              },
+              {
+                "endTime": "76.200s",
+                "startTime": "75.400s",
+                "word": "besides"
+              },
+              {
+                "endTime": "77.100s",
+                "startTime": "76.800s",
+                "word": "my"
+              },
+              {
+                "endTime": "77.400s",
+                "startTime": "77.100s",
+                "word": "wife"
+              },
+              {
+                "endTime": "78s",
+                "startTime": "77.400s",
+                "word": "Ann"
+              },
+              {
+                "endTime": "78.600s",
+                "startTime": "78s",
+                "word": "Paul"
+              },
+              {
+                "endTime": "78.800s",
+                "startTime": "78.600s",
+                "word": "is"
+              },
+              {
+                "endTime": "78.900s",
+                "startTime": "78.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "78.900s",
+                "startTime": "78.900s",
+                "word": "best"
+              },
+              {
+                "endTime": "79.300s",
+                "startTime": "78.900s",
+                "word": "choice"
+              },
+              {
+                "endTime": "79.700s",
+                "startTime": "79.300s",
+                "word": "I've"
+              },
+              {
+                "endTime": "79.800s",
+                "startTime": "79.700s",
+                "word": "ever"
+              },
+              {
+                "endTime": "80s",
+                "startTime": "79.800s",
+                "word": "made"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "81.780s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9128385,
+            "transcript": " and I trust that his intellect and his hard work and his commitment to principle will continue to contribute to the good of our nation",
+            "words": [
+              {
+                "endTime": "85.100s",
+                "startTime": "84.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "85.100s",
+                "startTime": "85.100s",
+                "word": "I"
+              },
+              {
+                "endTime": "85.600s",
+                "startTime": "85.100s",
+                "word": "trust"
+              },
+              {
+                "endTime": "85.700s",
+                "startTime": "85.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "85.900s",
+                "startTime": "85.700s",
+                "word": "his"
+              },
+              {
+                "endTime": "86.600s",
+                "startTime": "85.900s",
+                "word": "intellect"
+              },
+              {
+                "endTime": "86.800s",
+                "startTime": "86.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "87s",
+                "startTime": "86.800s",
+                "word": "his"
+              },
+              {
+                "endTime": "87.400s",
+                "startTime": "87s",
+                "word": "hard"
+              },
+              {
+                "endTime": "87.700s",
+                "startTime": "87.400s",
+                "word": "work"
+              },
+              {
+                "endTime": "87.900s",
+                "startTime": "87.700s",
+                "word": "and"
+              },
+              {
+                "endTime": "88.100s",
+                "startTime": "87.900s",
+                "word": "his"
+              },
+              {
+                "endTime": "88.600s",
+                "startTime": "88.100s",
+                "word": "commitment"
+              },
+              {
+                "endTime": "88.600s",
+                "startTime": "88.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "89.300s",
+                "startTime": "88.600s",
+                "word": "principle"
+              },
+              {
+                "endTime": "89.900s",
+                "startTime": "89.700s",
+                "word": "will"
+              },
+              {
+                "endTime": "90.400s",
+                "startTime": "89.900s",
+                "word": "continue"
+              },
+              {
+                "endTime": "90.500s",
+                "startTime": "90.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "91.300s",
+                "startTime": "90.500s",
+                "word": "contribute"
+              },
+              {
+                "endTime": "91.600s",
+                "startTime": "91.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "91.800s",
+                "startTime": "91.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "91.900s",
+                "startTime": "91.800s",
+                "word": "good"
+              },
+              {
+                "endTime": "92s",
+                "startTime": "91.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "92.100s",
+                "startTime": "92s",
+                "word": "our"
+              },
+              {
+                "endTime": "92.600s",
+                "startTime": "92.100s",
+                "word": "nation"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "93.070s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.77214295,
+            "transcript": " I also want to thank and the love of my life",
+            "words": [
+              {
+                "endTime": "95.100s",
+                "startTime": "95s",
+                "word": "I"
+              },
+              {
+                "endTime": "95.400s",
+                "startTime": "95.100s",
+                "word": "also"
+              },
+              {
+                "endTime": "95.500s",
+                "startTime": "95.400s",
+                "word": "want"
+              },
+              {
+                "endTime": "95.600s",
+                "startTime": "95.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "96s",
+                "startTime": "95.600s",
+                "word": "thank"
+              },
+              {
+                "endTime": "96.300s",
+                "startTime": "96s",
+                "word": "and"
+              },
+              {
+                "endTime": "96.300s",
+                "startTime": "96.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "96.500s",
+                "startTime": "96.300s",
+                "word": "love"
+              },
+              {
+                "endTime": "96.600s",
+                "startTime": "96.500s",
+                "word": "of"
+              },
+              {
+                "endTime": "96.800s",
+                "startTime": "96.600s",
+                "word": "my"
+              },
+              {
+                "endTime": "97.300s",
+                "startTime": "96.800s",
+                "word": "life"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7418419,
+            "transcript": " I also want to thank an the love of my life"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "97.880s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8944527,
+            "transcript": " she would have been a wonderful first lady she's awesome",
+            "words": [
+              {
+                "endTime": "105.500s",
+                "startTime": "105.200s",
+                "word": "she"
+              },
+              {
+                "endTime": "105.600s",
+                "startTime": "105.500s",
+                "word": "would"
+              },
+              {
+                "endTime": "105.800s",
+                "startTime": "105.600s",
+                "word": "have"
+              },
+              {
+                "endTime": "105.900s",
+                "startTime": "105.800s",
+                "word": "been"
+              },
+              {
+                "endTime": "106s",
+                "startTime": "105.900s",
+                "word": "a"
+              },
+              {
+                "endTime": "106.500s",
+                "startTime": "106s",
+                "word": "wonderful"
+              },
+              {
+                "endTime": "106.700s",
+                "startTime": "106.500s",
+                "word": "first"
+              },
+              {
+                "endTime": "107.200s",
+                "startTime": "106.700s",
+                "word": "lady"
+              },
+              {
+                "endTime": "108.400s",
+                "startTime": "108s",
+                "word": "she's"
+              },
+              {
+                "endTime": "108.700s",
+                "startTime": "108.400s",
+                "word": "awesome"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "110.200s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85011476,
+            "transcript": " she has been that and more to me and to our family and to the many people that she has touched with her campaign compassion and her care I think my son's for their tireless work and behalf of the campaign and thank their wives and children for taking up the slack as their husbands and dads has spent so many weeks away from home I want to thank Matt roads and the dedicated campaign team he led",
+            "words": [
+              {
+                "endTime": "111.500s",
+                "startTime": "111.200s",
+                "word": "she"
+              },
+              {
+                "endTime": "111.700s",
+                "startTime": "111.500s",
+                "word": "has"
+              },
+              {
+                "endTime": "111.900s",
+                "startTime": "111.700s",
+                "word": "been"
+              },
+              {
+                "endTime": "112.300s",
+                "startTime": "111.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "112.500s",
+                "startTime": "112.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "112.800s",
+                "startTime": "112.500s",
+                "word": "more"
+              },
+              {
+                "endTime": "113s",
+                "startTime": "112.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "113.300s",
+                "startTime": "113s",
+                "word": "me"
+              },
+              {
+                "endTime": "113.500s",
+                "startTime": "113.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "113.600s",
+                "startTime": "113.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "113.800s",
+                "startTime": "113.600s",
+                "word": "our"
+              },
+              {
+                "endTime": "114.500s",
+                "startTime": "113.800s",
+                "word": "family"
+              },
+              {
+                "endTime": "115s",
+                "startTime": "114.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "115.100s",
+                "startTime": "115s",
+                "word": "to"
+              },
+              {
+                "endTime": "115.100s",
+                "startTime": "115.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "115.400s",
+                "startTime": "115.100s",
+                "word": "many"
+              },
+              {
+                "endTime": "115.700s",
+                "startTime": "115.400s",
+                "word": "people"
+              },
+              {
+                "endTime": "115.900s",
+                "startTime": "115.700s",
+                "word": "that"
+              },
+              {
+                "endTime": "116.100s",
+                "startTime": "115.900s",
+                "word": "she"
+              },
+              {
+                "endTime": "116.300s",
+                "startTime": "116.100s",
+                "word": "has"
+              },
+              {
+                "endTime": "116.600s",
+                "startTime": "116.300s",
+                "word": "touched"
+              },
+              {
+                "endTime": "116.800s",
+                "startTime": "116.600s",
+                "word": "with"
+              },
+              {
+                "endTime": "116.900s",
+                "startTime": "116.800s",
+                "word": "her"
+              },
+              {
+                "endTime": "117.400s",
+                "startTime": "116.900s",
+                "word": "campaign"
+              },
+              {
+                "endTime": "118.300s",
+                "startTime": "117.500s",
+                "word": "compassion"
+              },
+              {
+                "endTime": "118.800s",
+                "startTime": "118.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "118.900s",
+                "startTime": "118.800s",
+                "word": "her"
+              },
+              {
+                "endTime": "119.400s",
+                "startTime": "118.900s",
+                "word": "care"
+              },
+              {
+                "endTime": "120.300s",
+                "startTime": "120.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "120.500s",
+                "startTime": "120.300s",
+                "word": "think"
+              },
+              {
+                "endTime": "120.700s",
+                "startTime": "120.500s",
+                "word": "my"
+              },
+              {
+                "endTime": "121.200s",
+                "startTime": "120.700s",
+                "word": "son's"
+              },
+              {
+                "endTime": "121.300s",
+                "startTime": "121.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "121.400s",
+                "startTime": "121.300s",
+                "word": "their"
+              },
+              {
+                "endTime": "121.900s",
+                "startTime": "121.400s",
+                "word": "tireless"
+              },
+              {
+                "endTime": "122.100s",
+                "startTime": "121.900s",
+                "word": "work"
+              },
+              {
+                "endTime": "122.200s",
+                "startTime": "122.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "122.600s",
+                "startTime": "122.200s",
+                "word": "behalf"
+              },
+              {
+                "endTime": "122.700s",
+                "startTime": "122.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "122.800s",
+                "startTime": "122.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "123.400s",
+                "startTime": "122.800s",
+                "word": "campaign"
+              },
+              {
+                "endTime": "123.700s",
+                "startTime": "123.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "124s",
+                "startTime": "123.700s",
+                "word": "thank"
+              },
+              {
+                "endTime": "124.200s",
+                "startTime": "124s",
+                "word": "their"
+              },
+              {
+                "endTime": "124.600s",
+                "startTime": "124.200s",
+                "word": "wives"
+              },
+              {
+                "endTime": "124.800s",
+                "startTime": "124.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "125.300s",
+                "startTime": "124.800s",
+                "word": "children"
+              },
+              {
+                "endTime": "125.800s",
+                "startTime": "125.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "126.100s",
+                "startTime": "125.800s",
+                "word": "taking"
+              },
+              {
+                "endTime": "126.300s",
+                "startTime": "126.100s",
+                "word": "up"
+              },
+              {
+                "endTime": "126.400s",
+                "startTime": "126.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "126.900s",
+                "startTime": "126.400s",
+                "word": "slack"
+              },
+              {
+                "endTime": "127s",
+                "startTime": "126.900s",
+                "word": "as"
+              },
+              {
+                "endTime": "127.200s",
+                "startTime": "127s",
+                "word": "their"
+              },
+              {
+                "endTime": "127.600s",
+                "startTime": "127.200s",
+                "word": "husbands"
+              },
+              {
+                "endTime": "127.700s",
+                "startTime": "127.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "128.200s",
+                "startTime": "127.700s",
+                "word": "dads"
+              },
+              {
+                "endTime": "128.800s",
+                "startTime": "128.500s",
+                "word": "has"
+              },
+              {
+                "endTime": "129.100s",
+                "startTime": "128.800s",
+                "word": "spent"
+              },
+              {
+                "endTime": "129.200s",
+                "startTime": "129.100s",
+                "word": "so"
+              },
+              {
+                "endTime": "129.500s",
+                "startTime": "129.200s",
+                "word": "many"
+              },
+              {
+                "endTime": "129.700s",
+                "startTime": "129.500s",
+                "word": "weeks"
+              },
+              {
+                "endTime": "130s",
+                "startTime": "129.700s",
+                "word": "away"
+              },
+              {
+                "endTime": "130.100s",
+                "startTime": "130s",
+                "word": "from"
+              },
+              {
+                "endTime": "130.600s",
+                "startTime": "130.100s",
+                "word": "home"
+              },
+              {
+                "endTime": "137.300s",
+                "startTime": "137.200s",
+                "word": "I"
+              },
+              {
+                "endTime": "137.500s",
+                "startTime": "137.300s",
+                "word": "want"
+              },
+              {
+                "endTime": "137.500s",
+                "startTime": "137.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "137.800s",
+                "startTime": "137.500s",
+                "word": "thank"
+              },
+              {
+                "endTime": "138.100s",
+                "startTime": "137.800s",
+                "word": "Matt"
+              },
+              {
+                "endTime": "138.600s",
+                "startTime": "138.100s",
+                "word": "roads"
+              },
+              {
+                "endTime": "138.700s",
+                "startTime": "138.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "138.800s",
+                "startTime": "138.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "139.300s",
+                "startTime": "138.800s",
+                "word": "dedicated"
+              },
+              {
+                "endTime": "139.900s",
+                "startTime": "139.300s",
+                "word": "campaign"
+              },
+              {
+                "endTime": "140.100s",
+                "startTime": "139.900s",
+                "word": "team"
+              },
+              {
+                "endTime": "140.300s",
+                "startTime": "140.100s",
+                "word": "he"
+              },
+              {
+                "endTime": "140.800s",
+                "startTime": "140.300s",
+                "word": "led"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8381595,
+            "transcript": " she has been that and more to me and to our family and to the many people that she has touched with her campaign compassion and her care I think my son's for their tireless work and behalf of the campaign and thank their wives and children for taking up the slack as their husbands and Dad's has spent so many weeks away from home I want to thank Matt roads and the dedicated campaign team he led"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "141.020s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8901114,
+            "transcript": " they have made an extraordinary effort not just for me not just for me but also for the country that we love and the you here tonight and in the team across the country the volunteers the fundraisers the donors the surrogates I don't believe that there's ever been an effort in our party that can compare with what you have done over these past years thank you so very",
+            "words": [
+              {
+                "endTime": "146.500s",
+                "startTime": "146.200s",
+                "word": "they"
+              },
+              {
+                "endTime": "146.800s",
+                "startTime": "146.500s",
+                "word": "have"
+              },
+              {
+                "endTime": "147.600s",
+                "startTime": "147.300s",
+                "word": "made"
+              },
+              {
+                "endTime": "147.800s",
+                "startTime": "147.600s",
+                "word": "an"
+              },
+              {
+                "endTime": "148.700s",
+                "startTime": "147.800s",
+                "word": "extraordinary"
+              },
+              {
+                "endTime": "149.200s",
+                "startTime": "148.700s",
+                "word": "effort"
+              },
+              {
+                "endTime": "149.700s",
+                "startTime": "149.500s",
+                "word": "not"
+              },
+              {
+                "endTime": "149.900s",
+                "startTime": "149.700s",
+                "word": "just"
+              },
+              {
+                "endTime": "150.100s",
+                "startTime": "149.900s",
+                "word": "for"
+              },
+              {
+                "endTime": "150.500s",
+                "startTime": "150.100s",
+                "word": "me"
+              },
+              {
+                "endTime": "151.500s",
+                "startTime": "151.300s",
+                "word": "not"
+              },
+              {
+                "endTime": "151.700s",
+                "startTime": "151.500s",
+                "word": "just"
+              },
+              {
+                "endTime": "151.900s",
+                "startTime": "151.700s",
+                "word": "for"
+              },
+              {
+                "endTime": "152.400s",
+                "startTime": "151.900s",
+                "word": "me"
+              },
+              {
+                "endTime": "152.800s",
+                "startTime": "152.600s",
+                "word": "but"
+              },
+              {
+                "endTime": "153s",
+                "startTime": "152.800s",
+                "word": "also"
+              },
+              {
+                "endTime": "153.200s",
+                "startTime": "153s",
+                "word": "for"
+              },
+              {
+                "endTime": "153.300s",
+                "startTime": "153.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "153.600s",
+                "startTime": "153.300s",
+                "word": "country"
+              },
+              {
+                "endTime": "153.800s",
+                "startTime": "153.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "153.800s",
+                "startTime": "153.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "154.400s",
+                "startTime": "153.800s",
+                "word": "love"
+              },
+              {
+                "endTime": "155.200s",
+                "startTime": "155s",
+                "word": "and"
+              },
+              {
+                "endTime": "155.300s",
+                "startTime": "155.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "155.500s",
+                "startTime": "155.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "155.700s",
+                "startTime": "155.500s",
+                "word": "here"
+              },
+              {
+                "endTime": "156.500s",
+                "startTime": "155.700s",
+                "word": "tonight"
+              },
+              {
+                "endTime": "157.100s",
+                "startTime": "156.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "157.200s",
+                "startTime": "157.100s",
+                "word": "in"
+              },
+              {
+                "endTime": "157.400s",
+                "startTime": "157.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "158s",
+                "startTime": "157.400s",
+                "word": "team"
+              },
+              {
+                "endTime": "158.700s",
+                "startTime": "158.300s",
+                "word": "across"
+              },
+              {
+                "endTime": "158.900s",
+                "startTime": "158.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "159.300s",
+                "startTime": "158.900s",
+                "word": "country"
+              },
+              {
+                "endTime": "159.500s",
+                "startTime": "159.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "160.400s",
+                "startTime": "159.500s",
+                "word": "volunteers"
+              },
+              {
+                "endTime": "160.500s",
+                "startTime": "160.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "161.400s",
+                "startTime": "160.500s",
+                "word": "fundraisers"
+              },
+              {
+                "endTime": "161.500s",
+                "startTime": "161.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "162s",
+                "startTime": "161.500s",
+                "word": "donors"
+              },
+              {
+                "endTime": "162.100s",
+                "startTime": "162s",
+                "word": "the"
+              },
+              {
+                "endTime": "162.800s",
+                "startTime": "162.100s",
+                "word": "surrogates"
+              },
+              {
+                "endTime": "163.500s",
+                "startTime": "163.400s",
+                "word": "I"
+              },
+              {
+                "endTime": "163.800s",
+                "startTime": "163.500s",
+                "word": "don't"
+              },
+              {
+                "endTime": "164.100s",
+                "startTime": "163.800s",
+                "word": "believe"
+              },
+              {
+                "endTime": "164.300s",
+                "startTime": "164.100s",
+                "word": "that"
+              },
+              {
+                "endTime": "164.600s",
+                "startTime": "164.300s",
+                "word": "there's"
+              },
+              {
+                "endTime": "164.800s",
+                "startTime": "164.600s",
+                "word": "ever"
+              },
+              {
+                "endTime": "165.100s",
+                "startTime": "164.800s",
+                "word": "been"
+              },
+              {
+                "endTime": "165.200s",
+                "startTime": "165.100s",
+                "word": "an"
+              },
+              {
+                "endTime": "165.600s",
+                "startTime": "165.200s",
+                "word": "effort"
+              },
+              {
+                "endTime": "165.700s",
+                "startTime": "165.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "165.800s",
+                "startTime": "165.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "166.200s",
+                "startTime": "165.800s",
+                "word": "party"
+              },
+              {
+                "endTime": "166.300s",
+                "startTime": "166.200s",
+                "word": "that"
+              },
+              {
+                "endTime": "166.400s",
+                "startTime": "166.300s",
+                "word": "can"
+              },
+              {
+                "endTime": "167s",
+                "startTime": "166.400s",
+                "word": "compare"
+              },
+              {
+                "endTime": "167.500s",
+                "startTime": "167.300s",
+                "word": "with"
+              },
+              {
+                "endTime": "167.700s",
+                "startTime": "167.500s",
+                "word": "what"
+              },
+              {
+                "endTime": "167.800s",
+                "startTime": "167.700s",
+                "word": "you"
+              },
+              {
+                "endTime": "168s",
+                "startTime": "167.800s",
+                "word": "have"
+              },
+              {
+                "endTime": "168.400s",
+                "startTime": "168s",
+                "word": "done"
+              },
+              {
+                "endTime": "168.700s",
+                "startTime": "168.400s",
+                "word": "over"
+              },
+              {
+                "endTime": "168.900s",
+                "startTime": "168.700s",
+                "word": "these"
+              },
+              {
+                "endTime": "169.200s",
+                "startTime": "168.900s",
+                "word": "past"
+              },
+              {
+                "endTime": "169.700s",
+                "startTime": "169.200s",
+                "word": "years"
+              },
+              {
+                "endTime": "170.500s",
+                "startTime": "169.700s",
+                "word": "thank"
+              },
+              {
+                "endTime": "170.600s",
+                "startTime": "170.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "170.800s",
+                "startTime": "170.600s",
+                "word": "so"
+              },
+              {
+                "endTime": "170.900s",
+                "startTime": "170.800s",
+                "word": "very"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "171.060s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89658237,
+            "transcript": " thanks for all the hours of work for the calls for the speeches and appearances for the resources and for the prayers you gave deeply from yourselves and performed magnificently and you inspired us and you humbled us you've been the very best we could have imagined the nation as you know is that a critical point at a time like this we can't risk partisan bickering and political posturing our leaders have to reach",
+            "words": [
+              {
+                "endTime": "176.200s",
+                "startTime": "171s",
+                "word": "thanks"
+              },
+              {
+                "endTime": "176.300s",
+                "startTime": "176.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "176.500s",
+                "startTime": "176.300s",
+                "word": "all"
+              },
+              {
+                "endTime": "176.500s",
+                "startTime": "176.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "176.800s",
+                "startTime": "176.500s",
+                "word": "hours"
+              },
+              {
+                "endTime": "177.100s",
+                "startTime": "176.800s",
+                "word": "of"
+              },
+              {
+                "endTime": "177.200s",
+                "startTime": "177.100s",
+                "word": "work"
+              },
+              {
+                "endTime": "177.500s",
+                "startTime": "177.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "177.600s",
+                "startTime": "177.500s",
+                "word": "the"
+              },
+              {
+                "endTime": "178.200s",
+                "startTime": "177.600s",
+                "word": "calls"
+              },
+              {
+                "endTime": "178.300s",
+                "startTime": "178.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "178.400s",
+                "startTime": "178.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "178.900s",
+                "startTime": "178.400s",
+                "word": "speeches"
+              },
+              {
+                "endTime": "179.100s",
+                "startTime": "178.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "179.600s",
+                "startTime": "179.100s",
+                "word": "appearances"
+              },
+              {
+                "endTime": "180.400s",
+                "startTime": "179.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "180.500s",
+                "startTime": "180.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "181.200s",
+                "startTime": "180.500s",
+                "word": "resources"
+              },
+              {
+                "endTime": "181.600s",
+                "startTime": "181.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "181.700s",
+                "startTime": "181.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "181.800s",
+                "startTime": "181.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "182.300s",
+                "startTime": "181.800s",
+                "word": "prayers"
+              },
+              {
+                "endTime": "182.600s",
+                "startTime": "182.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "182.900s",
+                "startTime": "182.600s",
+                "word": "gave"
+              },
+              {
+                "endTime": "183.300s",
+                "startTime": "182.900s",
+                "word": "deeply"
+              },
+              {
+                "endTime": "184s",
+                "startTime": "183.300s",
+                "word": "from"
+              },
+              {
+                "endTime": "184.600s",
+                "startTime": "184s",
+                "word": "yourselves"
+              },
+              {
+                "endTime": "184.900s",
+                "startTime": "184.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "185.500s",
+                "startTime": "184.900s",
+                "word": "performed"
+              },
+              {
+                "endTime": "186.200s",
+                "startTime": "185.500s",
+                "word": "magnificently"
+              },
+              {
+                "endTime": "187.100s",
+                "startTime": "186.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "187.300s",
+                "startTime": "187.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "187.800s",
+                "startTime": "187.300s",
+                "word": "inspired"
+              },
+              {
+                "endTime": "187.900s",
+                "startTime": "187.800s",
+                "word": "us"
+              },
+              {
+                "endTime": "188.700s",
+                "startTime": "187.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "188.800s",
+                "startTime": "188.700s",
+                "word": "you"
+              },
+              {
+                "endTime": "189.200s",
+                "startTime": "188.800s",
+                "word": "humbled"
+              },
+              {
+                "endTime": "189.200s",
+                "startTime": "189.200s",
+                "word": "us"
+              },
+              {
+                "endTime": "190.100s",
+                "startTime": "189.500s",
+                "word": "you've"
+              },
+              {
+                "endTime": "190.200s",
+                "startTime": "190.100s",
+                "word": "been"
+              },
+              {
+                "endTime": "190.300s",
+                "startTime": "190.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "190.500s",
+                "startTime": "190.300s",
+                "word": "very"
+              },
+              {
+                "endTime": "190.600s",
+                "startTime": "190.500s",
+                "word": "best"
+              },
+              {
+                "endTime": "191s",
+                "startTime": "190.600s",
+                "word": "we"
+              },
+              {
+                "endTime": "191.100s",
+                "startTime": "191s",
+                "word": "could"
+              },
+              {
+                "endTime": "191.200s",
+                "startTime": "191.100s",
+                "word": "have"
+              },
+              {
+                "endTime": "191.700s",
+                "startTime": "191.200s",
+                "word": "imagined"
+              },
+              {
+                "endTime": "192.700s",
+                "startTime": "191.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "193.100s",
+                "startTime": "192.700s",
+                "word": "nation"
+              },
+              {
+                "endTime": "193.100s",
+                "startTime": "193.100s",
+                "word": "as"
+              },
+              {
+                "endTime": "193.200s",
+                "startTime": "193.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "193.400s",
+                "startTime": "193.200s",
+                "word": "know"
+              },
+              {
+                "endTime": "193.600s",
+                "startTime": "193.400s",
+                "word": "is"
+              },
+              {
+                "endTime": "193.600s",
+                "startTime": "193.600s",
+                "word": "that"
+              },
+              {
+                "endTime": "193.800s",
+                "startTime": "193.600s",
+                "word": "a"
+              },
+              {
+                "endTime": "194s",
+                "startTime": "193.800s",
+                "word": "critical"
+              },
+              {
+                "endTime": "194.300s",
+                "startTime": "194s",
+                "word": "point"
+              },
+              {
+                "endTime": "195.400s",
+                "startTime": "194.300s",
+                "word": "at"
+              },
+              {
+                "endTime": "195.500s",
+                "startTime": "195.400s",
+                "word": "a"
+              },
+              {
+                "endTime": "195.500s",
+                "startTime": "195.500s",
+                "word": "time"
+              },
+              {
+                "endTime": "196.100s",
+                "startTime": "195.500s",
+                "word": "like"
+              },
+              {
+                "endTime": "196.200s",
+                "startTime": "196.100s",
+                "word": "this"
+              },
+              {
+                "endTime": "196.500s",
+                "startTime": "196.200s",
+                "word": "we"
+              },
+              {
+                "endTime": "196.800s",
+                "startTime": "196.500s",
+                "word": "can't"
+              },
+              {
+                "endTime": "197s",
+                "startTime": "196.800s",
+                "word": "risk"
+              },
+              {
+                "endTime": "197.700s",
+                "startTime": "197s",
+                "word": "partisan"
+              },
+              {
+                "endTime": "197.900s",
+                "startTime": "197.700s",
+                "word": "bickering"
+              },
+              {
+                "endTime": "198.300s",
+                "startTime": "197.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "198.300s",
+                "startTime": "198.300s",
+                "word": "political"
+              },
+              {
+                "endTime": "199s",
+                "startTime": "198.300s",
+                "word": "posturing"
+              },
+              {
+                "endTime": "200s",
+                "startTime": "199s",
+                "word": "our"
+              },
+              {
+                "endTime": "200.400s",
+                "startTime": "200s",
+                "word": "leaders"
+              },
+              {
+                "endTime": "200.600s",
+                "startTime": "200.400s",
+                "word": "have"
+              },
+              {
+                "endTime": "200.700s",
+                "startTime": "200.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "200.900s",
+                "startTime": "200.700s",
+                "word": "reach"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8870395,
+            "transcript": " thanks for all the hours of work for the calls for the speeches and appearances with the resources and for the prayers you gave deeply from yourselves and performed magnificently and you inspired us and you humbled us you've been the very best we could have imagined the nation as you know is that a critical point at a time like this we can't risk partisan bickering and political posturing our leaders have to reach"
+          },
+          {
+            "confidence": 0.8839738,
+            "transcript": " thanks for all the hours of work for the balls for the speeches and appearances for the resources and for the prayers you gave deeply from yourselves and performed magnificently and you inspired us and you humbled us you've been the very best we could have imagined the nation as you know is that a critical point at a time like this we can't risk partisan bickering and political posturing our leaders have to reach"
+          },
+          {
+            "confidence": 0.8839738,
+            "transcript": " thanks for all the hours of work for the falls for the speeches and appearances for the resources and for the prayers you gave deeply from yourselves and performed magnificently and you inspired us and you humbled us you've been the very best we could have imagined the nation as you know is that a critical point at a time like this we can't risk partisan bickering and political posturing our leaders have to reach"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "201.030s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9057139,
+            "transcript": " across the aisle to do the people's work and we citizens also have to rise to the occasion we look to our teachers and professors we count on you not just to teach but to inspire our children with a passion for Learning and Discovery we look to our pastors and Priests and rabbis and cultures of all kinds to testify of the enduring principles upon which our society is built on honesty charity integrity and family with up to our parents from the final analysis",
+            "words": [
+              {
+                "endTime": "201.400s",
+                "startTime": "201s",
+                "word": "across"
+              },
+              {
+                "endTime": "201.500s",
+                "startTime": "201.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "201.800s",
+                "startTime": "201.500s",
+                "word": "aisle"
+              },
+              {
+                "endTime": "201.900s",
+                "startTime": "201.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "202s",
+                "startTime": "201.900s",
+                "word": "do"
+              },
+              {
+                "endTime": "202.100s",
+                "startTime": "202s",
+                "word": "the"
+              },
+              {
+                "endTime": "202.500s",
+                "startTime": "202.100s",
+                "word": "people's"
+              },
+              {
+                "endTime": "202.500s",
+                "startTime": "202.500s",
+                "word": "work"
+              },
+              {
+                "endTime": "203.500s",
+                "startTime": "202.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "203.700s",
+                "startTime": "203.500s",
+                "word": "we"
+              },
+              {
+                "endTime": "204.200s",
+                "startTime": "203.700s",
+                "word": "citizens"
+              },
+              {
+                "endTime": "204.700s",
+                "startTime": "204.200s",
+                "word": "also"
+              },
+              {
+                "endTime": "205.100s",
+                "startTime": "204.700s",
+                "word": "have"
+              },
+              {
+                "endTime": "205.200s",
+                "startTime": "205.100s",
+                "word": "to"
+              },
+              {
+                "endTime": "205.500s",
+                "startTime": "205.200s",
+                "word": "rise"
+              },
+              {
+                "endTime": "205.600s",
+                "startTime": "205.500s",
+                "word": "to"
+              },
+              {
+                "endTime": "205.700s",
+                "startTime": "205.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "205.800s",
+                "startTime": "205.700s",
+                "word": "occasion"
+              },
+              {
+                "endTime": "207.100s",
+                "startTime": "206.400s",
+                "word": "we"
+              },
+              {
+                "endTime": "207.300s",
+                "startTime": "207.100s",
+                "word": "look"
+              },
+              {
+                "endTime": "207.300s",
+                "startTime": "207.300s",
+                "word": "to"
+              },
+              {
+                "endTime": "207.400s",
+                "startTime": "207.300s",
+                "word": "our"
+              },
+              {
+                "endTime": "208s",
+                "startTime": "207.400s",
+                "word": "teachers"
+              },
+              {
+                "endTime": "208s",
+                "startTime": "208s",
+                "word": "and"
+              },
+              {
+                "endTime": "208.500s",
+                "startTime": "208s",
+                "word": "professors"
+              },
+              {
+                "endTime": "208.800s",
+                "startTime": "208.500s",
+                "word": "we"
+              },
+              {
+                "endTime": "209.200s",
+                "startTime": "208.800s",
+                "word": "count"
+              },
+              {
+                "endTime": "209.200s",
+                "startTime": "209.200s",
+                "word": "on"
+              },
+              {
+                "endTime": "209.400s",
+                "startTime": "209.200s",
+                "word": "you"
+              },
+              {
+                "endTime": "209.500s",
+                "startTime": "209.400s",
+                "word": "not"
+              },
+              {
+                "endTime": "209.800s",
+                "startTime": "209.500s",
+                "word": "just"
+              },
+              {
+                "endTime": "209.800s",
+                "startTime": "209.800s",
+                "word": "to"
+              },
+              {
+                "endTime": "210.100s",
+                "startTime": "209.800s",
+                "word": "teach"
+              },
+              {
+                "endTime": "211s",
+                "startTime": "210.100s",
+                "word": "but"
+              },
+              {
+                "endTime": "211s",
+                "startTime": "211s",
+                "word": "to"
+              },
+              {
+                "endTime": "211.300s",
+                "startTime": "211s",
+                "word": "inspire"
+              },
+              {
+                "endTime": "211.600s",
+                "startTime": "211.300s",
+                "word": "our"
+              },
+              {
+                "endTime": "211.800s",
+                "startTime": "211.600s",
+                "word": "children"
+              },
+              {
+                "endTime": "212.100s",
+                "startTime": "211.800s",
+                "word": "with"
+              },
+              {
+                "endTime": "212.200s",
+                "startTime": "212.100s",
+                "word": "a"
+              },
+              {
+                "endTime": "212.700s",
+                "startTime": "212.200s",
+                "word": "passion"
+              },
+              {
+                "endTime": "212.900s",
+                "startTime": "212.700s",
+                "word": "for"
+              },
+              {
+                "endTime": "213s",
+                "startTime": "212.900s",
+                "word": "Learning"
+              },
+              {
+                "endTime": "213.300s",
+                "startTime": "213s",
+                "word": "and"
+              },
+              {
+                "endTime": "213.800s",
+                "startTime": "213.300s",
+                "word": "Discovery"
+              },
+              {
+                "endTime": "214.800s",
+                "startTime": "213.800s",
+                "word": "we"
+              },
+              {
+                "endTime": "214.900s",
+                "startTime": "214.800s",
+                "word": "look"
+              },
+              {
+                "endTime": "215s",
+                "startTime": "214.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "215.100s",
+                "startTime": "215s",
+                "word": "our"
+              },
+              {
+                "endTime": "215.800s",
+                "startTime": "215.100s",
+                "word": "pastors"
+              },
+              {
+                "endTime": "216s",
+                "startTime": "215.800s",
+                "word": "and"
+              },
+              {
+                "endTime": "216.600s",
+                "startTime": "216s",
+                "word": "Priests"
+              },
+              {
+                "endTime": "216.600s",
+                "startTime": "216.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "216.900s",
+                "startTime": "216.600s",
+                "word": "rabbis"
+              },
+              {
+                "endTime": "217.300s",
+                "startTime": "216.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "217.900s",
+                "startTime": "217.300s",
+                "word": "cultures"
+              },
+              {
+                "endTime": "217.900s",
+                "startTime": "217.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "218.100s",
+                "startTime": "217.900s",
+                "word": "all"
+              },
+              {
+                "endTime": "218.600s",
+                "startTime": "218.100s",
+                "word": "kinds"
+              },
+              {
+                "endTime": "219.200s",
+                "startTime": "218.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "219.700s",
+                "startTime": "219.200s",
+                "word": "testify"
+              },
+              {
+                "endTime": "220.100s",
+                "startTime": "219.700s",
+                "word": "of"
+              },
+              {
+                "endTime": "220.200s",
+                "startTime": "220.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "220.600s",
+                "startTime": "220.200s",
+                "word": "enduring"
+              },
+              {
+                "endTime": "220.800s",
+                "startTime": "220.600s",
+                "word": "principles"
+              },
+              {
+                "endTime": "221.900s",
+                "startTime": "220.800s",
+                "word": "upon"
+              },
+              {
+                "endTime": "222.100s",
+                "startTime": "221.900s",
+                "word": "which"
+              },
+              {
+                "endTime": "222.300s",
+                "startTime": "222.100s",
+                "word": "our"
+              },
+              {
+                "endTime": "222.900s",
+                "startTime": "222.300s",
+                "word": "society"
+              },
+              {
+                "endTime": "223s",
+                "startTime": "222.900s",
+                "word": "is"
+              },
+              {
+                "endTime": "223.100s",
+                "startTime": "223s",
+                "word": "built"
+              },
+              {
+                "endTime": "223.600s",
+                "startTime": "223.100s",
+                "word": "on"
+              },
+              {
+                "endTime": "223.900s",
+                "startTime": "223.600s",
+                "word": "honesty"
+              },
+              {
+                "endTime": "225.400s",
+                "startTime": "223.900s",
+                "word": "charity"
+              },
+              {
+                "endTime": "226.500s",
+                "startTime": "225.400s",
+                "word": "integrity"
+              },
+              {
+                "endTime": "226.600s",
+                "startTime": "226.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "227s",
+                "startTime": "226.600s",
+                "word": "family"
+              },
+              {
+                "endTime": "228s",
+                "startTime": "227s",
+                "word": "with"
+              },
+              {
+                "endTime": "228.100s",
+                "startTime": "228s",
+                "word": "up"
+              },
+              {
+                "endTime": "228.200s",
+                "startTime": "228.100s",
+                "word": "to"
+              },
+              {
+                "endTime": "228.400s",
+                "startTime": "228.200s",
+                "word": "our"
+              },
+              {
+                "endTime": "228.700s",
+                "startTime": "228.400s",
+                "word": "parents"
+              },
+              {
+                "endTime": "229.900s",
+                "startTime": "228.700s",
+                "word": "from"
+              },
+              {
+                "endTime": "230.100s",
+                "startTime": "229.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "230.300s",
+                "startTime": "230.100s",
+                "word": "final"
+              },
+              {
+                "endTime": "230.500s",
+                "startTime": "230.300s",
+                "word": "analysis"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "231.040s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8244385,
+            "transcript": " the depends on the success of our homes we look to job creators of all kinds we're counting on you to invest to hire the step forward and we look to Democrats and Republicans and government at all levels to put the people before the politics I believe in America I believe in the people of America",
+            "words": [
+              {
+                "endTime": "231.200s",
+                "startTime": "231.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "231.700s",
+                "startTime": "231.200s",
+                "word": "depends"
+              },
+              {
+                "endTime": "231.800s",
+                "startTime": "231.700s",
+                "word": "on"
+              },
+              {
+                "endTime": "231.900s",
+                "startTime": "231.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "232.500s",
+                "startTime": "231.900s",
+                "word": "success"
+              },
+              {
+                "endTime": "233.100s",
+                "startTime": "233s",
+                "word": "of"
+              },
+              {
+                "endTime": "233.200s",
+                "startTime": "233.100s",
+                "word": "our"
+              },
+              {
+                "endTime": "233.800s",
+                "startTime": "233.200s",
+                "word": "homes"
+              },
+              {
+                "endTime": "234.800s",
+                "startTime": "234.600s",
+                "word": "we"
+              },
+              {
+                "endTime": "234.900s",
+                "startTime": "234.800s",
+                "word": "look"
+              },
+              {
+                "endTime": "235.100s",
+                "startTime": "234.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "235.500s",
+                "startTime": "235.100s",
+                "word": "job"
+              },
+              {
+                "endTime": "236s",
+                "startTime": "235.500s",
+                "word": "creators"
+              },
+              {
+                "endTime": "236.100s",
+                "startTime": "236s",
+                "word": "of"
+              },
+              {
+                "endTime": "236.300s",
+                "startTime": "236.100s",
+                "word": "all"
+              },
+              {
+                "endTime": "237s",
+                "startTime": "236.300s",
+                "word": "kinds"
+              },
+              {
+                "endTime": "237.600s",
+                "startTime": "237.500s",
+                "word": "we're"
+              },
+              {
+                "endTime": "238.100s",
+                "startTime": "237.600s",
+                "word": "counting"
+              },
+              {
+                "endTime": "238.200s",
+                "startTime": "238.100s",
+                "word": "on"
+              },
+              {
+                "endTime": "238.400s",
+                "startTime": "238.200s",
+                "word": "you"
+              },
+              {
+                "endTime": "238.500s",
+                "startTime": "238.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "239.300s",
+                "startTime": "238.500s",
+                "word": "invest"
+              },
+              {
+                "endTime": "239.600s",
+                "startTime": "239.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "240.200s",
+                "startTime": "239.600s",
+                "word": "hire"
+              },
+              {
+                "endTime": "240.700s",
+                "startTime": "240.600s",
+                "word": "the"
+              },
+              {
+                "endTime": "241s",
+                "startTime": "240.700s",
+                "word": "step"
+              },
+              {
+                "endTime": "241.600s",
+                "startTime": "241s",
+                "word": "forward"
+              },
+              {
+                "endTime": "242.200s",
+                "startTime": "242.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "242.300s",
+                "startTime": "242.200s",
+                "word": "we"
+              },
+              {
+                "endTime": "242.400s",
+                "startTime": "242.300s",
+                "word": "look"
+              },
+              {
+                "endTime": "242.500s",
+                "startTime": "242.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "243.100s",
+                "startTime": "242.500s",
+                "word": "Democrats"
+              },
+              {
+                "endTime": "243.200s",
+                "startTime": "243.100s",
+                "word": "and"
+              },
+              {
+                "endTime": "243.900s",
+                "startTime": "243.200s",
+                "word": "Republicans"
+              },
+              {
+                "endTime": "244.100s",
+                "startTime": "243.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "244.500s",
+                "startTime": "244.100s",
+                "word": "government"
+              },
+              {
+                "endTime": "244.600s",
+                "startTime": "244.500s",
+                "word": "at"
+              },
+              {
+                "endTime": "244.800s",
+                "startTime": "244.600s",
+                "word": "all"
+              },
+              {
+                "endTime": "245.400s",
+                "startTime": "244.800s",
+                "word": "levels"
+              },
+              {
+                "endTime": "245.500s",
+                "startTime": "245.400s",
+                "word": "to"
+              },
+              {
+                "endTime": "245.700s",
+                "startTime": "245.500s",
+                "word": "put"
+              },
+              {
+                "endTime": "245.800s",
+                "startTime": "245.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "246.400s",
+                "startTime": "245.800s",
+                "word": "people"
+              },
+              {
+                "endTime": "246.900s",
+                "startTime": "246.700s",
+                "word": "before"
+              },
+              {
+                "endTime": "247s",
+                "startTime": "246.900s",
+                "word": "the"
+              },
+              {
+                "endTime": "247.800s",
+                "startTime": "247s",
+                "word": "politics"
+              },
+              {
+                "endTime": "248.900s",
+                "startTime": "248.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "249.200s",
+                "startTime": "248.900s",
+                "word": "believe"
+              },
+              {
+                "endTime": "249.300s",
+                "startTime": "249.200s",
+                "word": "in"
+              },
+              {
+                "endTime": "250s",
+                "startTime": "249.300s",
+                "word": "America"
+              },
+              {
+                "endTime": "250.800s",
+                "startTime": "250.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "251.100s",
+                "startTime": "250.800s",
+                "word": "believe"
+              },
+              {
+                "endTime": "251.100s",
+                "startTime": "251.100s",
+                "word": "in"
+              },
+              {
+                "endTime": "251.200s",
+                "startTime": "251.100s",
+                "word": "the"
+              },
+              {
+                "endTime": "251.600s",
+                "startTime": "251.200s",
+                "word": "people"
+              },
+              {
+                "endTime": "251.700s",
+                "startTime": "251.600s",
+                "word": "of"
+              },
+              {
+                "endTime": "252.200s",
+                "startTime": "251.700s",
+                "word": "America"
+              }
+            ]
+          },
+          {
+            "confidence": 0.6825754,
+            "transcript": " rather depends on the success of our homes we look to job creators of all kinds we're counting on you to invest to hire the step forward and we look to Democrats and Republicans and government at all levels to put the people before the politics I believe in America I believe in the people of America"
+          },
+          {
+            "confidence": 0.6847192,
+            "transcript": " that depends on the success of our homes we look to job creators of all kinds we're counting on you to invest to hire the step forward and we look to Democrats and Republicans and government at all levels to put the people before the politics I believe in America I believe in the people of America"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "253.120s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8598052,
+            "transcript": " and I ran for office because I'm concerned about America this election is over but our principles in door I believe that the principles upon which this nation was founded are the",
+            "words": [
+              {
+                "endTime": "275.800s",
+                "startTime": "275.600s",
+                "word": "and"
+              },
+              {
+                "endTime": "275.900s",
+                "startTime": "275.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "276.200s",
+                "startTime": "275.900s",
+                "word": "ran"
+              },
+              {
+                "endTime": "276.400s",
+                "startTime": "276.200s",
+                "word": "for"
+              },
+              {
+                "endTime": "276.800s",
+                "startTime": "276.400s",
+                "word": "office"
+              },
+              {
+                "endTime": "277.100s",
+                "startTime": "276.800s",
+                "word": "because"
+              },
+              {
+                "endTime": "277.200s",
+                "startTime": "277.100s",
+                "word": "I'm"
+              },
+              {
+                "endTime": "277.800s",
+                "startTime": "277.200s",
+                "word": "concerned"
+              },
+              {
+                "endTime": "278s",
+                "startTime": "277.800s",
+                "word": "about"
+              },
+              {
+                "endTime": "278.700s",
+                "startTime": "278s",
+                "word": "America"
+              },
+              {
+                "endTime": "279.500s",
+                "startTime": "279.200s",
+                "word": "this"
+              },
+              {
+                "endTime": "279.900s",
+                "startTime": "279.500s",
+                "word": "election"
+              },
+              {
+                "endTime": "280.100s",
+                "startTime": "279.900s",
+                "word": "is"
+              },
+              {
+                "endTime": "280.200s",
+                "startTime": "280.100s",
+                "word": "over"
+              },
+              {
+                "endTime": "281.700s",
+                "startTime": "280.200s",
+                "word": "but"
+              },
+              {
+                "endTime": "281.800s",
+                "startTime": "281.700s",
+                "word": "our"
+              },
+              {
+                "endTime": "282.300s",
+                "startTime": "281.800s",
+                "word": "principles"
+              },
+              {
+                "endTime": "282.500s",
+                "startTime": "282.300s",
+                "word": "in"
+              },
+              {
+                "endTime": "282.800s",
+                "startTime": "282.500s",
+                "word": "door"
+              },
+              {
+                "endTime": "283.700s",
+                "startTime": "282.800s",
+                "word": "I"
+              },
+              {
+                "endTime": "283.900s",
+                "startTime": "283.700s",
+                "word": "believe"
+              },
+              {
+                "endTime": "284.200s",
+                "startTime": "283.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "284.300s",
+                "startTime": "284.200s",
+                "word": "the"
+              },
+              {
+                "endTime": "284.800s",
+                "startTime": "284.300s",
+                "word": "principles"
+              },
+              {
+                "endTime": "285s",
+                "startTime": "284.800s",
+                "word": "upon"
+              },
+              {
+                "endTime": "285.200s",
+                "startTime": "285s",
+                "word": "which"
+              },
+              {
+                "endTime": "285.400s",
+                "startTime": "285.200s",
+                "word": "this"
+              },
+              {
+                "endTime": "285.600s",
+                "startTime": "285.400s",
+                "word": "nation"
+              },
+              {
+                "endTime": "286s",
+                "startTime": "285.600s",
+                "word": "was"
+              },
+              {
+                "endTime": "286.200s",
+                "startTime": "286s",
+                "word": "founded"
+              },
+              {
+                "endTime": "287.200s",
+                "startTime": "286.200s",
+                "word": "are"
+              },
+              {
+                "endTime": "287.300s",
+                "startTime": "287.200s",
+                "word": "the"
+              }
+            ]
+          },
+          {
+            "confidence": 0.8460505,
+            "transcript": " and I ran for office because I'm concerned about America this election is over but our principles and or I believe that the principles upon which this nation was founded are the"
+          },
+          {
+            "confidence": 0.82890624,
+            "transcript": " and I ran for office because I'm concerned about America this election is over but our principles and or I believe that the principles upon which this nation was founded our the"
+          },
+          {
+            "confidence": 0.85958546,
+            "transcript": " and I ran for office because I'm concerned about America this election is over but our principles in door I believe that the principles upon which this nation was founded our the"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "287.460s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8619321,
+            "transcript": " only short guide to a resurgent economy and renewed greatness like so many of you Paul and I have left everything on the field we have given our all to this campaign I so wish I so wish that I had been able to fulfill your hopes to lead the country in a different direction but the nation chose and other leader and so and I join with you",
+            "words": [
+              {
+                "endTime": "287.800s",
+                "startTime": "287.500s",
+                "word": "only"
+              },
+              {
+                "endTime": "288.200s",
+                "startTime": "287.800s",
+                "word": "short"
+              },
+              {
+                "endTime": "288.600s",
+                "startTime": "288.200s",
+                "word": "guide"
+              },
+              {
+                "endTime": "288.800s",
+                "startTime": "288.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "288.800s",
+                "startTime": "288.800s",
+                "word": "a"
+              },
+              {
+                "endTime": "289.300s",
+                "startTime": "288.800s",
+                "word": "resurgent"
+              },
+              {
+                "endTime": "290s",
+                "startTime": "289.300s",
+                "word": "economy"
+              },
+              {
+                "endTime": "290.600s",
+                "startTime": "290.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "290.900s",
+                "startTime": "290.600s",
+                "word": "renewed"
+              },
+              {
+                "endTime": "291.500s",
+                "startTime": "290.900s",
+                "word": "greatness"
+              },
+              {
+                "endTime": "292.600s",
+                "startTime": "291.600s",
+                "word": "like"
+              },
+              {
+                "endTime": "292.800s",
+                "startTime": "292.600s",
+                "word": "so"
+              },
+              {
+                "endTime": "292.900s",
+                "startTime": "292.800s",
+                "word": "many"
+              },
+              {
+                "endTime": "293.100s",
+                "startTime": "292.900s",
+                "word": "of"
+              },
+              {
+                "endTime": "293.300s",
+                "startTime": "293.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "294.300s",
+                "startTime": "293.500s",
+                "word": "Paul"
+              },
+              {
+                "endTime": "294.500s",
+                "startTime": "294.300s",
+                "word": "and"
+              },
+              {
+                "endTime": "294.600s",
+                "startTime": "294.500s",
+                "word": "I"
+              },
+              {
+                "endTime": "294.700s",
+                "startTime": "294.600s",
+                "word": "have"
+              },
+              {
+                "endTime": "295.100s",
+                "startTime": "294.700s",
+                "word": "left"
+              },
+              {
+                "endTime": "295.400s",
+                "startTime": "295.100s",
+                "word": "everything"
+              },
+              {
+                "endTime": "295.800s",
+                "startTime": "295.400s",
+                "word": "on"
+              },
+              {
+                "endTime": "295.900s",
+                "startTime": "295.800s",
+                "word": "the"
+              },
+              {
+                "endTime": "296s",
+                "startTime": "295.900s",
+                "word": "field"
+              },
+              {
+                "endTime": "296.700s",
+                "startTime": "296.600s",
+                "word": "we"
+              },
+              {
+                "endTime": "297s",
+                "startTime": "296.700s",
+                "word": "have"
+              },
+              {
+                "endTime": "297.200s",
+                "startTime": "297s",
+                "word": "given"
+              },
+              {
+                "endTime": "297.400s",
+                "startTime": "297.200s",
+                "word": "our"
+              },
+              {
+                "endTime": "297.900s",
+                "startTime": "297.400s",
+                "word": "all"
+              },
+              {
+                "endTime": "298.100s",
+                "startTime": "297.900s",
+                "word": "to"
+              },
+              {
+                "endTime": "298.200s",
+                "startTime": "298.100s",
+                "word": "this"
+              },
+              {
+                "endTime": "298.700s",
+                "startTime": "298.200s",
+                "word": "campaign"
+              },
+              {
+                "endTime": "305.900s",
+                "startTime": "299.100s",
+                "word": "I"
+              },
+              {
+                "endTime": "306.400s",
+                "startTime": "305.900s",
+                "word": "so"
+              },
+              {
+                "endTime": "306.700s",
+                "startTime": "306.400s",
+                "word": "wish"
+              },
+              {
+                "endTime": "308.100s",
+                "startTime": "306.700s",
+                "word": "I"
+              },
+              {
+                "endTime": "308.500s",
+                "startTime": "308.100s",
+                "word": "so"
+              },
+              {
+                "endTime": "308.900s",
+                "startTime": "308.500s",
+                "word": "wish"
+              },
+              {
+                "endTime": "309s",
+                "startTime": "308.900s",
+                "word": "that"
+              },
+              {
+                "endTime": "309.200s",
+                "startTime": "309s",
+                "word": "I"
+              },
+              {
+                "endTime": "309.300s",
+                "startTime": "309.200s",
+                "word": "had"
+              },
+              {
+                "endTime": "309.500s",
+                "startTime": "309.300s",
+                "word": "been"
+              },
+              {
+                "endTime": "309.700s",
+                "startTime": "309.500s",
+                "word": "able"
+              },
+              {
+                "endTime": "309.800s",
+                "startTime": "309.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "310.100s",
+                "startTime": "309.800s",
+                "word": "fulfill"
+              },
+              {
+                "endTime": "310.400s",
+                "startTime": "310.100s",
+                "word": "your"
+              },
+              {
+                "endTime": "310.600s",
+                "startTime": "310.400s",
+                "word": "hopes"
+              },
+              {
+                "endTime": "311s",
+                "startTime": "310.600s",
+                "word": "to"
+              },
+              {
+                "endTime": "311.300s",
+                "startTime": "311s",
+                "word": "lead"
+              },
+              {
+                "endTime": "311.400s",
+                "startTime": "311.300s",
+                "word": "the"
+              },
+              {
+                "endTime": "311.600s",
+                "startTime": "311.400s",
+                "word": "country"
+              },
+              {
+                "endTime": "311.900s",
+                "startTime": "311.600s",
+                "word": "in"
+              },
+              {
+                "endTime": "312s",
+                "startTime": "311.900s",
+                "word": "a"
+              },
+              {
+                "endTime": "312.100s",
+                "startTime": "312s",
+                "word": "different"
+              },
+              {
+                "endTime": "312.400s",
+                "startTime": "312.100s",
+                "word": "direction"
+              },
+              {
+                "endTime": "313.400s",
+                "startTime": "312.400s",
+                "word": "but"
+              },
+              {
+                "endTime": "313.600s",
+                "startTime": "313.400s",
+                "word": "the"
+              },
+              {
+                "endTime": "314s",
+                "startTime": "313.600s",
+                "word": "nation"
+              },
+              {
+                "endTime": "314.200s",
+                "startTime": "314s",
+                "word": "chose"
+              },
+              {
+                "endTime": "314.600s",
+                "startTime": "314.200s",
+                "word": "and"
+              },
+              {
+                "endTime": "314.700s",
+                "startTime": "314.600s",
+                "word": "other"
+              },
+              {
+                "endTime": "315s",
+                "startTime": "314.700s",
+                "word": "leader"
+              },
+              {
+                "endTime": "315.700s",
+                "startTime": "315s",
+                "word": "and"
+              },
+              {
+                "endTime": "315.900s",
+                "startTime": "315.700s",
+                "word": "so"
+              },
+              {
+                "endTime": "316.100s",
+                "startTime": "315.900s",
+                "word": "and"
+              },
+              {
+                "endTime": "316.300s",
+                "startTime": "316.100s",
+                "word": "I"
+              },
+              {
+                "endTime": "316.800s",
+                "startTime": "316.300s",
+                "word": "join"
+              },
+              {
+                "endTime": "316.900s",
+                "startTime": "316.800s",
+                "word": "with"
+              },
+              {
+                "endTime": "317.200s",
+                "startTime": "316.900s",
+                "word": "you"
+              }
+            ]
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "317.430s"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.77183354,
+            "transcript": " you to earnestly pray for him and for this great nation thank you and God bless America you guys are the best thank you so much thank you thanks guys",
+            "words": [
+              {
+                "endTime": "317.500s",
+                "startTime": "317.400s",
+                "word": "you"
+              },
+              {
+                "endTime": "317.900s",
+                "startTime": "317.700s",
+                "word": "to"
+              },
+              {
+                "endTime": "318.300s",
+                "startTime": "317.900s",
+                "word": "earnestly"
+              },
+              {
+                "endTime": "318.600s",
+                "startTime": "318.300s",
+                "word": "pray"
+              },
+              {
+                "endTime": "318.800s",
+                "startTime": "318.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "319.300s",
+                "startTime": "318.800s",
+                "word": "him"
+              },
+              {
+                "endTime": "319.600s",
+                "startTime": "319.500s",
+                "word": "and"
+              },
+              {
+                "endTime": "319.800s",
+                "startTime": "319.600s",
+                "word": "for"
+              },
+              {
+                "endTime": "319.900s",
+                "startTime": "319.800s",
+                "word": "this"
+              },
+              {
+                "endTime": "320.200s",
+                "startTime": "319.900s",
+                "word": "great"
+              },
+              {
+                "endTime": "320.700s",
+                "startTime": "320.200s",
+                "word": "nation"
+              },
+              {
+                "endTime": "321.300s",
+                "startTime": "321s",
+                "word": "thank"
+              },
+              {
+                "endTime": "321.400s",
+                "startTime": "321.300s",
+                "word": "you"
+              },
+              {
+                "endTime": "321.600s",
+                "startTime": "321.400s",
+                "word": "and"
+              },
+              {
+                "endTime": "321.900s",
+                "startTime": "321.600s",
+                "word": "God"
+              },
+              {
+                "endTime": "322.200s",
+                "startTime": "321.900s",
+                "word": "bless"
+              },
+              {
+                "endTime": "322.900s",
+                "startTime": "322.200s",
+                "word": "America"
+              },
+              {
+                "endTime": "323.300s",
+                "startTime": "323.200s",
+                "word": "you"
+              },
+              {
+                "endTime": "323.600s",
+                "startTime": "323.300s",
+                "word": "guys"
+              },
+              {
+                "endTime": "323.700s",
+                "startTime": "323.600s",
+                "word": "are"
+              },
+              {
+                "endTime": "323.800s",
+                "startTime": "323.700s",
+                "word": "the"
+              },
+              {
+                "endTime": "324.200s",
+                "startTime": "323.800s",
+                "word": "best"
+              },
+              {
+                "endTime": "325.100s",
+                "startTime": "324.200s",
+                "word": "thank"
+              },
+              {
+                "endTime": "325.200s",
+                "startTime": "325.100s",
+                "word": "you"
+              },
+              {
+                "endTime": "325.400s",
+                "startTime": "325.200s",
+                "word": "so"
+              },
+              {
+                "endTime": "325.400s",
+                "startTime": "325.400s",
+                "word": "much"
+              },
+              {
+                "endTime": "327.500s",
+                "startTime": "325.600s",
+                "word": "thank"
+              },
+              {
+                "endTime": "327.600s",
+                "startTime": "327.500s",
+                "word": "you"
+              },
+              {
+                "endTime": "328.600s",
+                "startTime": "327.600s",
+                "word": "thanks"
+              },
+              {
+                "endTime": "329.200s",
+                "startTime": "328.600s",
+                "word": "guys"
+              }
+            ]
+          },
+          {
+            "confidence": 0.7193662,
+            "transcript": " U to earnestly pray for him and for this great nation thank you and God bless America you guys are the best thank you so much thank you thanks guys"
+          },
+          {
+            "confidence": 0.7426708,
+            "transcript": " you to earnestly pray for him and for this great nation thank you and God bless America guys thank you so much thank you thanks guys"
+          }
+        ],
+        "languageCode": "en-us",
+        "resultEndTime": "329.950s"
+      }
+    ],
+    "totalBilledTime": "330s"
+  }
+}
